@@ -1,4 +1,4 @@
-Java
+
 /**
  * Card.java
  * Immutable and inherently thread-safe representation of a card in the simulation.
