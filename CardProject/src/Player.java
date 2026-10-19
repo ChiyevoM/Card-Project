@@ -15,12 +15,17 @@ import java.util.concurrent.atomic.AtomicInteger;
  * Thread-safe representation of a player in the card game simulation.
  * Implements Runnable and FIFO non-preferred discard strategy to prevent stagnation.
  */
-public class Player {
+public class Player implements Runnable {
+
     private final int playerId;
     private final CardDeck leftDeck;
     private final CardDeck rightDeck;
     private final LinkedList<Card> hand = new LinkedList<>();
     private final List<String> logHistory = new ArrayList<>();
+
+    // Shared thread-safe game state tracking across all player instances
+    private static final AtomicBoolean gameWon = new AtomicBoolean(false);
+    private static final AtomicInteger winningPlayerId = new AtomicInteger(-1);
 
     public Player(int playerId, CardDeck leftDeck, CardDeck rightDeck, AtomicInteger sharedWinner) {
         if (playerId <= 0) {
@@ -30,6 +35,14 @@ public class Player {
         this.leftDeck = leftDeck;
         this.rightDeck = rightDeck;
         this.sharedWinner = sharedWinner;
+    }
+
+    /**
+     * Resets shared game victory state before starting a new game session.
+     */
+    public static void resetGameWon() {
+        gameWon.set(false);
+        winningPlayerId.set(-1);
     }
 
     public int getPlayerId() {
@@ -168,26 +181,5 @@ public class Player {
         } catch (IOException e) {
             System.err.println("Error writing output file for player " + playerId + ": " + e.getMessage());
         }
-    }
-    @Override
-    public void run() {
-        // 1. Check if they won on the initial round-robin deal
-        if (hasWinningHand()) {
-            sharedWinner.compareAndSet(0, playerId);
-        }
-
-        // 2. Keep taking turns as long as no one has claimed victory
-        while (sharedWinner.get() == 0) {
-            boolean wonThisTurn = takeAtomicTurn();
-            if (wonThisTurn) {
-                // Safely lock in the win so no one else can overwrite it
-                sharedWinner.compareAndSet(0, playerId);
-            }
-            // Yield briefly so the CPU doesn't starve other threads
-            Thread.yield();
-        }
-
-        // 3. The loop broke, meaning the game is over. Write the logs.
-        writePlayerOutputFile(sharedWinner.get());
     }
 }

@@ -5,12 +5,11 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+import java.util.concurrent.atomic.AtomicInteger; // 1. Added Import
 
 /**
  * CardGame.java
  * Main entry point and controller for the card game simulation.
- * Handles CLI input validation, pack file parsing, round-robin dealing,
- * setting up the ring topology, and launching concurrent player threads.
  */
 public class CardGame {
 
@@ -18,6 +17,7 @@ public class CardGame {
     private final List<Card> pack;
     private final List<Player> players;
     private final List<CardDeck> decks;
+    private final AtomicInteger sharedWinner; // 2. Added Shared Variable
 
     public CardGame(int numPlayers, String packFilePath) throws IOException, IllegalArgumentException {
         if (numPlayers <= 0) {
@@ -27,14 +27,9 @@ public class CardGame {
         this.pack = loadAndValidatePack(packFilePath, numPlayers);
         this.players = new ArrayList<>();
         this.decks = new ArrayList<>();
+        this.sharedWinner = new AtomicInteger(0); // 3. Initialized to 0
     }
 
-    /**
-     * Loads and validates the card pack file against specification rules:
-     * 1. Must exist and be readable.
-     * 2. Must contain exactly 8n integers (where n = numPlayers).
-     * 3. All integer values must be non-negative.
-     */
     public static List<Card> loadAndValidatePack(String filePath, int n) throws IOException, IllegalArgumentException {
         File file = new File(filePath);
         if (!file.exists() || !file.isFile()) {
@@ -71,25 +66,18 @@ public class CardGame {
         return loadedCards;
     }
 
-    /**
-     * Instantiates Decks and Players, establishes Ring Topology,
-     * and performs Round-Robin dealing to hands and decks.
-     */
     public void setupGame() {
-        // 1. Instantiate N Decks
         for (int i = 1; i <= numPlayers; i++) {
             decks.add(new CardDeck(i));
         }
 
-        // 2. Instantiate N Players in Ring Topology
-        // Player i draws from Deck i (left) and discards to Deck i+1 (right, wrapping around)
         for (int i = 1; i <= numPlayers; i++) {
             CardDeck leftDeck = decks.get(i - 1);
             CardDeck rightDeck = decks.get(i % numPlayers);
-            players.add(new Player(i, leftDeck, rightDeck));
+            // 4. Passed sharedWinner into the Player constructor
+            players.add(new Player(i, leftDeck, rightDeck, sharedWinner)); 
         }
-
-        // 3. Round-Robin deal 4 cards to each player
+        
         int cardIndex = 0;
         for (int round = 0; round < 4; round++) {
             for (Player player : players) {
@@ -97,7 +85,6 @@ public class CardGame {
             }
         }
 
-        // 4. Round-Robin deal remaining 4n cards to decks
         while (cardIndex < pack.size()) {
             for (CardDeck deck : decks) {
                 if (cardIndex < pack.size()) {
@@ -107,9 +94,6 @@ public class CardGame {
         }
     }
 
-    /**
-     * Starts all player threads concurrently and waits for the simulation to finish.
-     */
     public void startGame() {
         List<Thread> threads = new ArrayList<>();
         for (Player player : players) {
@@ -118,7 +102,6 @@ public class CardGame {
             t.start();
         }
 
-        // Block until all player threads terminate
         for (Thread t : threads) {
             try {
                 t.join();
@@ -127,10 +110,12 @@ public class CardGame {
             }
         }
 
-        // Write deck log files upon completion
         for (CardDeck deck : decks) {
-            deck.writeDeckLog();
+            deck.writeDeckLog(); // Using Partner A's log method name
         }
+        
+        // 5. Added the final win announcement
+        System.out.println("Game over. Player " + sharedWinner.get() + " wins!");
     }
 
     public List<Player> getPlayers() {
@@ -141,10 +126,6 @@ public class CardGame {
         return decks;
     }
 
-    /**
-     * Interactive CLI input gathering when non-command-line arguments are given.
-     * Uses try-with-resources to ensure zero Scanner resource leaks.
-     */
     public static void main(String[] args) {
         int n = 0;
         String filePath = "";
@@ -158,7 +139,6 @@ public class CardGame {
                 return;
             }
         } else {
-            // Scanner wrapped in try-with-resources to eliminate resource leaks
             try (Scanner scanner = new Scanner(System.in)) {
                 while (n <= 0) {
                     System.out.print("Please enter the number of players: ");
@@ -169,7 +149,7 @@ public class CardGame {
                         }
                     } else {
                         System.out.println("Invalid input. Please enter a valid integer.");
-                        scanner.next(); // Clear invalid token
+                        scanner.next(); 
                     }
                 }
 
@@ -179,7 +159,7 @@ public class CardGame {
         }
 
         try {
-            Player.resetGameWon();
+            // Note: I removed Player.resetGameWon() here because we are using AtomicInteger now instead!
             CardGame game = new CardGame(n, filePath);
             game.setupGame();
             System.out.println("Game setup successful. Starting multithreaded simulation...");
