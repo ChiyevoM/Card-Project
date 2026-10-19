@@ -4,6 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
+import java.time.Duration;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 public class CardDeckTest {
@@ -66,5 +67,54 @@ public class CardDeckTest {
         assertEquals("deck2 contents: 1 3 3 7", content);
 
         file.delete(); // Clean up test file
+    }
+
+    // ==========================================
+    // SESSION 5: Timed-Wait Concurrency Tests
+    // ==========================================
+
+    @Test
+    public void testTimedWaitPreventsDeadlockWhenEmpty() {
+        CardDeck deck = new CardDeck(1);
+        AtomicBoolean gameWon = new AtomicBoolean(false);
+
+        // Verify drawing from an empty deck with timed wait unblocks when gameWon triggers
+        assertTimeoutPreemptively(Duration.ofSeconds(2), () -> {
+            Thread worker = new Thread(() -> {
+                deck.drawCard(gameWon);
+            });
+            worker.start();
+
+            // Allow worker thread to enter wait(10) loop on empty deck
+            Thread.sleep(50);
+
+            // Signal game victory from main thread
+            gameWon.set(true);
+
+            // Worker thread MUST exit timed-wait loop and terminate without deadlocking
+            worker.join(1000);
+            assertFalse(worker.isAlive(), "Worker thread must exit wait loop after gameWon flag is set");
+        }, "Timed-wait failed - worker thread deadlocked on empty deck!");
+    }
+
+    @Test
+    public void testConcurrentAddAndDrawUnblocksThread() {
+        CardDeck deck = new CardDeck(1);
+        AtomicBoolean gameWon = new AtomicBoolean(false);
+
+        assertTimeoutPreemptively(Duration.ofSeconds(2), () -> {
+            Thread consumer = new Thread(() -> {
+                Card drawn = deck.drawCard(gameWon);
+                assertNotNull(drawn, "Consumer thread should receive the card added by producer");
+                assertEquals(5, drawn.getValue());
+            });
+            consumer.start();
+
+            Thread.sleep(50); // Ensure consumer is waiting on empty deck
+            deck.addCard(new Card(5)); // Producer adds card and triggers notifyAll()
+
+            consumer.join(1000);
+            assertFalse(consumer.isAlive(), "Consumer thread should finish cleanly after receiving card");
+        });
     }
 }
