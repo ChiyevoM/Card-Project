@@ -4,19 +4,26 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.concurrent.atomic.AtomicBoolean;
+import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
 
 /**
  * Player.java
  * Thread-safe representation of a player in the card game simulation.
- * Implements FIFO non-preferred discard strategy to prevent stagnation.
+ * Implements Runnable and FIFO non-preferred discard strategy to prevent stagnation.
  */
-public class Player {
+public class Player implements Runnable {
+
     private final int playerId;
     private final CardDeck leftDeck;
     private final CardDeck rightDeck;
     private final LinkedList<Card> hand = new LinkedList<>();
     private final List<String> logHistory = new ArrayList<>();
+
+    // Shared thread-safe game state tracking across all player instances
+    private static final AtomicBoolean gameWon = new AtomicBoolean(false);
+    private static final AtomicInteger winningPlayerId = new AtomicInteger(-1);
 
     public Player(int playerId, CardDeck leftDeck, CardDeck rightDeck) {
         if (playerId <= 0) {
@@ -25,6 +32,14 @@ public class Player {
         this.playerId = playerId;
         this.leftDeck = leftDeck;
         this.rightDeck = rightDeck;
+    }
+
+    /**
+     * Resets shared game victory state before starting a new game session.
+     */
+    public static void resetGameWon() {
+        gameWon.set(false);
+        winningPlayerId.set(-1);
     }
 
     public int getPlayerId() {
@@ -36,7 +51,7 @@ public class Player {
     }
 
     /**
-     * Adds a card to the player's hand during the initial round-robin deal.
+     * Adds a card to the player's hand during initial round-robin dealing.
      */
     public synchronized void receiveInitialCard(Card card) {
         hand.addLast(card);
@@ -66,9 +81,7 @@ public class Player {
     }
 
     /**
-     * Chooses and removes a non-preferred card from the hand.
-     * Drawn cards are added to the back (addLast) and we scan from the front (index 0),
-     * ensuring non-preferred cards rotate out in strict FIFO order and never stagnate.
+     * Chooses and removes a non-preferred card from the hand in strict FIFO order.
      */
     public synchronized Card selectCardToDiscard() {
         for (int i = 0; i < hand.size(); i++) {
@@ -80,31 +93,59 @@ public class Player {
     }
 
     /**
-     * Executes a single atomic draw-and-discard turn.
-     * NOTE: Make sure leftDeck.drawCard() and rightDeck.addCard() match Partner A's CardDeck method names!
+     * Thread execution loop for player turn management.
      */
-    public synchronized boolean takeAtomicTurn() {
-        Card drawnCard = leftDeck.drawCard();
-        if (drawnCard == null) {
-            return false;
+    @Override
+    public void run() {
+        logInitialHand();
+
+        // Check for immediate win from initial dealing
+        if (hasWinningHand()) {
+            if (gameWon.compareAndSet(false, true)) {
+                winningPlayerId.set(playerId);
+                System.out.println("player " + playerId + " wins");
+                logHistory.add("player " + playerId + " wins");
+            }
         }
 
-        hand.addLast(drawnCard);
-        logHistory.add("player " + playerId + " draws a " + drawnCard.getValue()
-                + " from deck " + leftDeck.getDeckId());
+        // Action loop: runs until any player thread sets gameWon to true
+        while (!gameWon.get()) {
+            Card drawnCard = leftDeck.drawCard();
+            if (drawnCard == null) {
+                // Yield to allow other threads to populate deck or process win state
+                Thread.yield();
+                continue;
+            }
 
-        Card discardedCard = selectCardToDiscard();
-        rightDeck.addCard(discardedCard);
-        logHistory.add("player " + playerId + " discards a " + discardedCard.getValue()
-                + " to deck " + rightDeck.getDeckId());
+            synchronized (this) {
+                hand.addLast(drawnCard);
+                logHistory.add("player " + playerId + " draws a " + drawnCard.getValue()
+                        + " from deck " + leftDeck.getDeckId());
 
-        logHistory.add("player " + playerId + " current hand is " + formatHand());
+                Card discardedCard = selectCardToDiscard();
+                rightDeck.addCard(discardedCard);
+                logHistory.add("player " + playerId + " discards a " + discardedCard.getValue()
+                        + " to deck " + rightDeck.getDeckId());
 
-        return hasWinningHand();
+                logHistory.add("player " + playerId + " current hand is " + formatHand());
+
+                if (hasWinningHand()) {
+                    if (gameWon.compareAndSet(false, true)) {
+                        winningPlayerId.set(playerId);
+                        System.out.println("player " + playerId + " wins");
+                        logHistory.add("player " + playerId + " wins");
+                    }
+                    break;
+                }
+            }
+        }
+
+        // Finalize logs and write output file upon game conclusion
+        writePlayerOutputFile();
     }
 
     /**
-     * Formats the current hand as space-separated integers (e.g., "1 1 2 4").
+     * Formats the current hand as space-separated integers.
      */
     public synchronized String formatHand() {
         return hand.stream()
@@ -115,14 +156,15 @@ public class Player {
     /**
      * Appends final win/loss log lines and writes playerX_output.txt.
      */
-    public synchronized void writePlayerOutputFile(int winningPlayerId) {
-        if (winningPlayerId == playerId) {
-            logHistory.add("player " + playerId + " wins");
+    public synchronized void writePlayerOutputFile() {
+        int winner = winningPlayerId.get();
+
+        if (winner == playerId) {
             logHistory.add("player " + playerId + " exits");
             logHistory.add("player " + playerId + " final hand: " + formatHand());
         } else {
-            logHistory.add("player " + winningPlayerId + " has informed player " + playerId
-                    + " that player " + winningPlayerId + " has won");
+            logHistory.add("player " + winner + " has informed player " + playerId
+                    + " that player " + winner + " has won");
             logHistory.add("player " + playerId + " exits");
             logHistory.add("player " + playerId + " hand: " + formatHand());
         }
@@ -138,4 +180,3 @@ public class Player {
         }
     }
 }
-
