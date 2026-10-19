@@ -6,9 +6,6 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.util.concurrent.atomic.AtomicBoolean;
 
-/**
- * Unit tests for CardDeck.java.
- */
 public class CardDeckTest {
 
     @Test
@@ -64,7 +61,8 @@ public class CardDeckTest {
         File file = new File("deck2_output.txt");
         assertTrue(file.exists());
 
-        String content = Files.readString(file.toPath()).trim();
+        // Using readAllBytes is compatible with older Java versions
+        String content = new String(Files.readAllBytes(file.toPath())).trim();
         assertEquals("deck2 contents: 1 3 3 7", content);
 
         file.delete(); // Clean up test file
