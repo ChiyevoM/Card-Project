@@ -99,6 +99,13 @@ public class CardDeck {
     }
 
     /**
+     * Alias method for writing output file to support writeDeckLog calls.
+     */
+    public synchronized void writeDeckLog() {
+        writeDeckOutputFile();
+    }
+
+    /**
      * Writes the final contents of the deck to deckX_output.txt.
      * Example output: "deck2 contents: 1 3 3 7"
      */

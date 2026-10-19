@@ -7,8 +7,6 @@ import java.util.List;
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
-import java.util.concurrent.atomic.AtomicInteger;
-
 
 /**
  * Player.java
@@ -27,14 +25,21 @@ public class Player implements Runnable {
     private static final AtomicBoolean gameWon = new AtomicBoolean(false);
     private static final AtomicInteger winningPlayerId = new AtomicInteger(-1);
 
-    public Player(int playerId, CardDeck leftDeck, CardDeck rightDeck, AtomicInteger sharedWinner) {
+    public Player(int playerId, CardDeck leftDeck, CardDeck rightDeck) {
         if (playerId <= 0) {
             throw new IllegalArgumentException("Player ID must be a positive integer.");
         }
         this.playerId = playerId;
         this.leftDeck = leftDeck;
         this.rightDeck = rightDeck;
-        this.sharedWinner = sharedWinner;
+    }
+
+    public Player(int playerId, CardDeck leftDeck, CardDeck rightDeck, AtomicInteger sharedWinner) {
+        this(playerId, leftDeck, rightDeck);
+    }
+
+    public static AtomicBoolean getGameWonFlag() {
+        return gameWon;
     }
 
     /**
@@ -113,11 +118,9 @@ public class Player implements Runnable {
 
         // Action loop: runs until any player thread sets gameWon to true
         while (!gameWon.get()) {
-            Card drawnCard = leftDeck.drawCard();
+            Card drawnCard = leftDeck.drawCard(gameWon);
             if (drawnCard == null) {
-                // Yield to allow other threads to populate deck or process win state
-                Thread.yield();
-                continue;
+                break;
             }
 
             synchronized (this) {
