@@ -1,0 +1,103 @@
+player 56 initial hand 75 45 76 70
+player 56 draws a 6 from deck 56
+player 56 discards a 75 to deck 57
+player 56 current hand is 45 76 70 6
+player 56 draws a 31 from deck 56
+player 56 discards a 45 to deck 57
+player 56 current hand is 76 70 6 31
+player 56 draws a 68 from deck 56
+player 56 discards a 76 to deck 57
+player 56 current hand is 70 6 31 68
+player 56 draws a 91 from deck 56
+player 56 discards a 70 to deck 57
+player 56 current hand is 6 31 68 91
+player 56 draws a 1 from deck 56
+player 56 discards a 6 to deck 57
+player 56 current hand is 31 68 91 1
+player 56 draws a 97 from deck 56
+player 56 discards a 31 to deck 57
+player 56 current hand is 68 91 1 97
+player 56 draws a 17 from deck 56
+player 56 discards a 68 to deck 57
+player 56 current hand is 91 1 97 17
+player 56 draws a 46 from deck 56
+player 56 discards a 91 to deck 57
+player 56 current hand is 1 97 17 46
+player 56 draws a 65 from deck 56
+player 56 discards a 1 to deck 57
+player 56 current hand is 97 17 46 65
+player 56 draws a 19 from deck 56
+player 56 discards a 97 to deck 57
+player 56 current hand is 17 46 65 19
+player 56 draws a 93 from deck 56
+player 56 discards a 17 to deck 57
+player 56 current hand is 46 65 19 93
+player 56 draws a 68 from deck 56
+player 56 discards a 46 to deck 57
+player 56 current hand is 65 19 93 68
+player 56 draws a 85 from deck 56
+player 56 discards a 65 to deck 57
+player 56 current hand is 19 93 68 85
+player 56 draws a 56 from deck 56
+player 56 discards a 19 to deck 57
+player 56 current hand is 93 68 85 56
+player 56 draws a 79 from deck 56
+player 56 discards a 93 to deck 57
+player 56 current hand is 68 85 56 79
+player 56 draws a 46 from deck 56
+player 56 discards a 68 to deck 57
+player 56 current hand is 85 56 79 46
+player 56 draws a 91 from deck 56
+player 56 discards a 85 to deck 57
+player 56 current hand is 56 79 46 91
+player 56 draws a 61 from deck 56
+player 56 discards a 79 to deck 57
+player 56 current hand is 56 46 91 61
+player 56 draws a 20 from deck 56
+player 56 discards a 46 to deck 57
+player 56 current hand is 56 91 61 20
+player 56 draws a 85 from deck 56
+player 56 discards a 91 to deck 57
+player 56 current hand is 56 61 20 85
+player 56 draws a 30 from deck 56
+player 56 discards a 61 to deck 57
+player 56 current hand is 56 20 85 30
+player 56 draws a 4 from deck 56
+player 56 discards a 20 to deck 57
+player 56 current hand is 56 85 30 4
+player 56 draws a 88 from deck 56
+player 56 discards a 85 to deck 57
+player 56 current hand is 56 30 4 88
+player 56 draws a 58 from deck 56
+player 56 discards a 30 to deck 57
+player 56 current hand is 56 4 88 58
+player 56 draws a 89 from deck 56
+player 56 discards a 4 to deck 57
+player 56 current hand is 56 88 58 89
+player 56 draws a 73 from deck 56
+player 56 discards a 88 to deck 57
+player 56 current hand is 56 58 89 73
+player 56 draws a 24 from deck 56
+player 56 discards a 58 to deck 57
+player 56 current hand is 56 89 73 24
+player 56 draws a 29 from deck 56
+player 56 discards a 89 to deck 57
+player 56 current hand is 56 73 24 29
+player 56 draws a 23 from deck 56
+player 56 discards a 73 to deck 57
+player 56 current hand is 56 24 29 23
+player 56 draws a 74 from deck 56
+player 56 discards a 24 to deck 57
+player 56 current hand is 56 29 23 74
+player 56 draws a 47 from deck 56
+player 56 discards a 29 to deck 57
+player 56 current hand is 56 23 74 47
+player 56 draws a 33 from deck 56
+player 56 discards a 23 to deck 57
+player 56 current hand is 56 74 47 33
+player 56 draws a 43 from deck 56
+player 56 discards a 74 to deck 57
+player 56 current hand is 56 47 33 43
+player 54 has informed player 56 that player 54 has won
+player 56 exits
+player 56 hand: 56 47 33 43

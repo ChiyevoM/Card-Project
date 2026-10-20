@@ -1,0 +1,352 @@
+player 29 initial hand 41 93 40 6
+player 29 draws a 26 from deck 29
+player 29 discards a 41 to deck 30
+player 29 current hand is 93 40 6 26
+player 29 draws a 92 from deck 29
+player 29 discards a 93 to deck 30
+player 29 current hand is 40 6 26 92
+player 29 draws a 38 from deck 29
+player 29 discards a 40 to deck 30
+player 29 current hand is 6 26 92 38
+player 29 draws a 50 from deck 29
+player 29 discards a 6 to deck 30
+player 29 current hand is 26 92 38 50
+player 29 draws a 47 from deck 29
+player 29 discards a 26 to deck 30
+player 29 current hand is 92 38 50 47
+player 29 draws a 42 from deck 29
+player 29 discards a 92 to deck 30
+player 29 current hand is 38 50 47 42
+player 29 draws a 100 from deck 29
+player 29 discards a 38 to deck 30
+player 29 current hand is 50 47 42 100
+player 29 draws a 54 from deck 29
+player 29 discards a 50 to deck 30
+player 29 current hand is 47 42 100 54
+player 29 draws a 6 from deck 29
+player 29 discards a 47 to deck 30
+player 29 current hand is 42 100 54 6
+player 29 draws a 87 from deck 29
+player 29 discards a 42 to deck 30
+player 29 current hand is 100 54 6 87
+player 29 draws a 23 from deck 29
+player 29 discards a 100 to deck 30
+player 29 current hand is 54 6 87 23
+player 29 draws a 53 from deck 29
+player 29 discards a 54 to deck 30
+player 29 current hand is 6 87 23 53
+player 29 draws a 16 from deck 29
+player 29 discards a 6 to deck 30
+player 29 current hand is 87 23 53 16
+player 29 draws a 10 from deck 29
+player 29 discards a 87 to deck 30
+player 29 current hand is 23 53 16 10
+player 29 draws a 20 from deck 29
+player 29 discards a 23 to deck 30
+player 29 current hand is 53 16 10 20
+player 29 draws a 84 from deck 29
+player 29 discards a 53 to deck 30
+player 29 current hand is 16 10 20 84
+player 29 draws a 83 from deck 29
+player 29 discards a 16 to deck 30
+player 29 current hand is 10 20 84 83
+player 29 draws a 5 from deck 29
+player 29 discards a 10 to deck 30
+player 29 current hand is 20 84 83 5
+player 29 draws a 23 from deck 29
+player 29 discards a 20 to deck 30
+player 29 current hand is 84 83 5 23
+player 29 draws a 14 from deck 29
+player 29 discards a 84 to deck 30
+player 29 current hand is 83 5 23 14
+player 29 draws a 72 from deck 29
+player 29 discards a 83 to deck 30
+player 29 current hand is 5 23 14 72
+player 29 draws a 52 from deck 29
+player 29 discards a 5 to deck 30
+player 29 current hand is 23 14 72 52
+player 29 draws a 24 from deck 29
+player 29 discards a 23 to deck 30
+player 29 current hand is 14 72 52 24
+player 29 draws a 75 from deck 29
+player 29 discards a 14 to deck 30
+player 29 current hand is 72 52 24 75
+player 29 draws a 50 from deck 29
+player 29 discards a 72 to deck 30
+player 29 current hand is 52 24 75 50
+player 29 draws a 25 from deck 29
+player 29 discards a 52 to deck 30
+player 29 current hand is 24 75 50 25
+player 29 draws a 40 from deck 29
+player 29 discards a 24 to deck 30
+player 29 current hand is 75 50 25 40
+player 29 draws a 7 from deck 29
+player 29 discards a 75 to deck 30
+player 29 current hand is 50 25 40 7
+player 29 draws a 53 from deck 29
+player 29 discards a 50 to deck 30
+player 29 current hand is 25 40 7 53
+player 29 draws a 4 from deck 29
+player 29 discards a 25 to deck 30
+player 29 current hand is 40 7 53 4
+player 29 draws a 17 from deck 29
+player 29 discards a 40 to deck 30
+player 29 current hand is 7 53 4 17
+player 29 draws a 39 from deck 29
+player 29 discards a 7 to deck 30
+player 29 current hand is 53 4 17 39
+player 29 draws a 51 from deck 29
+player 29 discards a 53 to deck 30
+player 29 current hand is 4 17 39 51
+player 29 draws a 79 from deck 29
+player 29 discards a 4 to deck 30
+player 29 current hand is 17 39 51 79
+player 29 draws a 34 from deck 29
+player 29 discards a 17 to deck 30
+player 29 current hand is 39 51 79 34
+player 29 draws a 88 from deck 29
+player 29 discards a 39 to deck 30
+player 29 current hand is 51 79 34 88
+player 29 draws a 12 from deck 29
+player 29 discards a 51 to deck 30
+player 29 current hand is 79 34 88 12
+player 29 draws a 39 from deck 29
+player 29 discards a 79 to deck 30
+player 29 current hand is 34 88 12 39
+player 29 draws a 65 from deck 29
+player 29 discards a 34 to deck 30
+player 29 current hand is 88 12 39 65
+player 29 draws a 79 from deck 29
+player 29 discards a 88 to deck 30
+player 29 current hand is 12 39 65 79
+player 29 draws a 94 from deck 29
+player 29 discards a 12 to deck 30
+player 29 current hand is 39 65 79 94
+player 29 draws a 64 from deck 29
+player 29 discards a 39 to deck 30
+player 29 current hand is 65 79 94 64
+player 29 draws a 73 from deck 29
+player 29 discards a 65 to deck 30
+player 29 current hand is 79 94 64 73
+player 29 draws a 12 from deck 29
+player 29 discards a 79 to deck 30
+player 29 current hand is 94 64 73 12
+player 29 draws a 32 from deck 29
+player 29 discards a 94 to deck 30
+player 29 current hand is 64 73 12 32
+player 29 draws a 74 from deck 29
+player 29 discards a 64 to deck 30
+player 29 current hand is 73 12 32 74
+player 29 draws a 91 from deck 29
+player 29 discards a 73 to deck 30
+player 29 current hand is 12 32 74 91
+player 29 draws a 74 from deck 29
+player 29 discards a 12 to deck 30
+player 29 current hand is 32 74 91 74
+player 29 draws a 62 from deck 29
+player 29 discards a 32 to deck 30
+player 29 current hand is 74 91 74 62
+player 29 draws a 94 from deck 29
+player 29 discards a 74 to deck 30
+player 29 current hand is 91 74 62 94
+player 29 draws a 93 from deck 29
+player 29 discards a 91 to deck 30
+player 29 current hand is 74 62 94 93
+player 29 draws a 47 from deck 29
+player 29 discards a 74 to deck 30
+player 29 current hand is 62 94 93 47
+player 29 draws a 80 from deck 29
+player 29 discards a 62 to deck 30
+player 29 current hand is 94 93 47 80
+player 29 draws a 66 from deck 29
+player 29 discards a 94 to deck 30
+player 29 current hand is 93 47 80 66
+player 29 draws a 60 from deck 29
+player 29 discards a 93 to deck 30
+player 29 current hand is 47 80 66 60
+player 29 draws a 65 from deck 29
+player 29 discards a 47 to deck 30
+player 29 current hand is 80 66 60 65
+player 29 draws a 96 from deck 29
+player 29 discards a 80 to deck 30
+player 29 current hand is 66 60 65 96
+player 29 draws a 7 from deck 29
+player 29 discards a 66 to deck 30
+player 29 current hand is 60 65 96 7
+player 29 draws a 7 from deck 29
+player 29 discards a 60 to deck 30
+player 29 current hand is 65 96 7 7
+player 29 draws a 66 from deck 29
+player 29 discards a 65 to deck 30
+player 29 current hand is 96 7 7 66
+player 29 draws a 38 from deck 29
+player 29 discards a 96 to deck 30
+player 29 current hand is 7 7 66 38
+player 29 draws a 66 from deck 29
+player 29 discards a 7 to deck 30
+player 29 current hand is 7 66 38 66
+player 29 draws a 70 from deck 29
+player 29 discards a 7 to deck 30
+player 29 current hand is 66 38 66 70
+player 29 draws a 49 from deck 29
+player 29 discards a 66 to deck 30
+player 29 current hand is 38 66 70 49
+player 29 draws a 44 from deck 29
+player 29 discards a 38 to deck 30
+player 29 current hand is 66 70 49 44
+player 29 draws a 75 from deck 29
+player 29 discards a 66 to deck 30
+player 29 current hand is 70 49 44 75
+player 29 draws a 33 from deck 29
+player 29 discards a 70 to deck 30
+player 29 current hand is 49 44 75 33
+player 29 draws a 75 from deck 29
+player 29 discards a 49 to deck 30
+player 29 current hand is 44 75 33 75
+player 29 draws a 56 from deck 29
+player 29 discards a 44 to deck 30
+player 29 current hand is 75 33 75 56
+player 29 draws a 63 from deck 29
+player 29 discards a 75 to deck 30
+player 29 current hand is 33 75 56 63
+player 29 draws a 77 from deck 29
+player 29 discards a 33 to deck 30
+player 29 current hand is 75 56 63 77
+player 29 draws a 46 from deck 29
+player 29 discards a 75 to deck 30
+player 29 current hand is 56 63 77 46
+player 29 draws a 59 from deck 29
+player 29 discards a 56 to deck 30
+player 29 current hand is 63 77 46 59
+player 29 draws a 51 from deck 29
+player 29 discards a 63 to deck 30
+player 29 current hand is 77 46 59 51
+player 29 draws a 15 from deck 29
+player 29 discards a 77 to deck 30
+player 29 current hand is 46 59 51 15
+player 29 draws a 85 from deck 29
+player 29 discards a 46 to deck 30
+player 29 current hand is 59 51 15 85
+player 29 draws a 48 from deck 29
+player 29 discards a 59 to deck 30
+player 29 current hand is 51 15 85 48
+player 29 draws a 59 from deck 29
+player 29 discards a 51 to deck 30
+player 29 current hand is 15 85 48 59
+player 29 draws a 31 from deck 29
+player 29 discards a 15 to deck 30
+player 29 current hand is 85 48 59 31
+player 29 draws a 50 from deck 29
+player 29 discards a 85 to deck 30
+player 29 current hand is 48 59 31 50
+player 29 draws a 68 from deck 29
+player 29 discards a 48 to deck 30
+player 29 current hand is 59 31 50 68
+player 29 draws a 77 from deck 29
+player 29 discards a 59 to deck 30
+player 29 current hand is 31 50 68 77
+player 29 draws a 96 from deck 29
+player 29 discards a 31 to deck 30
+player 29 current hand is 50 68 77 96
+player 29 draws a 49 from deck 29
+player 29 discards a 50 to deck 30
+player 29 current hand is 68 77 96 49
+player 29 draws a 89 from deck 29
+player 29 discards a 68 to deck 30
+player 29 current hand is 77 96 49 89
+player 29 draws a 64 from deck 29
+player 29 discards a 77 to deck 30
+player 29 current hand is 96 49 89 64
+player 29 draws a 57 from deck 29
+player 29 discards a 96 to deck 30
+player 29 current hand is 49 89 64 57
+player 29 draws a 38 from deck 29
+player 29 discards a 49 to deck 30
+player 29 current hand is 89 64 57 38
+player 29 draws a 84 from deck 29
+player 29 discards a 89 to deck 30
+player 29 current hand is 64 57 38 84
+player 29 draws a 30 from deck 29
+player 29 discards a 64 to deck 30
+player 29 current hand is 57 38 84 30
+player 29 draws a 12 from deck 29
+player 29 discards a 57 to deck 30
+player 29 current hand is 38 84 30 12
+player 29 draws a 92 from deck 29
+player 29 discards a 38 to deck 30
+player 29 current hand is 84 30 12 92
+player 29 draws a 44 from deck 29
+player 29 discards a 84 to deck 30
+player 29 current hand is 30 12 92 44
+player 29 draws a 57 from deck 29
+player 29 discards a 30 to deck 30
+player 29 current hand is 12 92 44 57
+player 29 draws a 14 from deck 29
+player 29 discards a 12 to deck 30
+player 29 current hand is 92 44 57 14
+player 29 draws a 83 from deck 29
+player 29 discards a 92 to deck 30
+player 29 current hand is 44 57 14 83
+player 29 draws a 41 from deck 29
+player 29 discards a 44 to deck 30
+player 29 current hand is 57 14 83 41
+player 29 draws a 2 from deck 29
+player 29 discards a 57 to deck 30
+player 29 current hand is 14 83 41 2
+player 29 draws a 91 from deck 29
+player 29 discards a 14 to deck 30
+player 29 current hand is 83 41 2 91
+player 29 draws a 94 from deck 29
+player 29 discards a 83 to deck 30
+player 29 current hand is 41 2 91 94
+player 29 draws a 96 from deck 29
+player 29 discards a 41 to deck 30
+player 29 current hand is 2 91 94 96
+player 29 draws a 5 from deck 29
+player 29 discards a 2 to deck 30
+player 29 current hand is 91 94 96 5
+player 29 draws a 72 from deck 29
+player 29 discards a 91 to deck 30
+player 29 current hand is 94 96 5 72
+player 29 draws a 89 from deck 29
+player 29 discards a 94 to deck 30
+player 29 current hand is 96 5 72 89
+player 29 draws a 80 from deck 29
+player 29 discards a 96 to deck 30
+player 29 current hand is 5 72 89 80
+player 29 draws a 53 from deck 29
+player 29 discards a 5 to deck 30
+player 29 current hand is 72 89 80 53
+player 29 draws a 7 from deck 29
+player 29 discards a 72 to deck 30
+player 29 current hand is 89 80 53 7
+player 29 draws a 63 from deck 29
+player 29 discards a 89 to deck 30
+player 29 current hand is 80 53 7 63
+player 29 draws a 61 from deck 29
+player 29 discards a 80 to deck 30
+player 29 current hand is 53 7 63 61
+player 29 draws a 95 from deck 29
+player 29 discards a 53 to deck 30
+player 29 current hand is 7 63 61 95
+player 29 draws a 37 from deck 29
+player 29 discards a 7 to deck 30
+player 29 current hand is 63 61 95 37
+player 29 draws a 50 from deck 29
+player 29 discards a 63 to deck 30
+player 29 current hand is 61 95 37 50
+player 29 draws a 8 from deck 29
+player 29 discards a 61 to deck 30
+player 29 current hand is 95 37 50 8
+player 29 draws a 87 from deck 29
+player 29 discards a 95 to deck 30
+player 29 current hand is 37 50 8 87
+player 29 draws a 76 from deck 29
+player 29 discards a 37 to deck 30
+player 29 current hand is 50 8 87 76
+player 29 draws a 71 from deck 29
+player 29 discards a 50 to deck 30
+player 29 current hand is 8 87 76 71
+player 54 has informed player 29 that player 54 has won
+player 29 exits
+player 29 hand: 8 87 76 71

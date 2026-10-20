@@ -1,0 +1,4 @@
+player 64 initial hand 50 63 16 86
+player 54 has informed player 64 that player 54 has won
+player 64 exits
+player 64 hand: 50 63 16 86

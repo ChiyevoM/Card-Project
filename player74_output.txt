@@ -1,0 +1,4 @@
+player 74 initial hand 26 96 83 77
+player 54 has informed player 74 that player 54 has won
+player 74 exits
+player 74 hand: 26 96 83 77

@@ -1,0 +1,490 @@
+player 42 initial hand 43 93 64 32
+player 42 draws a 52 from deck 42
+player 42 discards a 43 to deck 43
+player 42 current hand is 93 64 32 52
+player 42 draws a 54 from deck 42
+player 42 discards a 93 to deck 43
+player 42 current hand is 64 32 52 54
+player 42 draws a 77 from deck 42
+player 42 discards a 64 to deck 43
+player 42 current hand is 32 52 54 77
+player 42 draws a 71 from deck 42
+player 42 discards a 32 to deck 43
+player 42 current hand is 52 54 77 71
+player 42 draws a 67 from deck 42
+player 42 discards a 52 to deck 43
+player 42 current hand is 54 77 71 67
+player 42 draws a 99 from deck 42
+player 42 discards a 54 to deck 43
+player 42 current hand is 77 71 67 99
+player 42 draws a 70 from deck 42
+player 42 discards a 77 to deck 43
+player 42 current hand is 71 67 99 70
+player 42 draws a 26 from deck 42
+player 42 discards a 71 to deck 43
+player 42 current hand is 67 99 70 26
+player 42 draws a 73 from deck 42
+player 42 discards a 67 to deck 43
+player 42 current hand is 99 70 26 73
+player 42 draws a 44 from deck 42
+player 42 discards a 99 to deck 43
+player 42 current hand is 70 26 73 44
+player 42 draws a 26 from deck 42
+player 42 discards a 70 to deck 43
+player 42 current hand is 26 73 44 26
+player 42 draws a 2 from deck 42
+player 42 discards a 26 to deck 43
+player 42 current hand is 73 44 26 2
+player 42 draws a 29 from deck 42
+player 42 discards a 73 to deck 43
+player 42 current hand is 44 26 2 29
+player 42 draws a 89 from deck 42
+player 42 discards a 44 to deck 43
+player 42 current hand is 26 2 29 89
+player 42 draws a 99 from deck 42
+player 42 discards a 26 to deck 43
+player 42 current hand is 2 29 89 99
+player 42 draws a 60 from deck 42
+player 42 discards a 2 to deck 43
+player 42 current hand is 29 89 99 60
+player 42 draws a 64 from deck 42
+player 42 discards a 29 to deck 43
+player 42 current hand is 89 99 60 64
+player 42 draws a 24 from deck 42
+player 42 discards a 89 to deck 43
+player 42 current hand is 99 60 64 24
+player 42 draws a 69 from deck 42
+player 42 discards a 99 to deck 43
+player 42 current hand is 60 64 24 69
+player 42 draws a 53 from deck 42
+player 42 discards a 60 to deck 43
+player 42 current hand is 64 24 69 53
+player 42 draws a 86 from deck 42
+player 42 discards a 64 to deck 43
+player 42 current hand is 24 69 53 86
+player 42 draws a 57 from deck 42
+player 42 discards a 24 to deck 43
+player 42 current hand is 69 53 86 57
+player 42 draws a 90 from deck 42
+player 42 discards a 69 to deck 43
+player 42 current hand is 53 86 57 90
+player 42 draws a 13 from deck 42
+player 42 discards a 53 to deck 43
+player 42 current hand is 86 57 90 13
+player 42 draws a 83 from deck 42
+player 42 discards a 86 to deck 43
+player 42 current hand is 57 90 13 83
+player 42 draws a 57 from deck 42
+player 42 discards a 57 to deck 43
+player 42 current hand is 90 13 83 57
+player 42 draws a 3 from deck 42
+player 42 discards a 90 to deck 43
+player 42 current hand is 13 83 57 3
+player 42 draws a 43 from deck 42
+player 42 discards a 13 to deck 43
+player 42 current hand is 83 57 3 43
+player 42 draws a 95 from deck 42
+player 42 discards a 83 to deck 43
+player 42 current hand is 57 3 43 95
+player 42 draws a 77 from deck 42
+player 42 discards a 57 to deck 43
+player 42 current hand is 3 43 95 77
+player 42 draws a 25 from deck 42
+player 42 discards a 3 to deck 43
+player 42 current hand is 43 95 77 25
+player 42 draws a 20 from deck 42
+player 42 discards a 43 to deck 43
+player 42 current hand is 95 77 25 20
+player 42 draws a 94 from deck 42
+player 42 discards a 95 to deck 43
+player 42 current hand is 77 25 20 94
+player 42 draws a 92 from deck 42
+player 42 discards a 77 to deck 43
+player 42 current hand is 25 20 94 92
+player 42 draws a 97 from deck 42
+player 42 discards a 25 to deck 43
+player 42 current hand is 20 94 92 97
+player 42 draws a 25 from deck 42
+player 42 discards a 20 to deck 43
+player 42 current hand is 94 92 97 25
+player 42 draws a 81 from deck 42
+player 42 discards a 94 to deck 43
+player 42 current hand is 92 97 25 81
+player 42 draws a 46 from deck 42
+player 42 discards a 92 to deck 43
+player 42 current hand is 97 25 81 46
+player 42 draws a 100 from deck 42
+player 42 discards a 97 to deck 43
+player 42 current hand is 25 81 46 100
+player 42 draws a 18 from deck 42
+player 42 discards a 25 to deck 43
+player 42 current hand is 81 46 100 18
+player 42 draws a 47 from deck 42
+player 42 discards a 81 to deck 43
+player 42 current hand is 46 100 18 47
+player 42 draws a 85 from deck 42
+player 42 discards a 46 to deck 43
+player 42 current hand is 100 18 47 85
+player 42 draws a 1 from deck 42
+player 42 discards a 100 to deck 43
+player 42 current hand is 18 47 85 1
+player 42 draws a 73 from deck 42
+player 42 discards a 18 to deck 43
+player 42 current hand is 47 85 1 73
+player 42 draws a 99 from deck 42
+player 42 discards a 47 to deck 43
+player 42 current hand is 85 1 73 99
+player 42 draws a 7 from deck 42
+player 42 discards a 85 to deck 43
+player 42 current hand is 1 73 99 7
+player 42 draws a 11 from deck 42
+player 42 discards a 1 to deck 43
+player 42 current hand is 73 99 7 11
+player 42 draws a 31 from deck 42
+player 42 discards a 73 to deck 43
+player 42 current hand is 99 7 11 31
+player 42 draws a 87 from deck 42
+player 42 discards a 99 to deck 43
+player 42 current hand is 7 11 31 87
+player 42 draws a 29 from deck 42
+player 42 discards a 7 to deck 43
+player 42 current hand is 11 31 87 29
+player 42 draws a 82 from deck 42
+player 42 discards a 11 to deck 43
+player 42 current hand is 31 87 29 82
+player 42 draws a 19 from deck 42
+player 42 discards a 31 to deck 43
+player 42 current hand is 87 29 82 19
+player 42 draws a 43 from deck 42
+player 42 discards a 87 to deck 43
+player 42 current hand is 29 82 19 43
+player 42 draws a 89 from deck 42
+player 42 discards a 29 to deck 43
+player 42 current hand is 82 19 43 89
+player 42 draws a 31 from deck 42
+player 42 discards a 82 to deck 43
+player 42 current hand is 19 43 89 31
+player 42 draws a 76 from deck 42
+player 42 discards a 19 to deck 43
+player 42 current hand is 43 89 31 76
+player 42 draws a 96 from deck 42
+player 42 discards a 43 to deck 43
+player 42 current hand is 89 31 76 96
+player 42 draws a 91 from deck 42
+player 42 discards a 89 to deck 43
+player 42 current hand is 31 76 96 91
+player 42 draws a 27 from deck 42
+player 42 discards a 31 to deck 43
+player 42 current hand is 76 96 91 27
+player 42 draws a 1 from deck 42
+player 42 discards a 76 to deck 43
+player 42 current hand is 96 91 27 1
+player 42 draws a 62 from deck 42
+player 42 discards a 96 to deck 43
+player 42 current hand is 91 27 1 62
+player 42 draws a 86 from deck 42
+player 42 discards a 91 to deck 43
+player 42 current hand is 27 1 62 86
+player 42 draws a 79 from deck 42
+player 42 discards a 27 to deck 43
+player 42 current hand is 1 62 86 79
+player 42 draws a 49 from deck 42
+player 42 discards a 1 to deck 43
+player 42 current hand is 62 86 79 49
+player 42 draws a 93 from deck 42
+player 42 discards a 62 to deck 43
+player 42 current hand is 86 79 49 93
+player 42 draws a 76 from deck 42
+player 42 discards a 86 to deck 43
+player 42 current hand is 79 49 93 76
+player 42 draws a 12 from deck 42
+player 42 discards a 79 to deck 43
+player 42 current hand is 49 93 76 12
+player 42 draws a 71 from deck 42
+player 42 discards a 49 to deck 43
+player 42 current hand is 93 76 12 71
+player 42 draws a 2 from deck 42
+player 42 discards a 93 to deck 43
+player 42 current hand is 76 12 71 2
+player 42 draws a 2 from deck 42
+player 42 discards a 76 to deck 43
+player 42 current hand is 12 71 2 2
+player 42 draws a 9 from deck 42
+player 42 discards a 12 to deck 43
+player 42 current hand is 71 2 2 9
+player 42 draws a 92 from deck 42
+player 42 discards a 71 to deck 43
+player 42 current hand is 2 2 9 92
+player 42 draws a 57 from deck 42
+player 42 discards a 2 to deck 43
+player 42 current hand is 2 9 92 57
+player 42 draws a 77 from deck 42
+player 42 discards a 2 to deck 43
+player 42 current hand is 9 92 57 77
+player 42 draws a 16 from deck 42
+player 42 discards a 9 to deck 43
+player 42 current hand is 92 57 77 16
+player 42 draws a 44 from deck 42
+player 42 discards a 92 to deck 43
+player 42 current hand is 57 77 16 44
+player 42 draws a 67 from deck 42
+player 42 discards a 57 to deck 43
+player 42 current hand is 77 16 44 67
+player 42 draws a 62 from deck 42
+player 42 discards a 77 to deck 43
+player 42 current hand is 16 44 67 62
+player 42 draws a 68 from deck 42
+player 42 discards a 16 to deck 43
+player 42 current hand is 44 67 62 68
+player 42 draws a 56 from deck 42
+player 42 discards a 44 to deck 43
+player 42 current hand is 67 62 68 56
+player 42 draws a 9 from deck 42
+player 42 discards a 67 to deck 43
+player 42 current hand is 62 68 56 9
+player 42 draws a 87 from deck 42
+player 42 discards a 62 to deck 43
+player 42 current hand is 68 56 9 87
+player 42 draws a 83 from deck 42
+player 42 discards a 68 to deck 43
+player 42 current hand is 56 9 87 83
+player 42 draws a 45 from deck 42
+player 42 discards a 56 to deck 43
+player 42 current hand is 9 87 83 45
+player 42 draws a 57 from deck 42
+player 42 discards a 9 to deck 43
+player 42 current hand is 87 83 45 57
+player 42 draws a 9 from deck 42
+player 42 discards a 87 to deck 43
+player 42 current hand is 83 45 57 9
+player 42 draws a 54 from deck 42
+player 42 discards a 83 to deck 43
+player 42 current hand is 45 57 9 54
+player 42 draws a 23 from deck 42
+player 42 discards a 45 to deck 43
+player 42 current hand is 57 9 54 23
+player 42 draws a 87 from deck 42
+player 42 discards a 57 to deck 43
+player 42 current hand is 9 54 23 87
+player 42 draws a 29 from deck 42
+player 42 discards a 9 to deck 43
+player 42 current hand is 54 23 87 29
+player 42 draws a 15 from deck 42
+player 42 discards a 54 to deck 43
+player 42 current hand is 23 87 29 15
+player 42 draws a 18 from deck 42
+player 42 discards a 23 to deck 43
+player 42 current hand is 87 29 15 18
+player 42 draws a 42 from deck 42
+player 42 discards a 87 to deck 43
+player 42 current hand is 29 15 18 42
+player 42 draws a 64 from deck 42
+player 42 discards a 29 to deck 43
+player 42 current hand is 15 18 42 64
+player 42 draws a 50 from deck 42
+player 42 discards a 15 to deck 43
+player 42 current hand is 18 42 64 50
+player 42 draws a 93 from deck 42
+player 42 discards a 18 to deck 43
+player 42 current hand is 42 64 50 93
+player 42 draws a 6 from deck 42
+player 42 discards a 64 to deck 43
+player 42 current hand is 42 50 93 6
+player 42 draws a 26 from deck 42
+player 42 discards a 50 to deck 43
+player 42 current hand is 42 93 6 26
+player 42 draws a 92 from deck 42
+player 42 discards a 93 to deck 43
+player 42 current hand is 42 6 26 92
+player 42 draws a 50 from deck 42
+player 42 discards a 6 to deck 43
+player 42 current hand is 42 26 92 50
+player 42 draws a 47 from deck 42
+player 42 discards a 26 to deck 43
+player 42 current hand is 42 92 50 47
+player 42 draws a 42 from deck 42
+player 42 discards a 92 to deck 43
+player 42 current hand is 42 50 47 42
+player 42 draws a 100 from deck 42
+player 42 discards a 50 to deck 43
+player 42 current hand is 42 47 42 100
+player 42 draws a 54 from deck 42
+player 42 discards a 47 to deck 43
+player 42 current hand is 42 42 100 54
+player 42 draws a 6 from deck 42
+player 42 discards a 100 to deck 43
+player 42 current hand is 42 42 54 6
+player 42 draws a 87 from deck 42
+player 42 discards a 54 to deck 43
+player 42 current hand is 42 42 6 87
+player 42 draws a 23 from deck 42
+player 42 discards a 6 to deck 43
+player 42 current hand is 42 42 87 23
+player 42 draws a 53 from deck 42
+player 42 discards a 87 to deck 43
+player 42 current hand is 42 42 23 53
+player 42 draws a 16 from deck 42
+player 42 discards a 23 to deck 43
+player 42 current hand is 42 42 53 16
+player 42 draws a 10 from deck 42
+player 42 discards a 53 to deck 43
+player 42 current hand is 42 42 16 10
+player 42 draws a 20 from deck 42
+player 42 discards a 16 to deck 43
+player 42 current hand is 42 42 10 20
+player 42 draws a 84 from deck 42
+player 42 discards a 10 to deck 43
+player 42 current hand is 42 42 20 84
+player 42 draws a 83 from deck 42
+player 42 discards a 20 to deck 43
+player 42 current hand is 42 42 84 83
+player 42 draws a 5 from deck 42
+player 42 discards a 84 to deck 43
+player 42 current hand is 42 42 83 5
+player 42 draws a 23 from deck 42
+player 42 discards a 83 to deck 43
+player 42 current hand is 42 42 5 23
+player 42 draws a 14 from deck 42
+player 42 discards a 5 to deck 43
+player 42 current hand is 42 42 23 14
+player 42 draws a 72 from deck 42
+player 42 discards a 23 to deck 43
+player 42 current hand is 42 42 14 72
+player 42 draws a 52 from deck 42
+player 42 discards a 14 to deck 43
+player 42 current hand is 42 42 72 52
+player 42 draws a 24 from deck 42
+player 42 discards a 72 to deck 43
+player 42 current hand is 42 42 52 24
+player 42 draws a 75 from deck 42
+player 42 discards a 52 to deck 43
+player 42 current hand is 42 42 24 75
+player 42 draws a 50 from deck 42
+player 42 discards a 24 to deck 43
+player 42 current hand is 42 42 75 50
+player 42 draws a 25 from deck 42
+player 42 discards a 75 to deck 43
+player 42 current hand is 42 42 50 25
+player 42 draws a 7 from deck 42
+player 42 discards a 50 to deck 43
+player 42 current hand is 42 42 25 7
+player 42 draws a 53 from deck 42
+player 42 discards a 25 to deck 43
+player 42 current hand is 42 42 7 53
+player 42 draws a 4 from deck 42
+player 42 discards a 7 to deck 43
+player 42 current hand is 42 42 53 4
+player 42 draws a 17 from deck 42
+player 42 discards a 53 to deck 43
+player 42 current hand is 42 42 4 17
+player 42 draws a 51 from deck 42
+player 42 discards a 4 to deck 43
+player 42 current hand is 42 42 17 51
+player 42 draws a 79 from deck 42
+player 42 discards a 17 to deck 43
+player 42 current hand is 42 42 51 79
+player 42 draws a 88 from deck 42
+player 42 discards a 51 to deck 43
+player 42 current hand is 42 42 79 88
+player 42 draws a 12 from deck 42
+player 42 discards a 79 to deck 43
+player 42 current hand is 42 42 88 12
+player 42 draws a 65 from deck 42
+player 42 discards a 88 to deck 43
+player 42 current hand is 42 42 12 65
+player 42 draws a 79 from deck 42
+player 42 discards a 12 to deck 43
+player 42 current hand is 42 42 65 79
+player 42 draws a 94 from deck 42
+player 42 discards a 65 to deck 43
+player 42 current hand is 42 42 79 94
+player 42 draws a 64 from deck 42
+player 42 discards a 79 to deck 43
+player 42 current hand is 42 42 94 64
+player 42 draws a 73 from deck 42
+player 42 discards a 94 to deck 43
+player 42 current hand is 42 42 64 73
+player 42 draws a 12 from deck 42
+player 42 discards a 64 to deck 43
+player 42 current hand is 42 42 73 12
+player 42 draws a 74 from deck 42
+player 42 discards a 73 to deck 43
+player 42 current hand is 42 42 12 74
+player 42 draws a 91 from deck 42
+player 42 discards a 12 to deck 43
+player 42 current hand is 42 42 74 91
+player 42 draws a 74 from deck 42
+player 42 discards a 74 to deck 43
+player 42 current hand is 42 42 91 74
+player 42 draws a 62 from deck 42
+player 42 discards a 91 to deck 43
+player 42 current hand is 42 42 74 62
+player 42 draws a 94 from deck 42
+player 42 discards a 74 to deck 43
+player 42 current hand is 42 42 62 94
+player 42 draws a 93 from deck 42
+player 42 discards a 62 to deck 43
+player 42 current hand is 42 42 94 93
+player 42 draws a 47 from deck 42
+player 42 discards a 94 to deck 43
+player 42 current hand is 42 42 93 47
+player 42 draws a 80 from deck 42
+player 42 discards a 93 to deck 43
+player 42 current hand is 42 42 47 80
+player 42 draws a 66 from deck 42
+player 42 discards a 47 to deck 43
+player 42 current hand is 42 42 80 66
+player 42 draws a 60 from deck 42
+player 42 discards a 80 to deck 43
+player 42 current hand is 42 42 66 60
+player 42 draws a 65 from deck 42
+player 42 discards a 66 to deck 43
+player 42 current hand is 42 42 60 65
+player 42 draws a 96 from deck 42
+player 42 discards a 60 to deck 43
+player 42 current hand is 42 42 65 96
+player 42 draws a 7 from deck 42
+player 42 discards a 65 to deck 43
+player 42 current hand is 42 42 96 7
+player 42 draws a 7 from deck 42
+player 42 discards a 96 to deck 43
+player 42 current hand is 42 42 7 7
+player 42 draws a 66 from deck 42
+player 42 discards a 7 to deck 43
+player 42 current hand is 42 42 7 66
+player 42 draws a 66 from deck 42
+player 42 discards a 7 to deck 43
+player 42 current hand is 42 42 66 66
+player 42 draws a 70 from deck 42
+player 42 discards a 66 to deck 43
+player 42 current hand is 42 42 66 70
+player 42 draws a 49 from deck 42
+player 42 discards a 66 to deck 43
+player 42 current hand is 42 42 70 49
+player 42 draws a 44 from deck 42
+player 42 discards a 70 to deck 43
+player 42 current hand is 42 42 49 44
+player 42 draws a 75 from deck 42
+player 42 discards a 49 to deck 43
+player 42 current hand is 42 42 44 75
+player 42 draws a 75 from deck 42
+player 42 discards a 44 to deck 43
+player 42 current hand is 42 42 75 75
+player 42 draws a 56 from deck 42
+player 42 discards a 75 to deck 43
+player 42 current hand is 42 42 75 56
+player 42 draws a 63 from deck 42
+player 42 discards a 75 to deck 43
+player 42 current hand is 42 42 56 63
+player 42 draws a 77 from deck 42
+player 42 discards a 56 to deck 43
+player 42 current hand is 42 42 63 77
+player 42 draws a 46 from deck 42
+player 42 discards a 63 to deck 43
+player 42 current hand is 42 42 77 46
+player 42 draws a 59 from deck 42
+player 42 discards a 77 to deck 43
+player 42 current hand is 42 42 46 59
+player 54 has informed player 42 that player 54 has won
+player 42 exits
+player 42 hand: 42 42 46 59

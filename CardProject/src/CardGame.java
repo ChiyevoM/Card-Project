@@ -152,11 +152,19 @@ public class CardGame {
                         scanner.next(); 
                     }
                 }
+            }
 
-                System.out.print("Please enter location of pack file: ");
-                filePath = scanner.next();
+            // Automatically set filePath and generate without prompting again
+            filePath = "pack.txt";
+            try {
+                PackGenerator.generatePack(n, filePath);
+                System.out.println("Using automatically generated pack file: " + filePath);
+            } catch (IOException e) {
+                System.err.println("Error generating pack file: " + e.getMessage());
+                return;
             }
         }
+
 
         try {
             // Note: I removed Player.resetGameWon() here because we are using AtomicInteger now instead!

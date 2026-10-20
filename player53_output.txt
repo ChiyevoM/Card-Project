@@ -1,0 +1,283 @@
+player 53 initial hand 20 85 30 4
+player 53 draws a 88 from deck 53
+player 53 discards a 20 to deck 54
+player 53 current hand is 85 30 4 88
+player 53 draws a 58 from deck 53
+player 53 discards a 85 to deck 54
+player 53 current hand is 30 4 88 58
+player 53 draws a 89 from deck 53
+player 53 discards a 30 to deck 54
+player 53 current hand is 4 88 58 89
+player 53 draws a 73 from deck 53
+player 53 discards a 4 to deck 54
+player 53 current hand is 88 58 89 73
+player 53 draws a 24 from deck 53
+player 53 discards a 88 to deck 54
+player 53 current hand is 58 89 73 24
+player 53 draws a 29 from deck 53
+player 53 discards a 58 to deck 54
+player 53 current hand is 89 73 24 29
+player 53 draws a 23 from deck 53
+player 53 discards a 89 to deck 54
+player 53 current hand is 73 24 29 23
+player 53 draws a 74 from deck 53
+player 53 discards a 73 to deck 54
+player 53 current hand is 24 29 23 74
+player 53 draws a 47 from deck 53
+player 53 discards a 24 to deck 54
+player 53 current hand is 29 23 74 47
+player 53 draws a 33 from deck 53
+player 53 discards a 29 to deck 54
+player 53 current hand is 23 74 47 33
+player 53 draws a 43 from deck 53
+player 53 discards a 23 to deck 54
+player 53 current hand is 74 47 33 43
+player 53 draws a 17 from deck 53
+player 53 discards a 74 to deck 54
+player 53 current hand is 47 33 43 17
+player 53 draws a 28 from deck 53
+player 53 discards a 47 to deck 54
+player 53 current hand is 33 43 17 28
+player 53 draws a 72 from deck 53
+player 53 discards a 33 to deck 54
+player 53 current hand is 43 17 28 72
+player 53 draws a 69 from deck 53
+player 53 discards a 43 to deck 54
+player 53 current hand is 17 28 72 69
+player 53 draws a 87 from deck 53
+player 53 discards a 17 to deck 54
+player 53 current hand is 28 72 69 87
+player 53 draws a 23 from deck 53
+player 53 discards a 28 to deck 54
+player 53 current hand is 72 69 87 23
+player 53 draws a 58 from deck 53
+player 53 discards a 72 to deck 54
+player 53 current hand is 69 87 23 58
+player 53 draws a 73 from deck 53
+player 53 discards a 69 to deck 54
+player 53 current hand is 87 23 58 73
+player 53 draws a 48 from deck 53
+player 53 discards a 87 to deck 54
+player 53 current hand is 23 58 73 48
+player 53 draws a 20 from deck 53
+player 53 discards a 23 to deck 54
+player 53 current hand is 58 73 48 20
+player 53 draws a 35 from deck 53
+player 53 discards a 58 to deck 54
+player 53 current hand is 73 48 20 35
+player 53 draws a 69 from deck 53
+player 53 discards a 73 to deck 54
+player 53 current hand is 48 20 35 69
+player 53 draws a 61 from deck 53
+player 53 discards a 48 to deck 54
+player 53 current hand is 20 35 69 61
+player 53 draws a 42 from deck 53
+player 53 discards a 20 to deck 54
+player 53 current hand is 35 69 61 42
+player 53 draws a 33 from deck 53
+player 53 discards a 35 to deck 54
+player 53 current hand is 69 61 42 33
+player 53 draws a 1 from deck 53
+player 53 discards a 69 to deck 54
+player 53 current hand is 61 42 33 1
+player 53 draws a 97 from deck 53
+player 53 discards a 61 to deck 54
+player 53 current hand is 42 33 1 97
+player 53 draws a 54 from deck 53
+player 53 discards a 42 to deck 54
+player 53 current hand is 33 1 97 54
+player 53 draws a 29 from deck 53
+player 53 discards a 33 to deck 54
+player 53 current hand is 1 97 54 29
+player 53 draws a 15 from deck 53
+player 53 discards a 1 to deck 54
+player 53 current hand is 97 54 29 15
+player 53 draws a 11 from deck 53
+player 53 discards a 97 to deck 54
+player 53 current hand is 54 29 15 11
+player 53 draws a 82 from deck 53
+player 53 discards a 54 to deck 54
+player 53 current hand is 29 15 11 82
+player 53 draws a 60 from deck 53
+player 53 discards a 29 to deck 54
+player 53 current hand is 15 11 82 60
+player 53 draws a 42 from deck 53
+player 53 discards a 15 to deck 54
+player 53 current hand is 11 82 60 42
+player 53 draws a 6 from deck 53
+player 53 discards a 11 to deck 54
+player 53 current hand is 82 60 42 6
+player 53 draws a 65 from deck 53
+player 53 discards a 82 to deck 54
+player 53 current hand is 60 42 6 65
+player 53 draws a 55 from deck 53
+player 53 discards a 60 to deck 54
+player 53 current hand is 42 6 65 55
+player 53 draws a 98 from deck 53
+player 53 discards a 42 to deck 54
+player 53 current hand is 6 65 55 98
+player 53 draws a 33 from deck 53
+player 53 discards a 6 to deck 54
+player 53 current hand is 65 55 98 33
+player 53 draws a 11 from deck 53
+player 53 discards a 65 to deck 54
+player 53 current hand is 55 98 33 11
+player 53 draws a 18 from deck 53
+player 53 discards a 55 to deck 54
+player 53 current hand is 98 33 11 18
+player 53 draws a 21 from deck 53
+player 53 discards a 98 to deck 54
+player 53 current hand is 33 11 18 21
+player 53 draws a 18 from deck 53
+player 53 discards a 33 to deck 54
+player 53 current hand is 11 18 21 18
+player 53 draws a 18 from deck 53
+player 53 discards a 11 to deck 54
+player 53 current hand is 18 21 18 18
+player 53 draws a 99 from deck 53
+player 53 discards a 18 to deck 54
+player 53 current hand is 21 18 18 99
+player 53 draws a 93 from deck 53
+player 53 discards a 21 to deck 54
+player 53 current hand is 18 18 99 93
+player 53 draws a 80 from deck 53
+player 53 discards a 18 to deck 54
+player 53 current hand is 18 99 93 80
+player 53 draws a 9 from deck 53
+player 53 discards a 18 to deck 54
+player 53 current hand is 99 93 80 9
+player 53 draws a 61 from deck 53
+player 53 discards a 99 to deck 54
+player 53 current hand is 93 80 9 61
+player 53 draws a 91 from deck 53
+player 53 discards a 93 to deck 54
+player 53 current hand is 80 9 61 91
+player 53 draws a 34 from deck 53
+player 53 discards a 80 to deck 54
+player 53 current hand is 9 61 91 34
+player 53 draws a 91 from deck 53
+player 53 discards a 9 to deck 54
+player 53 current hand is 61 91 34 91
+player 53 draws a 100 from deck 53
+player 53 discards a 61 to deck 54
+player 53 current hand is 91 34 91 100
+player 53 draws a 76 from deck 53
+player 53 discards a 91 to deck 54
+player 53 current hand is 34 91 100 76
+player 53 draws a 56 from deck 53
+player 53 discards a 34 to deck 54
+player 53 current hand is 91 100 76 56
+player 53 draws a 78 from deck 53
+player 53 discards a 91 to deck 54
+player 53 current hand is 100 76 56 78
+player 53 draws a 6 from deck 53
+player 53 discards a 100 to deck 54
+player 53 current hand is 76 56 78 6
+player 53 draws a 67 from deck 53
+player 53 discards a 76 to deck 54
+player 53 current hand is 56 78 6 67
+player 53 draws a 35 from deck 53
+player 53 discards a 56 to deck 54
+player 53 current hand is 78 6 67 35
+player 53 draws a 54 from deck 53
+player 53 discards a 78 to deck 54
+player 53 current hand is 6 67 35 54
+player 53 draws a 84 from deck 53
+player 53 discards a 6 to deck 54
+player 53 current hand is 67 35 54 84
+player 53 draws a 21 from deck 53
+player 53 discards a 67 to deck 54
+player 53 current hand is 35 54 84 21
+player 53 draws a 44 from deck 53
+player 53 discards a 35 to deck 54
+player 53 current hand is 54 84 21 44
+player 53 draws a 9 from deck 53
+player 53 discards a 54 to deck 54
+player 53 current hand is 84 21 44 9
+player 53 draws a 61 from deck 53
+player 53 discards a 84 to deck 54
+player 53 current hand is 21 44 9 61
+player 53 draws a 92 from deck 53
+player 53 discards a 21 to deck 54
+player 53 current hand is 44 9 61 92
+player 53 draws a 56 from deck 53
+player 53 discards a 44 to deck 54
+player 53 current hand is 9 61 92 56
+player 53 draws a 65 from deck 53
+player 53 discards a 9 to deck 54
+player 53 current hand is 61 92 56 65
+player 53 draws a 98 from deck 53
+player 53 discards a 61 to deck 54
+player 53 current hand is 92 56 65 98
+player 53 draws a 1 from deck 53
+player 53 discards a 92 to deck 54
+player 53 current hand is 56 65 98 1
+player 53 draws a 26 from deck 53
+player 53 discards a 56 to deck 54
+player 53 current hand is 65 98 1 26
+player 53 draws a 76 from deck 53
+player 53 discards a 65 to deck 54
+player 53 current hand is 98 1 26 76
+player 53 draws a 84 from deck 53
+player 53 discards a 98 to deck 54
+player 53 current hand is 1 26 76 84
+player 53 draws a 21 from deck 53
+player 53 discards a 1 to deck 54
+player 53 current hand is 26 76 84 21
+player 53 draws a 34 from deck 53
+player 53 discards a 26 to deck 54
+player 53 current hand is 76 84 21 34
+player 53 draws a 24 from deck 53
+player 53 discards a 76 to deck 54
+player 53 current hand is 84 21 34 24
+player 53 draws a 78 from deck 53
+player 53 discards a 84 to deck 54
+player 53 current hand is 21 34 24 78
+player 53 draws a 93 from deck 53
+player 53 discards a 21 to deck 54
+player 53 current hand is 34 24 78 93
+player 53 draws a 64 from deck 53
+player 53 discards a 34 to deck 54
+player 53 current hand is 24 78 93 64
+player 53 draws a 32 from deck 53
+player 53 discards a 24 to deck 54
+player 53 current hand is 78 93 64 32
+player 53 draws a 54 from deck 53
+player 53 discards a 78 to deck 54
+player 53 current hand is 93 64 32 54
+player 53 draws a 77 from deck 53
+player 53 discards a 93 to deck 54
+player 53 current hand is 64 32 54 77
+player 53 draws a 71 from deck 53
+player 53 discards a 64 to deck 54
+player 53 current hand is 32 54 77 71
+player 53 draws a 67 from deck 53
+player 53 discards a 32 to deck 54
+player 53 current hand is 54 77 71 67
+player 53 draws a 99 from deck 53
+player 53 discards a 54 to deck 54
+player 53 current hand is 77 71 67 99
+player 53 draws a 70 from deck 53
+player 53 discards a 77 to deck 54
+player 53 current hand is 71 67 99 70
+player 53 draws a 26 from deck 53
+player 53 discards a 71 to deck 54
+player 53 current hand is 67 99 70 26
+player 53 draws a 73 from deck 53
+player 53 discards a 67 to deck 54
+player 53 current hand is 99 70 26 73
+player 53 draws a 26 from deck 53
+player 53 discards a 99 to deck 54
+player 53 current hand is 70 26 73 26
+player 53 draws a 2 from deck 53
+player 53 discards a 70 to deck 54
+player 53 current hand is 26 73 26 2
+player 53 draws a 29 from deck 53
+player 53 discards a 26 to deck 54
+player 53 current hand is 73 26 2 29
+player 53 draws a 89 from deck 53
+player 53 discards a 73 to deck 54
+player 53 current hand is 26 2 29 89
+player 54 has informed player 53 that player 54 has won
+player 53 exits
+player 53 hand: 26 2 29 89

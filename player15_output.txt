@@ -1,0 +1,184 @@
+player 15 initial hand 94 96 5 72
+player 15 draws a 89 from deck 15
+player 15 discards a 94 to deck 16
+player 15 current hand is 96 5 72 89
+player 15 draws a 80 from deck 15
+player 15 discards a 96 to deck 16
+player 15 current hand is 5 72 89 80
+player 15 draws a 53 from deck 15
+player 15 discards a 5 to deck 16
+player 15 current hand is 72 89 80 53
+player 15 draws a 7 from deck 15
+player 15 discards a 72 to deck 16
+player 15 current hand is 89 80 53 7
+player 15 draws a 63 from deck 15
+player 15 discards a 89 to deck 16
+player 15 current hand is 80 53 7 63
+player 15 draws a 61 from deck 15
+player 15 discards a 80 to deck 16
+player 15 current hand is 53 7 63 61
+player 15 draws a 95 from deck 15
+player 15 discards a 53 to deck 16
+player 15 current hand is 7 63 61 95
+player 15 draws a 37 from deck 15
+player 15 discards a 7 to deck 16
+player 15 current hand is 63 61 95 37
+player 15 draws a 50 from deck 15
+player 15 discards a 63 to deck 16
+player 15 current hand is 61 95 37 50
+player 15 draws a 8 from deck 15
+player 15 discards a 61 to deck 16
+player 15 current hand is 95 37 50 8
+player 15 draws a 87 from deck 15
+player 15 discards a 95 to deck 16
+player 15 current hand is 37 50 8 87
+player 15 draws a 76 from deck 15
+player 15 discards a 37 to deck 16
+player 15 current hand is 50 8 87 76
+player 15 draws a 71 from deck 15
+player 15 discards a 50 to deck 16
+player 15 current hand is 8 87 76 71
+player 15 draws a 57 from deck 15
+player 15 discards a 8 to deck 16
+player 15 current hand is 87 76 71 57
+player 15 draws a 99 from deck 15
+player 15 discards a 87 to deck 16
+player 15 current hand is 76 71 57 99
+player 15 draws a 90 from deck 15
+player 15 discards a 76 to deck 16
+player 15 current hand is 71 57 99 90
+player 15 draws a 33 from deck 15
+player 15 discards a 71 to deck 16
+player 15 current hand is 57 99 90 33
+player 15 draws a 2 from deck 15
+player 15 discards a 57 to deck 16
+player 15 current hand is 99 90 33 2
+player 15 draws a 22 from deck 15
+player 15 discards a 99 to deck 16
+player 15 current hand is 90 33 2 22
+player 15 draws a 95 from deck 15
+player 15 discards a 90 to deck 16
+player 15 current hand is 33 2 22 95
+player 15 draws a 33 from deck 15
+player 15 discards a 33 to deck 16
+player 15 current hand is 2 22 95 33
+player 15 draws a 32 from deck 15
+player 15 discards a 2 to deck 16
+player 15 current hand is 22 95 33 32
+player 15 draws a 66 from deck 15
+player 15 discards a 22 to deck 16
+player 15 current hand is 95 33 32 66
+player 15 draws a 81 from deck 15
+player 15 discards a 95 to deck 16
+player 15 current hand is 33 32 66 81
+player 15 draws a 17 from deck 15
+player 15 discards a 33 to deck 16
+player 15 current hand is 32 66 81 17
+player 15 draws a 5 from deck 15
+player 15 discards a 32 to deck 16
+player 15 current hand is 66 81 17 5
+player 15 draws a 84 from deck 15
+player 15 discards a 66 to deck 16
+player 15 current hand is 81 17 5 84
+player 15 draws a 93 from deck 15
+player 15 discards a 81 to deck 16
+player 15 current hand is 17 5 84 93
+player 15 draws a 35 from deck 15
+player 15 discards a 17 to deck 16
+player 15 current hand is 5 84 93 35
+player 15 draws a 50 from deck 15
+player 15 discards a 5 to deck 16
+player 15 current hand is 84 93 35 50
+player 15 draws a 80 from deck 15
+player 15 discards a 84 to deck 16
+player 15 current hand is 93 35 50 80
+player 15 draws a 81 from deck 15
+player 15 discards a 93 to deck 16
+player 15 current hand is 35 50 80 81
+player 15 draws a 30 from deck 15
+player 15 discards a 35 to deck 16
+player 15 current hand is 50 80 81 30
+player 15 draws a 64 from deck 15
+player 15 discards a 50 to deck 16
+player 15 current hand is 80 81 30 64
+player 15 draws a 77 from deck 15
+player 15 discards a 80 to deck 16
+player 15 current hand is 81 30 64 77
+player 15 draws a 33 from deck 15
+player 15 discards a 81 to deck 16
+player 15 current hand is 30 64 77 33
+player 15 draws a 7 from deck 15
+player 15 discards a 30 to deck 16
+player 15 current hand is 64 77 33 7
+player 15 draws a 1 from deck 15
+player 15 discards a 64 to deck 16
+player 15 current hand is 77 33 7 1
+player 15 draws a 70 from deck 15
+player 15 discards a 77 to deck 16
+player 15 current hand is 33 7 1 70
+player 15 draws a 40 from deck 15
+player 15 discards a 33 to deck 16
+player 15 current hand is 7 1 70 40
+player 15 draws a 24 from deck 15
+player 15 discards a 7 to deck 16
+player 15 current hand is 1 70 40 24
+player 15 draws a 28 from deck 15
+player 15 discards a 1 to deck 16
+player 15 current hand is 70 40 24 28
+player 15 draws a 22 from deck 15
+player 15 discards a 70 to deck 16
+player 15 current hand is 40 24 28 22
+player 15 draws a 33 from deck 15
+player 15 discards a 40 to deck 16
+player 15 current hand is 24 28 22 33
+player 15 draws a 63 from deck 15
+player 15 discards a 24 to deck 16
+player 15 current hand is 28 22 33 63
+player 15 draws a 17 from deck 15
+player 15 discards a 28 to deck 16
+player 15 current hand is 22 33 63 17
+player 15 draws a 52 from deck 15
+player 15 discards a 22 to deck 16
+player 15 current hand is 33 63 17 52
+player 15 draws a 43 from deck 15
+player 15 discards a 33 to deck 16
+player 15 current hand is 63 17 52 43
+player 15 draws a 55 from deck 15
+player 15 discards a 63 to deck 16
+player 15 current hand is 17 52 43 55
+player 15 draws a 4 from deck 15
+player 15 discards a 17 to deck 16
+player 15 current hand is 52 43 55 4
+player 15 draws a 3 from deck 15
+player 15 discards a 52 to deck 16
+player 15 current hand is 43 55 4 3
+player 15 draws a 56 from deck 15
+player 15 discards a 43 to deck 16
+player 15 current hand is 55 4 3 56
+player 15 draws a 87 from deck 15
+player 15 discards a 55 to deck 16
+player 15 current hand is 4 3 56 87
+player 15 draws a 79 from deck 15
+player 15 discards a 4 to deck 16
+player 15 current hand is 3 56 87 79
+player 15 draws a 19 from deck 15
+player 15 discards a 3 to deck 16
+player 15 current hand is 56 87 79 19
+player 15 draws a 65 from deck 15
+player 15 discards a 56 to deck 16
+player 15 current hand is 87 79 19 65
+player 15 draws a 90 from deck 15
+player 15 discards a 87 to deck 16
+player 15 current hand is 79 19 65 90
+player 15 draws a 58 from deck 15
+player 15 discards a 79 to deck 16
+player 15 current hand is 19 65 90 58
+player 15 draws a 71 from deck 15
+player 15 discards a 19 to deck 16
+player 15 current hand is 65 90 58 71
+player 15 draws a 58 from deck 15
+player 15 discards a 65 to deck 16
+player 15 current hand is 90 58 71 58
+player 54 has informed player 15 that player 54 has won
+player 15 exits
+player 15 hand: 90 58 71 58

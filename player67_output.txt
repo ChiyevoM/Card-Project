@@ -1,0 +1,4 @@
+player 67 initial hand 13 52 100 82
+player 54 has informed player 67 that player 54 has won
+player 67 exits
+player 67 hand: 13 52 100 82

@@ -1,0 +1,4 @@
+player 65 initial hand 80 90 22 23
+player 54 has informed player 65 that player 54 has won
+player 65 exits
+player 65 hand: 80 90 22 23

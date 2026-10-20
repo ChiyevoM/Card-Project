@@ -1,0 +1,31 @@
+player 6 initial hand 6 5 1 4
+player 6 draws a 5 from deck 6
+player 6 discards a 5 to deck 1
+player 6 current hand is 6 1 4 5
+player 6 draws a 3 from deck 6
+player 6 discards a 1 to deck 1
+player 6 current hand is 6 4 5 3
+player 6 draws a 6 from deck 6
+player 6 discards a 4 to deck 1
+player 6 current hand is 6 5 3 6
+player 6 draws a 4 from deck 6
+player 6 discards a 5 to deck 1
+player 6 current hand is 6 3 6 4
+player 6 draws a 4 from deck 6
+player 6 discards a 3 to deck 1
+player 6 current hand is 6 6 4 4
+player 6 draws a 4 from deck 6
+player 6 discards a 4 to deck 1
+player 6 current hand is 6 6 4 4
+player 6 draws a 6 from deck 6
+player 6 discards a 4 to deck 1
+player 6 current hand is 6 6 4 6
+player 6 draws a 4 from deck 6
+player 6 discards a 4 to deck 1
+player 6 current hand is 6 6 6 4
+player 6 draws a 6 from deck 6
+player 6 discards a 4 to deck 1
+player 6 current hand is 6 6 6 6
+player 1 has informed player 6 that player 1 has won
+player 6 exits
+player 6 hand: 6 6 6 6

@@ -1,0 +1,361 @@
+player 46 initial hand 91 100 76 56
+player 46 draws a 78 from deck 46
+player 46 discards a 91 to deck 47
+player 46 current hand is 100 76 56 78
+player 46 draws a 6 from deck 46
+player 46 discards a 100 to deck 47
+player 46 current hand is 76 56 78 6
+player 46 draws a 67 from deck 46
+player 46 discards a 76 to deck 47
+player 46 current hand is 56 78 6 67
+player 46 draws a 35 from deck 46
+player 46 discards a 56 to deck 47
+player 46 current hand is 78 6 67 35
+player 46 draws a 54 from deck 46
+player 46 discards a 78 to deck 47
+player 46 current hand is 6 67 35 54
+player 46 draws a 84 from deck 46
+player 46 discards a 6 to deck 47
+player 46 current hand is 67 35 54 84
+player 46 draws a 21 from deck 46
+player 46 discards a 67 to deck 47
+player 46 current hand is 35 54 84 21
+player 46 draws a 44 from deck 46
+player 46 discards a 35 to deck 47
+player 46 current hand is 54 84 21 44
+player 46 draws a 9 from deck 46
+player 46 discards a 54 to deck 47
+player 46 current hand is 84 21 44 9
+player 46 draws a 61 from deck 46
+player 46 discards a 84 to deck 47
+player 46 current hand is 21 44 9 61
+player 46 draws a 92 from deck 46
+player 46 discards a 21 to deck 47
+player 46 current hand is 44 9 61 92
+player 46 draws a 56 from deck 46
+player 46 discards a 44 to deck 47
+player 46 current hand is 9 61 92 56
+player 46 draws a 65 from deck 46
+player 46 discards a 9 to deck 47
+player 46 current hand is 61 92 56 65
+player 46 draws a 46 from deck 46
+player 46 discards a 61 to deck 47
+player 46 current hand is 92 56 65 46
+player 46 draws a 48 from deck 46
+player 46 discards a 92 to deck 47
+player 46 current hand is 56 65 46 48
+player 46 draws a 98 from deck 46
+player 46 discards a 56 to deck 47
+player 46 current hand is 65 46 48 98
+player 46 draws a 1 from deck 46
+player 46 discards a 65 to deck 47
+player 46 current hand is 46 48 98 1
+player 46 draws a 47 from deck 46
+player 46 discards a 48 to deck 47
+player 46 current hand is 46 98 1 47
+player 46 draws a 26 from deck 46
+player 46 discards a 98 to deck 47
+player 46 current hand is 46 1 47 26
+player 46 draws a 76 from deck 46
+player 46 discards a 1 to deck 47
+player 46 current hand is 46 47 26 76
+player 46 draws a 84 from deck 46
+player 46 discards a 47 to deck 47
+player 46 current hand is 46 26 76 84
+player 46 draws a 21 from deck 46
+player 46 discards a 26 to deck 47
+player 46 current hand is 46 76 84 21
+player 46 draws a 49 from deck 46
+player 46 discards a 76 to deck 47
+player 46 current hand is 46 84 21 49
+player 46 draws a 34 from deck 46
+player 46 discards a 84 to deck 47
+player 46 current hand is 46 21 49 34
+player 46 draws a 24 from deck 46
+player 46 discards a 21 to deck 47
+player 46 current hand is 46 49 34 24
+player 46 draws a 46 from deck 46
+player 46 discards a 49 to deck 47
+player 46 current hand is 46 34 24 46
+player 46 draws a 78 from deck 46
+player 46 discards a 34 to deck 47
+player 46 current hand is 46 24 46 78
+player 46 draws a 51 from deck 46
+player 46 discards a 24 to deck 47
+player 46 current hand is 46 46 78 51
+player 46 draws a 93 from deck 46
+player 46 discards a 78 to deck 47
+player 46 current hand is 46 46 51 93
+player 46 draws a 64 from deck 46
+player 46 discards a 51 to deck 47
+player 46 current hand is 46 46 93 64
+player 46 draws a 32 from deck 46
+player 46 discards a 93 to deck 47
+player 46 current hand is 46 46 64 32
+player 46 draws a 52 from deck 46
+player 46 discards a 64 to deck 47
+player 46 current hand is 46 46 32 52
+player 46 draws a 54 from deck 46
+player 46 discards a 32 to deck 47
+player 46 current hand is 46 46 52 54
+player 46 draws a 77 from deck 46
+player 46 discards a 52 to deck 47
+player 46 current hand is 46 46 54 77
+player 46 draws a 71 from deck 46
+player 46 discards a 54 to deck 47
+player 46 current hand is 46 46 77 71
+player 46 draws a 67 from deck 46
+player 46 discards a 77 to deck 47
+player 46 current hand is 46 46 71 67
+player 46 draws a 99 from deck 46
+player 46 discards a 71 to deck 47
+player 46 current hand is 46 46 67 99
+player 46 draws a 70 from deck 46
+player 46 discards a 67 to deck 47
+player 46 current hand is 46 46 99 70
+player 46 draws a 26 from deck 46
+player 46 discards a 99 to deck 47
+player 46 current hand is 46 46 70 26
+player 46 draws a 73 from deck 46
+player 46 discards a 70 to deck 47
+player 46 current hand is 46 46 26 73
+player 46 draws a 26 from deck 46
+player 46 discards a 26 to deck 47
+player 46 current hand is 46 46 73 26
+player 46 draws a 2 from deck 46
+player 46 discards a 73 to deck 47
+player 46 current hand is 46 46 26 2
+player 46 draws a 29 from deck 46
+player 46 discards a 26 to deck 47
+player 46 current hand is 46 46 2 29
+player 46 draws a 89 from deck 46
+player 46 discards a 2 to deck 47
+player 46 current hand is 46 46 29 89
+player 46 draws a 99 from deck 46
+player 46 discards a 29 to deck 47
+player 46 current hand is 46 46 89 99
+player 46 draws a 60 from deck 46
+player 46 discards a 89 to deck 47
+player 46 current hand is 46 46 99 60
+player 46 draws a 64 from deck 46
+player 46 discards a 99 to deck 47
+player 46 current hand is 46 46 60 64
+player 46 draws a 24 from deck 46
+player 46 discards a 60 to deck 47
+player 46 current hand is 46 46 64 24
+player 46 draws a 69 from deck 46
+player 46 discards a 64 to deck 47
+player 46 current hand is 46 46 24 69
+player 46 draws a 53 from deck 46
+player 46 discards a 24 to deck 47
+player 46 current hand is 46 46 69 53
+player 46 draws a 86 from deck 46
+player 46 discards a 69 to deck 47
+player 46 current hand is 46 46 53 86
+player 46 draws a 57 from deck 46
+player 46 discards a 53 to deck 47
+player 46 current hand is 46 46 86 57
+player 46 draws a 90 from deck 46
+player 46 discards a 86 to deck 47
+player 46 current hand is 46 46 57 90
+player 46 draws a 13 from deck 46
+player 46 discards a 57 to deck 47
+player 46 current hand is 46 46 90 13
+player 46 draws a 83 from deck 46
+player 46 discards a 90 to deck 47
+player 46 current hand is 46 46 13 83
+player 46 draws a 57 from deck 46
+player 46 discards a 13 to deck 47
+player 46 current hand is 46 46 83 57
+player 46 draws a 3 from deck 46
+player 46 discards a 83 to deck 47
+player 46 current hand is 46 46 57 3
+player 46 draws a 95 from deck 46
+player 46 discards a 57 to deck 47
+player 46 current hand is 46 46 3 95
+player 46 draws a 77 from deck 46
+player 46 discards a 3 to deck 47
+player 46 current hand is 46 46 95 77
+player 46 draws a 25 from deck 46
+player 46 discards a 95 to deck 47
+player 46 current hand is 46 46 77 25
+player 46 draws a 20 from deck 46
+player 46 discards a 77 to deck 47
+player 46 current hand is 46 46 25 20
+player 46 draws a 94 from deck 46
+player 46 discards a 25 to deck 47
+player 46 current hand is 46 46 20 94
+player 46 draws a 92 from deck 46
+player 46 discards a 20 to deck 47
+player 46 current hand is 46 46 94 92
+player 46 draws a 97 from deck 46
+player 46 discards a 94 to deck 47
+player 46 current hand is 46 46 92 97
+player 46 draws a 25 from deck 46
+player 46 discards a 92 to deck 47
+player 46 current hand is 46 46 97 25
+player 46 draws a 81 from deck 46
+player 46 discards a 97 to deck 47
+player 46 current hand is 46 46 25 81
+player 46 draws a 46 from deck 46
+player 46 discards a 25 to deck 47
+player 46 current hand is 46 46 81 46
+player 46 draws a 100 from deck 46
+player 46 discards a 81 to deck 47
+player 46 current hand is 46 46 46 100
+player 46 draws a 18 from deck 46
+player 46 discards a 100 to deck 47
+player 46 current hand is 46 46 46 18
+player 46 draws a 47 from deck 46
+player 46 discards a 18 to deck 47
+player 46 current hand is 46 46 46 47
+player 46 draws a 85 from deck 46
+player 46 discards a 47 to deck 47
+player 46 current hand is 46 46 46 85
+player 46 draws a 1 from deck 46
+player 46 discards a 85 to deck 47
+player 46 current hand is 46 46 46 1
+player 46 draws a 73 from deck 46
+player 46 discards a 1 to deck 47
+player 46 current hand is 46 46 46 73
+player 46 draws a 99 from deck 46
+player 46 discards a 73 to deck 47
+player 46 current hand is 46 46 46 99
+player 46 draws a 7 from deck 46
+player 46 discards a 99 to deck 47
+player 46 current hand is 46 46 46 7
+player 46 draws a 11 from deck 46
+player 46 discards a 7 to deck 47
+player 46 current hand is 46 46 46 11
+player 46 draws a 31 from deck 46
+player 46 discards a 11 to deck 47
+player 46 current hand is 46 46 46 31
+player 46 draws a 87 from deck 46
+player 46 discards a 31 to deck 47
+player 46 current hand is 46 46 46 87
+player 46 draws a 29 from deck 46
+player 46 discards a 87 to deck 47
+player 46 current hand is 46 46 46 29
+player 46 draws a 82 from deck 46
+player 46 discards a 29 to deck 47
+player 46 current hand is 46 46 46 82
+player 46 draws a 19 from deck 46
+player 46 discards a 82 to deck 47
+player 46 current hand is 46 46 46 19
+player 46 draws a 89 from deck 46
+player 46 discards a 19 to deck 47
+player 46 current hand is 46 46 46 89
+player 46 draws a 31 from deck 46
+player 46 discards a 89 to deck 47
+player 46 current hand is 46 46 46 31
+player 46 draws a 76 from deck 46
+player 46 discards a 31 to deck 47
+player 46 current hand is 46 46 46 76
+player 46 draws a 96 from deck 46
+player 46 discards a 76 to deck 47
+player 46 current hand is 46 46 46 96
+player 46 draws a 91 from deck 46
+player 46 discards a 96 to deck 47
+player 46 current hand is 46 46 46 91
+player 46 draws a 27 from deck 46
+player 46 discards a 91 to deck 47
+player 46 current hand is 46 46 46 27
+player 46 draws a 1 from deck 46
+player 46 discards a 27 to deck 47
+player 46 current hand is 46 46 46 1
+player 46 draws a 62 from deck 46
+player 46 discards a 1 to deck 47
+player 46 current hand is 46 46 46 62
+player 46 draws a 86 from deck 46
+player 46 discards a 62 to deck 47
+player 46 current hand is 46 46 46 86
+player 46 draws a 79 from deck 46
+player 46 discards a 86 to deck 47
+player 46 current hand is 46 46 46 79
+player 46 draws a 49 from deck 46
+player 46 discards a 79 to deck 47
+player 46 current hand is 46 46 46 49
+player 46 draws a 93 from deck 46
+player 46 discards a 49 to deck 47
+player 46 current hand is 46 46 46 93
+player 46 draws a 76 from deck 46
+player 46 discards a 93 to deck 47
+player 46 current hand is 46 46 46 76
+player 46 draws a 12 from deck 46
+player 46 discards a 76 to deck 47
+player 46 current hand is 46 46 46 12
+player 46 draws a 71 from deck 46
+player 46 discards a 12 to deck 47
+player 46 current hand is 46 46 46 71
+player 46 draws a 2 from deck 46
+player 46 discards a 71 to deck 47
+player 46 current hand is 46 46 46 2
+player 46 draws a 2 from deck 46
+player 46 discards a 2 to deck 47
+player 46 current hand is 46 46 46 2
+player 46 draws a 9 from deck 46
+player 46 discards a 2 to deck 47
+player 46 current hand is 46 46 46 9
+player 46 draws a 92 from deck 46
+player 46 discards a 9 to deck 47
+player 46 current hand is 46 46 46 92
+player 46 draws a 57 from deck 46
+player 46 discards a 92 to deck 47
+player 46 current hand is 46 46 46 57
+player 46 draws a 77 from deck 46
+player 46 discards a 57 to deck 47
+player 46 current hand is 46 46 46 77
+player 46 draws a 16 from deck 46
+player 46 discards a 77 to deck 47
+player 46 current hand is 46 46 46 16
+player 46 draws a 67 from deck 46
+player 46 discards a 16 to deck 47
+player 46 current hand is 46 46 46 67
+player 46 draws a 62 from deck 46
+player 46 discards a 67 to deck 47
+player 46 current hand is 46 46 46 62
+player 46 draws a 68 from deck 46
+player 46 discards a 62 to deck 47
+player 46 current hand is 46 46 46 68
+player 46 draws a 56 from deck 46
+player 46 discards a 68 to deck 47
+player 46 current hand is 46 46 46 56
+player 46 draws a 9 from deck 46
+player 46 discards a 56 to deck 47
+player 46 current hand is 46 46 46 9
+player 46 draws a 87 from deck 46
+player 46 discards a 9 to deck 47
+player 46 current hand is 46 46 46 87
+player 46 draws a 83 from deck 46
+player 46 discards a 87 to deck 47
+player 46 current hand is 46 46 46 83
+player 46 draws a 57 from deck 46
+player 46 discards a 83 to deck 47
+player 46 current hand is 46 46 46 57
+player 46 draws a 9 from deck 46
+player 46 discards a 57 to deck 47
+player 46 current hand is 46 46 46 9
+player 46 draws a 54 from deck 46
+player 46 discards a 9 to deck 47
+player 46 current hand is 46 46 46 54
+player 46 draws a 23 from deck 46
+player 46 discards a 54 to deck 47
+player 46 current hand is 46 46 46 23
+player 46 draws a 87 from deck 46
+player 46 discards a 23 to deck 47
+player 46 current hand is 46 46 46 87
+player 46 draws a 29 from deck 46
+player 46 discards a 87 to deck 47
+player 46 current hand is 46 46 46 29
+player 46 draws a 15 from deck 46
+player 46 discards a 29 to deck 47
+player 46 current hand is 46 46 46 15
+player 46 draws a 18 from deck 46
+player 46 discards a 15 to deck 47
+player 46 current hand is 46 46 46 18
+player 46 draws a 64 from deck 46
+player 46 discards a 18 to deck 47
+player 46 current hand is 46 46 46 64
+player 54 has informed player 46 that player 54 has won
+player 46 exits
+player 46 hand: 46 46 46 64

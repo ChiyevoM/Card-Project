@@ -1,0 +1,4 @@
+player 88 initial hand 21 3 95 12
+player 54 has informed player 88 that player 54 has won
+player 88 exits
+player 88 hand: 21 3 95 12

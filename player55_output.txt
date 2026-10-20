@@ -1,0 +1,130 @@
+player 55 initial hand 1 97 17 46
+player 55 draws a 65 from deck 55
+player 55 discards a 1 to deck 56
+player 55 current hand is 97 17 46 65
+player 55 draws a 19 from deck 55
+player 55 discards a 97 to deck 56
+player 55 current hand is 17 46 65 19
+player 55 draws a 93 from deck 55
+player 55 discards a 17 to deck 56
+player 55 current hand is 46 65 19 93
+player 55 draws a 68 from deck 55
+player 55 discards a 46 to deck 56
+player 55 current hand is 65 19 93 68
+player 55 draws a 85 from deck 55
+player 55 discards a 65 to deck 56
+player 55 current hand is 19 93 68 85
+player 55 draws a 56 from deck 55
+player 55 discards a 19 to deck 56
+player 55 current hand is 93 68 85 56
+player 55 draws a 55 from deck 55
+player 55 discards a 93 to deck 56
+player 55 current hand is 68 85 56 55
+player 55 draws a 79 from deck 55
+player 55 discards a 68 to deck 56
+player 55 current hand is 85 56 55 79
+player 55 draws a 46 from deck 55
+player 55 discards a 85 to deck 56
+player 55 current hand is 56 55 79 46
+player 55 draws a 91 from deck 55
+player 55 discards a 56 to deck 56
+player 55 current hand is 55 79 46 91
+player 55 draws a 61 from deck 55
+player 55 discards a 79 to deck 56
+player 55 current hand is 55 46 91 61
+player 55 draws a 20 from deck 55
+player 55 discards a 46 to deck 56
+player 55 current hand is 55 91 61 20
+player 55 draws a 85 from deck 55
+player 55 discards a 91 to deck 56
+player 55 current hand is 55 61 20 85
+player 55 draws a 30 from deck 55
+player 55 discards a 61 to deck 56
+player 55 current hand is 55 20 85 30
+player 55 draws a 4 from deck 55
+player 55 discards a 20 to deck 56
+player 55 current hand is 55 85 30 4
+player 55 draws a 88 from deck 55
+player 55 discards a 85 to deck 56
+player 55 current hand is 55 30 4 88
+player 55 draws a 58 from deck 55
+player 55 discards a 30 to deck 56
+player 55 current hand is 55 4 88 58
+player 55 draws a 89 from deck 55
+player 55 discards a 4 to deck 56
+player 55 current hand is 55 88 58 89
+player 55 draws a 73 from deck 55
+player 55 discards a 88 to deck 56
+player 55 current hand is 55 58 89 73
+player 55 draws a 24 from deck 55
+player 55 discards a 58 to deck 56
+player 55 current hand is 55 89 73 24
+player 55 draws a 29 from deck 55
+player 55 discards a 89 to deck 56
+player 55 current hand is 55 73 24 29
+player 55 draws a 23 from deck 55
+player 55 discards a 73 to deck 56
+player 55 current hand is 55 24 29 23
+player 55 draws a 74 from deck 55
+player 55 discards a 24 to deck 56
+player 55 current hand is 55 29 23 74
+player 55 draws a 47 from deck 55
+player 55 discards a 29 to deck 56
+player 55 current hand is 55 23 74 47
+player 55 draws a 33 from deck 55
+player 55 discards a 23 to deck 56
+player 55 current hand is 55 74 47 33
+player 55 draws a 43 from deck 55
+player 55 discards a 74 to deck 56
+player 55 current hand is 55 47 33 43
+player 55 draws a 17 from deck 55
+player 55 discards a 47 to deck 56
+player 55 current hand is 55 33 43 17
+player 55 draws a 28 from deck 55
+player 55 discards a 33 to deck 56
+player 55 current hand is 55 43 17 28
+player 55 draws a 72 from deck 55
+player 55 discards a 43 to deck 56
+player 55 current hand is 55 17 28 72
+player 55 draws a 69 from deck 55
+player 55 discards a 17 to deck 56
+player 55 current hand is 55 28 72 69
+player 55 draws a 87 from deck 55
+player 55 discards a 28 to deck 56
+player 55 current hand is 55 72 69 87
+player 55 draws a 23 from deck 55
+player 55 discards a 72 to deck 56
+player 55 current hand is 55 69 87 23
+player 55 draws a 58 from deck 55
+player 55 discards a 69 to deck 56
+player 55 current hand is 55 87 23 58
+player 55 draws a 73 from deck 55
+player 55 discards a 87 to deck 56
+player 55 current hand is 55 23 58 73
+player 55 draws a 48 from deck 55
+player 55 discards a 23 to deck 56
+player 55 current hand is 55 58 73 48
+player 55 draws a 20 from deck 55
+player 55 discards a 58 to deck 56
+player 55 current hand is 55 73 48 20
+player 55 draws a 35 from deck 55
+player 55 discards a 73 to deck 56
+player 55 current hand is 55 48 20 35
+player 55 draws a 69 from deck 55
+player 55 discards a 48 to deck 56
+player 55 current hand is 55 20 35 69
+player 55 draws a 61 from deck 55
+player 55 discards a 20 to deck 56
+player 55 current hand is 55 35 69 61
+player 55 draws a 42 from deck 55
+player 55 discards a 35 to deck 56
+player 55 current hand is 55 69 61 42
+player 55 draws a 33 from deck 55
+player 55 discards a 69 to deck 56
+player 55 current hand is 55 61 42 33
+player 55 draws a 1 from deck 55
+player 55 discards a 61 to deck 56
+player 55 current hand is 55 42 33 1
+player 54 has informed player 55 that player 54 has won
+player 55 exits
+player 55 hand: 55 42 33 1

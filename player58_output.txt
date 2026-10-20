@@ -1,0 +1,79 @@
+player 58 initial hand 55 22 45 51
+player 58 draws a 59 from deck 58
+player 58 discards a 55 to deck 59
+player 58 current hand is 22 45 51 59
+player 58 draws a 10 from deck 58
+player 58 discards a 22 to deck 59
+player 58 current hand is 45 51 59 10
+player 58 draws a 98 from deck 58
+player 58 discards a 45 to deck 59
+player 58 current hand is 51 59 10 98
+player 58 draws a 32 from deck 58
+player 58 discards a 51 to deck 59
+player 58 current hand is 59 10 98 32
+player 58 draws a 62 from deck 58
+player 58 discards a 59 to deck 59
+player 58 current hand is 10 98 32 62
+player 58 draws a 99 from deck 58
+player 58 discards a 10 to deck 59
+player 58 current hand is 98 32 62 99
+player 58 draws a 88 from deck 58
+player 58 discards a 98 to deck 59
+player 58 current hand is 32 62 99 88
+player 58 draws a 19 from deck 58
+player 58 discards a 32 to deck 59
+player 58 current hand is 62 99 88 19
+player 58 draws a 86 from deck 58
+player 58 discards a 62 to deck 59
+player 58 current hand is 99 88 19 86
+player 58 draws a 13 from deck 58
+player 58 discards a 99 to deck 59
+player 58 current hand is 88 19 86 13
+player 58 draws a 95 from deck 58
+player 58 discards a 88 to deck 59
+player 58 current hand is 19 86 13 95
+player 58 draws a 89 from deck 58
+player 58 discards a 19 to deck 59
+player 58 current hand is 86 13 95 89
+player 58 draws a 75 from deck 58
+player 58 discards a 86 to deck 59
+player 58 current hand is 13 95 89 75
+player 58 draws a 45 from deck 58
+player 58 discards a 13 to deck 59
+player 58 current hand is 95 89 75 45
+player 58 draws a 76 from deck 58
+player 58 discards a 95 to deck 59
+player 58 current hand is 89 75 45 76
+player 58 draws a 70 from deck 58
+player 58 discards a 89 to deck 59
+player 58 current hand is 75 45 76 70
+player 58 draws a 6 from deck 58
+player 58 discards a 75 to deck 59
+player 58 current hand is 45 76 70 6
+player 58 draws a 31 from deck 58
+player 58 discards a 45 to deck 59
+player 58 current hand is 76 70 6 31
+player 58 draws a 68 from deck 58
+player 58 discards a 76 to deck 59
+player 58 current hand is 70 6 31 68
+player 58 draws a 91 from deck 58
+player 58 discards a 70 to deck 59
+player 58 current hand is 6 31 68 91
+player 58 draws a 1 from deck 58
+player 58 discards a 6 to deck 59
+player 58 current hand is 31 68 91 1
+player 58 draws a 97 from deck 58
+player 58 discards a 31 to deck 59
+player 58 current hand is 68 91 1 97
+player 58 draws a 17 from deck 58
+player 58 discards a 68 to deck 59
+player 58 current hand is 91 1 97 17
+player 58 draws a 46 from deck 58
+player 58 discards a 91 to deck 59
+player 58 current hand is 1 97 17 46
+player 58 draws a 65 from deck 58
+player 58 discards a 1 to deck 59
+player 58 current hand is 97 17 46 65
+player 54 has informed player 58 that player 54 has won
+player 58 exits
+player 58 hand: 97 17 46 65

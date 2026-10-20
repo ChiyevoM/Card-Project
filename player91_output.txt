@@ -1,0 +1,4 @@
+player 91 initial hand 47 63 48 37
+player 54 has informed player 91 that player 54 has won
+player 91 exits
+player 91 hand: 47 63 48 37

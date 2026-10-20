@@ -1,0 +1,4 @@
+player 87 initial hand 49 77 75 5
+player 54 has informed player 87 that player 54 has won
+player 87 exits
+player 87 hand: 49 77 75 5

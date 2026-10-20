@@ -1,0 +1,4 @@
+player 82 initial hand 30 26 8 86
+player 54 has informed player 82 that player 54 has won
+player 82 exits
+player 82 hand: 30 26 8 86

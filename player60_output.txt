@@ -1,0 +1,37 @@
+player 60 initial hand 1 98 98 13
+player 60 draws a 3 from deck 60
+player 60 discards a 1 to deck 61
+player 60 current hand is 98 98 13 3
+player 60 draws a 41 from deck 60
+player 60 discards a 98 to deck 61
+player 60 current hand is 98 13 3 41
+player 60 draws a 58 from deck 60
+player 60 discards a 98 to deck 61
+player 60 current hand is 13 3 41 58
+player 60 draws a 30 from deck 60
+player 60 discards a 13 to deck 61
+player 60 current hand is 3 41 58 30
+player 60 draws a 32 from deck 60
+player 60 discards a 3 to deck 61
+player 60 current hand is 41 58 30 32
+player 60 draws a 88 from deck 60
+player 60 discards a 41 to deck 61
+player 60 current hand is 58 30 32 88
+player 60 draws a 55 from deck 60
+player 60 discards a 58 to deck 61
+player 60 current hand is 30 32 88 55
+player 60 draws a 97 from deck 60
+player 60 discards a 30 to deck 61
+player 60 current hand is 32 88 55 97
+player 60 draws a 86 from deck 60
+player 60 discards a 32 to deck 61
+player 60 current hand is 88 55 97 86
+player 60 draws a 92 from deck 60
+player 60 discards a 88 to deck 61
+player 60 current hand is 55 97 86 92
+player 60 draws a 19 from deck 60
+player 60 discards a 55 to deck 61
+player 60 current hand is 97 86 92 19
+player 54 has informed player 60 that player 54 has won
+player 60 exits
+player 60 hand: 97 86 92 19

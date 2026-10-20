@@ -1,0 +1,4 @@
+player 61 initial hand 38 24 78 12
+player 54 has informed player 61 that player 54 has won
+player 61 exits
+player 61 hand: 38 24 78 12

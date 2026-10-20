@@ -1,0 +1,4 @@
+player 78 initial hand 81 51 7 21
+player 54 has informed player 78 that player 54 has won
+player 78 exits
+player 78 hand: 81 51 7 21

@@ -1,0 +1,4 @@
+player 99 initial hand 36 99 36 11
+player 54 has informed player 99 that player 54 has won
+player 99 exits
+player 99 hand: 36 99 36 11

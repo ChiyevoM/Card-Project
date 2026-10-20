@@ -1,0 +1,4 @@
+player 81 initial hand 62 40 41 25
+player 54 has informed player 81 that player 54 has won
+player 81 exits
+player 81 hand: 62 40 41 25

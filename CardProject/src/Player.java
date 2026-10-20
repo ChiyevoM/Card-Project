@@ -23,20 +23,21 @@ public class Player implements Runnable {
 
     // Shared thread-safe game state tracking across all player instances
     private static final AtomicBoolean gameWon = new AtomicBoolean(false);
-    private static final AtomicInteger winningPlayerId = new AtomicInteger(-1);
+    private final AtomicInteger sharedWinner;
 
-    public Player(int playerId, CardDeck leftDeck, CardDeck rightDeck) {
-        if (playerId <= 0) {
-            throw new IllegalArgumentException("Player ID must be a positive integer.");
-        }
-        this.playerId = playerId;
-        this.leftDeck = leftDeck;
-        this.rightDeck = rightDeck;
+   public Player(int playerId, CardDeck leftDeck, CardDeck rightDeck, AtomicInteger sharedWinner) {
+    if (playerId <= 0) {
+        throw new IllegalArgumentException("Player ID must be a positive integer.");
     }
+    this.playerId = playerId;
+    this.leftDeck = leftDeck;
+    this.rightDeck = rightDeck;
+    this.sharedWinner = sharedWinner;
+}
 
-    public Player(int playerId, CardDeck leftDeck, CardDeck rightDeck, AtomicInteger sharedWinner) {
-        this(playerId, leftDeck, rightDeck);
-    }
+public Player(int playerId, CardDeck leftDeck, CardDeck rightDeck) {
+    this(playerId, leftDeck, rightDeck, new AtomicInteger(-1));
+}
 
     public static AtomicBoolean getGameWonFlag() {
         return gameWon;
@@ -47,7 +48,7 @@ public class Player implements Runnable {
      */
     public static void resetGameWon() {
         gameWon.set(false);
-        winningPlayerId.set(-1);
+        sharedWinner.set(-1);
     }
 
     public int getPlayerId() {
@@ -110,7 +111,7 @@ public class Player implements Runnable {
         // Check for immediate win from initial dealing
         if (hasWinningHand()) {
             if (gameWon.compareAndSet(false, true)) {
-                winningPlayerId.set(playerId);
+                sharedWinner.set(playerId);
                 System.out.println("player " + playerId + " wins");
                 logHistory.add("player " + playerId + " wins");
             }
@@ -137,7 +138,7 @@ public class Player implements Runnable {
 
                 if (hasWinningHand()) {
                     if (gameWon.compareAndSet(false, true)) {
-                        winningPlayerId.set(playerId);
+                        sharedWinner.set(playerId);
                         System.out.println("player " + playerId + " wins");
                         logHistory.add("player " + playerId + " wins");
                     }
@@ -163,7 +164,7 @@ public class Player implements Runnable {
      * Appends final win/loss log lines and writes playerX_output.txt.
      */
     public synchronized void writePlayerOutputFile() {
-        int winner = winningPlayerId.get();
+        int winner = sharedWinner.get();
 
         if (winner == playerId) {
             logHistory.add("player " + playerId + " exits");

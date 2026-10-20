@@ -1,0 +1,4 @@
+player 95 initial hand 69 39 91 6
+player 54 has informed player 95 that player 54 has won
+player 95 exits
+player 95 hand: 69 39 91 6

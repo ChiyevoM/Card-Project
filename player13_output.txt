@@ -1,0 +1,160 @@
+player 13 initial hand 13 76 71 57
+player 13 draws a 99 from deck 13
+player 13 discards a 76 to deck 14
+player 13 current hand is 13 71 57 99
+player 13 draws a 90 from deck 13
+player 13 discards a 71 to deck 14
+player 13 current hand is 13 57 99 90
+player 13 draws a 33 from deck 13
+player 13 discards a 57 to deck 14
+player 13 current hand is 13 99 90 33
+player 13 draws a 2 from deck 13
+player 13 discards a 99 to deck 14
+player 13 current hand is 13 90 33 2
+player 13 draws a 22 from deck 13
+player 13 discards a 90 to deck 14
+player 13 current hand is 13 33 2 22
+player 13 draws a 95 from deck 13
+player 13 discards a 33 to deck 14
+player 13 current hand is 13 2 22 95
+player 13 draws a 33 from deck 13
+player 13 discards a 2 to deck 14
+player 13 current hand is 13 22 95 33
+player 13 draws a 32 from deck 13
+player 13 discards a 22 to deck 14
+player 13 current hand is 13 95 33 32
+player 13 draws a 66 from deck 13
+player 13 discards a 95 to deck 14
+player 13 current hand is 13 33 32 66
+player 13 draws a 81 from deck 13
+player 13 discards a 33 to deck 14
+player 13 current hand is 13 32 66 81
+player 13 draws a 17 from deck 13
+player 13 discards a 32 to deck 14
+player 13 current hand is 13 66 81 17
+player 13 draws a 5 from deck 13
+player 13 discards a 66 to deck 14
+player 13 current hand is 13 81 17 5
+player 13 draws a 84 from deck 13
+player 13 discards a 81 to deck 14
+player 13 current hand is 13 17 5 84
+player 13 draws a 93 from deck 13
+player 13 discards a 17 to deck 14
+player 13 current hand is 13 5 84 93
+player 13 draws a 35 from deck 13
+player 13 discards a 5 to deck 14
+player 13 current hand is 13 84 93 35
+player 13 draws a 50 from deck 13
+player 13 discards a 84 to deck 14
+player 13 current hand is 13 93 35 50
+player 13 draws a 80 from deck 13
+player 13 discards a 93 to deck 14
+player 13 current hand is 13 35 50 80
+player 13 draws a 81 from deck 13
+player 13 discards a 35 to deck 14
+player 13 current hand is 13 50 80 81
+player 13 draws a 30 from deck 13
+player 13 discards a 50 to deck 14
+player 13 current hand is 13 80 81 30
+player 13 draws a 64 from deck 13
+player 13 discards a 80 to deck 14
+player 13 current hand is 13 81 30 64
+player 13 draws a 77 from deck 13
+player 13 discards a 81 to deck 14
+player 13 current hand is 13 30 64 77
+player 13 draws a 33 from deck 13
+player 13 discards a 30 to deck 14
+player 13 current hand is 13 64 77 33
+player 13 draws a 7 from deck 13
+player 13 discards a 64 to deck 14
+player 13 current hand is 13 77 33 7
+player 13 draws a 1 from deck 13
+player 13 discards a 77 to deck 14
+player 13 current hand is 13 33 7 1
+player 13 draws a 70 from deck 13
+player 13 discards a 33 to deck 14
+player 13 current hand is 13 7 1 70
+player 13 draws a 40 from deck 13
+player 13 discards a 7 to deck 14
+player 13 current hand is 13 1 70 40
+player 13 draws a 24 from deck 13
+player 13 discards a 1 to deck 14
+player 13 current hand is 13 70 40 24
+player 13 draws a 28 from deck 13
+player 13 discards a 70 to deck 14
+player 13 current hand is 13 40 24 28
+player 13 draws a 22 from deck 13
+player 13 discards a 40 to deck 14
+player 13 current hand is 13 24 28 22
+player 13 draws a 33 from deck 13
+player 13 discards a 24 to deck 14
+player 13 current hand is 13 28 22 33
+player 13 draws a 63 from deck 13
+player 13 discards a 28 to deck 14
+player 13 current hand is 13 22 33 63
+player 13 draws a 17 from deck 13
+player 13 discards a 22 to deck 14
+player 13 current hand is 13 33 63 17
+player 13 draws a 52 from deck 13
+player 13 discards a 33 to deck 14
+player 13 current hand is 13 63 17 52
+player 13 draws a 43 from deck 13
+player 13 discards a 63 to deck 14
+player 13 current hand is 13 17 52 43
+player 13 draws a 55 from deck 13
+player 13 discards a 17 to deck 14
+player 13 current hand is 13 52 43 55
+player 13 draws a 4 from deck 13
+player 13 discards a 52 to deck 14
+player 13 current hand is 13 43 55 4
+player 13 draws a 3 from deck 13
+player 13 discards a 43 to deck 14
+player 13 current hand is 13 55 4 3
+player 13 draws a 56 from deck 13
+player 13 discards a 55 to deck 14
+player 13 current hand is 13 4 3 56
+player 13 draws a 87 from deck 13
+player 13 discards a 4 to deck 14
+player 13 current hand is 13 3 56 87
+player 13 draws a 79 from deck 13
+player 13 discards a 3 to deck 14
+player 13 current hand is 13 56 87 79
+player 13 draws a 19 from deck 13
+player 13 discards a 56 to deck 14
+player 13 current hand is 13 87 79 19
+player 13 draws a 65 from deck 13
+player 13 discards a 87 to deck 14
+player 13 current hand is 13 79 19 65
+player 13 draws a 90 from deck 13
+player 13 discards a 79 to deck 14
+player 13 current hand is 13 19 65 90
+player 13 draws a 58 from deck 13
+player 13 discards a 19 to deck 14
+player 13 current hand is 13 65 90 58
+player 13 draws a 71 from deck 13
+player 13 discards a 65 to deck 14
+player 13 current hand is 13 90 58 71
+player 13 draws a 58 from deck 13
+player 13 discards a 90 to deck 14
+player 13 current hand is 13 58 71 58
+player 13 draws a 13 from deck 13
+player 13 discards a 58 to deck 14
+player 13 current hand is 13 71 58 13
+player 13 draws a 43 from deck 13
+player 13 discards a 71 to deck 14
+player 13 current hand is 13 58 13 43
+player 13 draws a 42 from deck 13
+player 13 discards a 58 to deck 14
+player 13 current hand is 13 13 43 42
+player 13 draws a 3 from deck 13
+player 13 discards a 43 to deck 14
+player 13 current hand is 13 13 42 3
+player 13 draws a 34 from deck 13
+player 13 discards a 42 to deck 14
+player 13 current hand is 13 13 3 34
+player 13 draws a 90 from deck 13
+player 13 discards a 3 to deck 14
+player 13 current hand is 13 13 34 90
+player 54 has informed player 13 that player 54 has won
+player 13 exits
+player 13 hand: 13 13 34 90

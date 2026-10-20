@@ -1,0 +1,4 @@
+player 62 initial hand 73 35 62 59
+player 54 has informed player 62 that player 54 has won
+player 62 exits
+player 62 hand: 73 35 62 59

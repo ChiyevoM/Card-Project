@@ -1,0 +1,388 @@
+player 32 initial hand 77 16 44 67
+player 32 draws a 62 from deck 32
+player 32 discards a 77 to deck 33
+player 32 current hand is 16 44 67 62
+player 32 draws a 68 from deck 32
+player 32 discards a 16 to deck 33
+player 32 current hand is 44 67 62 68
+player 32 draws a 56 from deck 32
+player 32 discards a 44 to deck 33
+player 32 current hand is 67 62 68 56
+player 32 draws a 9 from deck 32
+player 32 discards a 67 to deck 33
+player 32 current hand is 62 68 56 9
+player 32 draws a 87 from deck 32
+player 32 discards a 62 to deck 33
+player 32 current hand is 68 56 9 87
+player 32 draws a 35 from deck 32
+player 32 discards a 68 to deck 33
+player 32 current hand is 56 9 87 35
+player 32 draws a 83 from deck 32
+player 32 discards a 56 to deck 33
+player 32 current hand is 9 87 35 83
+player 32 draws a 32 from deck 32
+player 32 discards a 9 to deck 33
+player 32 current hand is 87 35 83 32
+player 32 draws a 45 from deck 32
+player 32 discards a 87 to deck 33
+player 32 current hand is 35 83 32 45
+player 32 draws a 57 from deck 32
+player 32 discards a 35 to deck 33
+player 32 current hand is 83 32 45 57
+player 32 draws a 9 from deck 32
+player 32 discards a 83 to deck 33
+player 32 current hand is 32 45 57 9
+player 32 draws a 54 from deck 32
+player 32 discards a 45 to deck 33
+player 32 current hand is 32 57 9 54
+player 32 draws a 23 from deck 32
+player 32 discards a 57 to deck 33
+player 32 current hand is 32 9 54 23
+player 32 draws a 87 from deck 32
+player 32 discards a 9 to deck 33
+player 32 current hand is 32 54 23 87
+player 32 draws a 29 from deck 32
+player 32 discards a 54 to deck 33
+player 32 current hand is 32 23 87 29
+player 32 draws a 15 from deck 32
+player 32 discards a 23 to deck 33
+player 32 current hand is 32 87 29 15
+player 32 draws a 18 from deck 32
+player 32 discards a 87 to deck 33
+player 32 current hand is 32 29 15 18
+player 32 draws a 42 from deck 32
+player 32 discards a 29 to deck 33
+player 32 current hand is 32 15 18 42
+player 32 draws a 64 from deck 32
+player 32 discards a 15 to deck 33
+player 32 current hand is 32 18 42 64
+player 32 draws a 50 from deck 32
+player 32 discards a 18 to deck 33
+player 32 current hand is 32 42 64 50
+player 32 draws a 41 from deck 32
+player 32 discards a 42 to deck 33
+player 32 current hand is 32 64 50 41
+player 32 draws a 93 from deck 32
+player 32 discards a 64 to deck 33
+player 32 current hand is 32 50 41 93
+player 32 draws a 40 from deck 32
+player 32 discards a 50 to deck 33
+player 32 current hand is 32 41 93 40
+player 32 draws a 6 from deck 32
+player 32 discards a 41 to deck 33
+player 32 current hand is 32 93 40 6
+player 32 draws a 26 from deck 32
+player 32 discards a 93 to deck 33
+player 32 current hand is 32 40 6 26
+player 32 draws a 92 from deck 32
+player 32 discards a 40 to deck 33
+player 32 current hand is 32 6 26 92
+player 32 draws a 38 from deck 32
+player 32 discards a 6 to deck 33
+player 32 current hand is 32 26 92 38
+player 32 draws a 50 from deck 32
+player 32 discards a 26 to deck 33
+player 32 current hand is 32 92 38 50
+player 32 draws a 47 from deck 32
+player 32 discards a 92 to deck 33
+player 32 current hand is 32 38 50 47
+player 32 draws a 42 from deck 32
+player 32 discards a 38 to deck 33
+player 32 current hand is 32 50 47 42
+player 32 draws a 100 from deck 32
+player 32 discards a 50 to deck 33
+player 32 current hand is 32 47 42 100
+player 32 draws a 54 from deck 32
+player 32 discards a 47 to deck 33
+player 32 current hand is 32 42 100 54
+player 32 draws a 6 from deck 32
+player 32 discards a 42 to deck 33
+player 32 current hand is 32 100 54 6
+player 32 draws a 87 from deck 32
+player 32 discards a 100 to deck 33
+player 32 current hand is 32 54 6 87
+player 32 draws a 23 from deck 32
+player 32 discards a 54 to deck 33
+player 32 current hand is 32 6 87 23
+player 32 draws a 53 from deck 32
+player 32 discards a 6 to deck 33
+player 32 current hand is 32 87 23 53
+player 32 draws a 16 from deck 32
+player 32 discards a 87 to deck 33
+player 32 current hand is 32 23 53 16
+player 32 draws a 10 from deck 32
+player 32 discards a 23 to deck 33
+player 32 current hand is 32 53 16 10
+player 32 draws a 20 from deck 32
+player 32 discards a 53 to deck 33
+player 32 current hand is 32 16 10 20
+player 32 draws a 84 from deck 32
+player 32 discards a 16 to deck 33
+player 32 current hand is 32 10 20 84
+player 32 draws a 83 from deck 32
+player 32 discards a 10 to deck 33
+player 32 current hand is 32 20 84 83
+player 32 draws a 5 from deck 32
+player 32 discards a 20 to deck 33
+player 32 current hand is 32 84 83 5
+player 32 draws a 23 from deck 32
+player 32 discards a 84 to deck 33
+player 32 current hand is 32 83 5 23
+player 32 draws a 14 from deck 32
+player 32 discards a 83 to deck 33
+player 32 current hand is 32 5 23 14
+player 32 draws a 72 from deck 32
+player 32 discards a 5 to deck 33
+player 32 current hand is 32 23 14 72
+player 32 draws a 52 from deck 32
+player 32 discards a 23 to deck 33
+player 32 current hand is 32 14 72 52
+player 32 draws a 24 from deck 32
+player 32 discards a 14 to deck 33
+player 32 current hand is 32 72 52 24
+player 32 draws a 75 from deck 32
+player 32 discards a 72 to deck 33
+player 32 current hand is 32 52 24 75
+player 32 draws a 50 from deck 32
+player 32 discards a 52 to deck 33
+player 32 current hand is 32 24 75 50
+player 32 draws a 25 from deck 32
+player 32 discards a 24 to deck 33
+player 32 current hand is 32 75 50 25
+player 32 draws a 40 from deck 32
+player 32 discards a 75 to deck 33
+player 32 current hand is 32 50 25 40
+player 32 draws a 7 from deck 32
+player 32 discards a 50 to deck 33
+player 32 current hand is 32 25 40 7
+player 32 draws a 53 from deck 32
+player 32 discards a 25 to deck 33
+player 32 current hand is 32 40 7 53
+player 32 draws a 4 from deck 32
+player 32 discards a 40 to deck 33
+player 32 current hand is 32 7 53 4
+player 32 draws a 17 from deck 32
+player 32 discards a 7 to deck 33
+player 32 current hand is 32 53 4 17
+player 32 draws a 39 from deck 32
+player 32 discards a 53 to deck 33
+player 32 current hand is 32 4 17 39
+player 32 draws a 51 from deck 32
+player 32 discards a 4 to deck 33
+player 32 current hand is 32 17 39 51
+player 32 draws a 79 from deck 32
+player 32 discards a 17 to deck 33
+player 32 current hand is 32 39 51 79
+player 32 draws a 34 from deck 32
+player 32 discards a 39 to deck 33
+player 32 current hand is 32 51 79 34
+player 32 draws a 88 from deck 32
+player 32 discards a 51 to deck 33
+player 32 current hand is 32 79 34 88
+player 32 draws a 12 from deck 32
+player 32 discards a 79 to deck 33
+player 32 current hand is 32 34 88 12
+player 32 draws a 39 from deck 32
+player 32 discards a 34 to deck 33
+player 32 current hand is 32 88 12 39
+player 32 draws a 65 from deck 32
+player 32 discards a 88 to deck 33
+player 32 current hand is 32 12 39 65
+player 32 draws a 79 from deck 32
+player 32 discards a 12 to deck 33
+player 32 current hand is 32 39 65 79
+player 32 draws a 94 from deck 32
+player 32 discards a 39 to deck 33
+player 32 current hand is 32 65 79 94
+player 32 draws a 64 from deck 32
+player 32 discards a 65 to deck 33
+player 32 current hand is 32 79 94 64
+player 32 draws a 73 from deck 32
+player 32 discards a 79 to deck 33
+player 32 current hand is 32 94 64 73
+player 32 draws a 12 from deck 32
+player 32 discards a 94 to deck 33
+player 32 current hand is 32 64 73 12
+player 32 draws a 32 from deck 32
+player 32 discards a 64 to deck 33
+player 32 current hand is 32 73 12 32
+player 32 draws a 74 from deck 32
+player 32 discards a 73 to deck 33
+player 32 current hand is 32 12 32 74
+player 32 draws a 91 from deck 32
+player 32 discards a 12 to deck 33
+player 32 current hand is 32 32 74 91
+player 32 draws a 74 from deck 32
+player 32 discards a 74 to deck 33
+player 32 current hand is 32 32 91 74
+player 32 draws a 62 from deck 32
+player 32 discards a 91 to deck 33
+player 32 current hand is 32 32 74 62
+player 32 draws a 94 from deck 32
+player 32 discards a 74 to deck 33
+player 32 current hand is 32 32 62 94
+player 32 draws a 93 from deck 32
+player 32 discards a 62 to deck 33
+player 32 current hand is 32 32 94 93
+player 32 draws a 47 from deck 32
+player 32 discards a 94 to deck 33
+player 32 current hand is 32 32 93 47
+player 32 draws a 80 from deck 32
+player 32 discards a 93 to deck 33
+player 32 current hand is 32 32 47 80
+player 32 draws a 66 from deck 32
+player 32 discards a 47 to deck 33
+player 32 current hand is 32 32 80 66
+player 32 draws a 60 from deck 32
+player 32 discards a 80 to deck 33
+player 32 current hand is 32 32 66 60
+player 32 draws a 65 from deck 32
+player 32 discards a 66 to deck 33
+player 32 current hand is 32 32 60 65
+player 32 draws a 96 from deck 32
+player 32 discards a 60 to deck 33
+player 32 current hand is 32 32 65 96
+player 32 draws a 7 from deck 32
+player 32 discards a 65 to deck 33
+player 32 current hand is 32 32 96 7
+player 32 draws a 7 from deck 32
+player 32 discards a 96 to deck 33
+player 32 current hand is 32 32 7 7
+player 32 draws a 66 from deck 32
+player 32 discards a 7 to deck 33
+player 32 current hand is 32 32 7 66
+player 32 draws a 38 from deck 32
+player 32 discards a 7 to deck 33
+player 32 current hand is 32 32 66 38
+player 32 draws a 66 from deck 32
+player 32 discards a 66 to deck 33
+player 32 current hand is 32 32 38 66
+player 32 draws a 70 from deck 32
+player 32 discards a 38 to deck 33
+player 32 current hand is 32 32 66 70
+player 32 draws a 49 from deck 32
+player 32 discards a 66 to deck 33
+player 32 current hand is 32 32 70 49
+player 32 draws a 44 from deck 32
+player 32 discards a 70 to deck 33
+player 32 current hand is 32 32 49 44
+player 32 draws a 75 from deck 32
+player 32 discards a 49 to deck 33
+player 32 current hand is 32 32 44 75
+player 32 draws a 33 from deck 32
+player 32 discards a 44 to deck 33
+player 32 current hand is 32 32 75 33
+player 32 draws a 75 from deck 32
+player 32 discards a 75 to deck 33
+player 32 current hand is 32 32 33 75
+player 32 draws a 56 from deck 32
+player 32 discards a 33 to deck 33
+player 32 current hand is 32 32 75 56
+player 32 draws a 63 from deck 32
+player 32 discards a 75 to deck 33
+player 32 current hand is 32 32 56 63
+player 32 draws a 77 from deck 32
+player 32 discards a 56 to deck 33
+player 32 current hand is 32 32 63 77
+player 32 draws a 46 from deck 32
+player 32 discards a 63 to deck 33
+player 32 current hand is 32 32 77 46
+player 32 draws a 59 from deck 32
+player 32 discards a 77 to deck 33
+player 32 current hand is 32 32 46 59
+player 32 draws a 51 from deck 32
+player 32 discards a 46 to deck 33
+player 32 current hand is 32 32 59 51
+player 32 draws a 15 from deck 32
+player 32 discards a 59 to deck 33
+player 32 current hand is 32 32 51 15
+player 32 draws a 85 from deck 32
+player 32 discards a 51 to deck 33
+player 32 current hand is 32 32 15 85
+player 32 draws a 48 from deck 32
+player 32 discards a 15 to deck 33
+player 32 current hand is 32 32 85 48
+player 32 draws a 59 from deck 32
+player 32 discards a 85 to deck 33
+player 32 current hand is 32 32 48 59
+player 32 draws a 50 from deck 32
+player 32 discards a 48 to deck 33
+player 32 current hand is 32 32 59 50
+player 32 draws a 68 from deck 32
+player 32 discards a 59 to deck 33
+player 32 current hand is 32 32 50 68
+player 32 draws a 77 from deck 32
+player 32 discards a 50 to deck 33
+player 32 current hand is 32 32 68 77
+player 32 draws a 96 from deck 32
+player 32 discards a 68 to deck 33
+player 32 current hand is 32 32 77 96
+player 32 draws a 49 from deck 32
+player 32 discards a 77 to deck 33
+player 32 current hand is 32 32 96 49
+player 32 draws a 89 from deck 32
+player 32 discards a 96 to deck 33
+player 32 current hand is 32 32 49 89
+player 32 draws a 64 from deck 32
+player 32 discards a 49 to deck 33
+player 32 current hand is 32 32 89 64
+player 32 draws a 57 from deck 32
+player 32 discards a 89 to deck 33
+player 32 current hand is 32 32 64 57
+player 32 draws a 38 from deck 32
+player 32 discards a 64 to deck 33
+player 32 current hand is 32 32 57 38
+player 32 draws a 84 from deck 32
+player 32 discards a 57 to deck 33
+player 32 current hand is 32 32 38 84
+player 32 draws a 12 from deck 32
+player 32 discards a 38 to deck 33
+player 32 current hand is 32 32 84 12
+player 32 draws a 92 from deck 32
+player 32 discards a 84 to deck 33
+player 32 current hand is 32 32 12 92
+player 32 draws a 44 from deck 32
+player 32 discards a 12 to deck 33
+player 32 current hand is 32 32 92 44
+player 32 draws a 57 from deck 32
+player 32 discards a 92 to deck 33
+player 32 current hand is 32 32 44 57
+player 32 draws a 14 from deck 32
+player 32 discards a 44 to deck 33
+player 32 current hand is 32 32 57 14
+player 32 draws a 83 from deck 32
+player 32 discards a 57 to deck 33
+player 32 current hand is 32 32 14 83
+player 32 draws a 41 from deck 32
+player 32 discards a 14 to deck 33
+player 32 current hand is 32 32 83 41
+player 32 draws a 2 from deck 32
+player 32 discards a 83 to deck 33
+player 32 current hand is 32 32 41 2
+player 32 draws a 91 from deck 32
+player 32 discards a 41 to deck 33
+player 32 current hand is 32 32 2 91
+player 32 draws a 94 from deck 32
+player 32 discards a 2 to deck 33
+player 32 current hand is 32 32 91 94
+player 32 draws a 96 from deck 32
+player 32 discards a 91 to deck 33
+player 32 current hand is 32 32 94 96
+player 32 draws a 5 from deck 32
+player 32 discards a 94 to deck 33
+player 32 current hand is 32 32 96 5
+player 32 draws a 72 from deck 32
+player 32 discards a 96 to deck 33
+player 32 current hand is 32 32 5 72
+player 32 draws a 89 from deck 32
+player 32 discards a 5 to deck 33
+player 32 current hand is 32 32 72 89
+player 32 draws a 80 from deck 32
+player 32 discards a 72 to deck 33
+player 32 current hand is 32 32 89 80
+player 32 draws a 53 from deck 32
+player 32 discards a 89 to deck 33
+player 32 current hand is 32 32 80 53
+player 54 has informed player 32 that player 54 has won
+player 32 exits
+player 32 hand: 32 32 80 53
