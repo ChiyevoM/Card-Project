@@ -164,7 +164,7 @@ public class CardGame {
                 return;
             }
         }
-
+git add .
 
         try {
             // Note: I removed Player.resetGameWon() here because we are using AtomicInteger now instead!
