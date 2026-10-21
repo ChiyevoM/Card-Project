@@ -47,9 +47,9 @@ public Player(int playerId, CardDeck leftDeck, CardDeck rightDeck) {
      * Resets shared game victory state before starting a new game session.
      */
     public static void resetGameWon() {
-        gameWon.set(false);
-        sharedWinner.set(-1);
-    }
+    gameWon.set(false);
+    // Remove sharedWinner.set(-1) from here!
+}
 
     public int getPlayerId() {
         return playerId;

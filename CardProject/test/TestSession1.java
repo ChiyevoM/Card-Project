@@ -1,4 +1,4 @@
-public public class TestSession1 {
+public class TestSession1 {
     public static void main(String[] args) {
         System.out.println("=== TESTING SESSION 1 DOMAIN MODELS ===");
 
@@ -23,7 +23,7 @@ public public class TestSession1 {
             System.out.println("\nFAILURE: FIFO order is incorrect!");
         }
     }
-}
  {
     
+}
 }

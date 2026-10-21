@@ -109,10 +109,6 @@ public class CardGame {
                 Thread.currentThread().interrupt();
             }
         }
-
-        for (CardDeck deck : decks) {
-            deck.writeDeckLog(); // Using Partner A's log method name
-        }
         
         // 5. Added the final win announcement
         System.out.println("Game over. Player " + sharedWinner.get() + " wins!");
