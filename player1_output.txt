@@ -1,13 +1,13 @@
-player 1 initial hand 5 7 5 1
-player 1 draws a 1 from deck 1
+player 1 initial hand 3 6 1 1
+player 1 draws a 5 from deck 1
+player 1 discards a 3 to deck 2
+player 1 current hand is 6 1 1 5
+player 1 draws a 2 from deck 1
+player 1 discards a 6 to deck 2
+player 1 current hand is 1 1 5 2
+player 1 draws a 8 from deck 1
 player 1 discards a 5 to deck 2
-player 1 current hand is 7 5 1 1
-player 1 draws a 9 from deck 1
-player 1 discards a 7 to deck 2
-player 1 current hand is 5 1 1 9
-player 1 draws a 9 from deck 1
-player 1 discards a 5 to deck 2
-player 1 current hand is 1 1 9 9
-player 6 has informed player 1 that player 6 has won
+player 1 current hand is 1 1 2 8
+player 2 has informed player 1 that player 2 has won
 player 1 exits
-player 1 hand: 1 1 9 9
+player 1 hand: 1 1 2 8

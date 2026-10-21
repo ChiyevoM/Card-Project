@@ -1,7 +1,7 @@
-player 4 initial hand 3 4 7 7
-player 4 draws a 5 from deck 4
-player 4 discards a 3 to deck 5
-player 4 current hand is 4 7 7 5
-player 6 has informed player 4 that player 6 has won
+player 4 initial hand 6 8 8 7
+player 4 draws a 7 from deck 4
+player 4 discards a 6 to deck 5
+player 4 current hand is 8 8 7 7
+player 2 has informed player 4 that player 2 has won
 player 4 exits
-player 4 hand: 4 7 7 5
+player 4 hand: 8 8 7 7

@@ -1,13 +1,19 @@
-player 8 initial hand 8 3 8 5
+player 8 initial hand 3 3 3 2
+player 8 draws a 1 from deck 8
+player 8 discards a 3 to deck 1
+player 8 current hand is 3 3 2 1
 player 8 draws a 6 from deck 8
-player 8 discards a 3 to deck 9
-player 8 current hand is 8 8 5 6
-player 8 draws a 9 from deck 8
-player 8 discards a 5 to deck 9
-player 8 current hand is 8 8 6 9
+player 8 discards a 3 to deck 1
+player 8 current hand is 3 2 1 6
+player 8 draws a 2 from deck 8
+player 8 discards a 3 to deck 1
+player 8 current hand is 2 1 6 2
 player 8 draws a 8 from deck 8
-player 8 discards a 6 to deck 9
-player 8 current hand is 8 8 9 8
-player 6 has informed player 8 that player 6 has won
+player 8 discards a 2 to deck 1
+player 8 current hand is 1 6 2 8
+player 8 draws a 4 from deck 8
+player 8 discards a 1 to deck 1
+player 8 current hand is 6 2 8 4
+player 2 has informed player 8 that player 2 has won
 player 8 exits
-player 8 hand: 8 8 9 8
+player 8 hand: 6 2 8 4

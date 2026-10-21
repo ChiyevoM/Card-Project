@@ -49,7 +49,7 @@ public class PlayerTest {
         player1.receiveInitialCard(new Card(5));
         player1.logInitialHand();
 
-        player1.writePlayerOutputFile(3);
+        player1.writePlayerOutputFile();
 
         File out = new File("player1_output.txt");
         assertTrue(out.exists());
