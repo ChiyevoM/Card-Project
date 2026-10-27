@@ -1,4 +1,4 @@
-player 94 initial hand 15 84 36 60
-player 54 has informed player 94 that player 54 has won
+player 94 initial hand 229 30 199 197
+player 87 has informed player 94 that player 87 has won
 player 94 exits
-player 94 hand: 15 84 36 60
+player 94 hand: 229 30 199 197

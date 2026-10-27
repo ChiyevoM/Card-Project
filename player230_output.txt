@@ -1,0 +1,4 @@
+player 230 initial hand 27 65 139 113
+player 87 has informed player 230 that player 87 has won
+player 230 exits
+player 230 hand: 27 65 139 113

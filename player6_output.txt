@@ -1,19 +1,76 @@
-player 6 initial hand 1 4 5 8
-player 6 draws a 3 from deck 6
-player 6 discards a 1 to deck 7
-player 6 current hand is 4 5 8 3
-player 6 draws a 6 from deck 6
-player 6 discards a 4 to deck 7
-player 6 current hand is 5 8 3 6
-player 6 draws a 1 from deck 6
-player 6 discards a 5 to deck 7
-player 6 current hand is 8 3 6 1
-player 6 draws a 5 from deck 6
-player 6 discards a 8 to deck 7
-player 6 current hand is 3 6 1 5
-player 6 draws a 3 from deck 6
-player 6 discards a 3 to deck 7
-player 6 current hand is 6 1 5 3
-player 2 has informed player 6 that player 2 has won
+player 6 initial hand 217 223 105 123
+player 6 draws a 51 from deck 6
+player 6 discards a 217 to deck 7
+player 6 current hand is 223 105 123 51
+player 6 draws a 201 from deck 6
+player 6 discards a 223 to deck 7
+player 6 current hand is 105 123 51 201
+player 6 draws a 73 from deck 6
+player 6 discards a 105 to deck 7
+player 6 current hand is 123 51 201 73
+player 6 draws a 235 from deck 6
+player 6 discards a 123 to deck 7
+player 6 current hand is 51 201 73 235
+player 6 draws a 76 from deck 6
+player 6 discards a 51 to deck 7
+player 6 current hand is 201 73 235 76
+player 6 draws a 188 from deck 6
+player 6 discards a 201 to deck 7
+player 6 current hand is 73 235 76 188
+player 6 draws a 237 from deck 6
+player 6 discards a 73 to deck 7
+player 6 current hand is 235 76 188 237
+player 6 draws a 119 from deck 6
+player 6 discards a 235 to deck 7
+player 6 current hand is 76 188 237 119
+player 6 draws a 108 from deck 6
+player 6 discards a 76 to deck 7
+player 6 current hand is 188 237 119 108
+player 6 draws a 209 from deck 6
+player 6 discards a 188 to deck 7
+player 6 current hand is 237 119 108 209
+player 6 draws a 114 from deck 6
+player 6 discards a 237 to deck 7
+player 6 current hand is 119 108 209 114
+player 6 draws a 145 from deck 6
+player 6 discards a 119 to deck 7
+player 6 current hand is 108 209 114 145
+player 6 draws a 53 from deck 6
+player 6 discards a 108 to deck 7
+player 6 current hand is 209 114 145 53
+player 6 draws a 205 from deck 6
+player 6 discards a 209 to deck 7
+player 6 current hand is 114 145 53 205
+player 6 draws a 23 from deck 6
+player 6 discards a 114 to deck 7
+player 6 current hand is 145 53 205 23
+player 6 draws a 191 from deck 6
+player 6 discards a 145 to deck 7
+player 6 current hand is 53 205 23 191
+player 6 draws a 132 from deck 6
+player 6 discards a 53 to deck 7
+player 6 current hand is 205 23 191 132
+player 6 draws a 234 from deck 6
+player 6 discards a 205 to deck 7
+player 6 current hand is 23 191 132 234
+player 6 draws a 112 from deck 6
+player 6 discards a 23 to deck 7
+player 6 current hand is 191 132 234 112
+player 6 draws a 109 from deck 6
+player 6 discards a 191 to deck 7
+player 6 current hand is 132 234 112 109
+player 6 draws a 86 from deck 6
+player 6 discards a 132 to deck 7
+player 6 current hand is 234 112 109 86
+player 6 draws a 46 from deck 6
+player 6 discards a 234 to deck 7
+player 6 current hand is 112 109 86 46
+player 6 draws a 108 from deck 6
+player 6 discards a 112 to deck 7
+player 6 current hand is 109 86 46 108
+player 6 draws a 146 from deck 6
+player 6 discards a 109 to deck 7
+player 6 current hand is 86 46 108 146
+player 87 has informed player 6 that player 87 has won
 player 6 exits
-player 6 hand: 6 1 5 3
+player 6 hand: 86 46 108 146

@@ -1,0 +1,4 @@
+player 133 initial hand 26 50 99 75
+player 87 has informed player 133 that player 87 has won
+player 133 exits
+player 133 hand: 26 50 99 75

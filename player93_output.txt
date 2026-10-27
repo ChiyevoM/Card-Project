@@ -1,4 +1,4 @@
-player 93 initial hand 87 81 92 21
-player 54 has informed player 93 that player 54 has won
+player 93 initial hand 184 78 195 105
+player 87 has informed player 93 that player 87 has won
 player 93 exits
-player 93 hand: 87 81 92 21
+player 93 hand: 184 78 195 105

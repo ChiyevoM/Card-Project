@@ -1,0 +1,4 @@
+player 183 initial hand 54 6 225 10
+player 87 has informed player 183 that player 87 has won
+player 183 exits
+player 183 hand: 54 6 225 10

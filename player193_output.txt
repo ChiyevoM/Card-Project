@@ -1,0 +1,4 @@
+player 193 initial hand 45 216 190 111
+player 87 has informed player 193 that player 87 has won
+player 193 exits
+player 193 hand: 45 216 190 111

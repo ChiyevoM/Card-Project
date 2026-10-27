@@ -1,0 +1,4 @@
+player 223 initial hand 123 228 100 2
+player 87 has informed player 223 that player 87 has won
+player 223 exits
+player 223 hand: 123 228 100 2

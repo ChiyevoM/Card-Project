@@ -1,0 +1,4 @@
+player 143 initial hand 203 69 142 237
+player 87 has informed player 143 that player 87 has won
+player 143 exits
+player 143 hand: 203 69 142 237

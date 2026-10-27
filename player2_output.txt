@@ -1,7 +1,28 @@
-player 2 initial hand 7 1 1 1
-player 2 draws a 1 from deck 2
+player 2 initial hand 110 166 65 28
+player 2 draws a 213 from deck 2
+player 2 discards a 110 to deck 3
+player 2 current hand is 166 65 28 213
+player 2 draws a 212 from deck 2
+player 2 discards a 166 to deck 3
+player 2 current hand is 65 28 213 212
+player 2 draws a 81 from deck 2
+player 2 discards a 65 to deck 3
+player 2 current hand is 28 213 212 81
+player 2 draws a 7 from deck 2
+player 2 discards a 28 to deck 3
+player 2 current hand is 213 212 81 7
+player 2 draws a 193 from deck 2
+player 2 discards a 213 to deck 3
+player 2 current hand is 212 81 7 193
+player 2 draws a 178 from deck 2
+player 2 discards a 212 to deck 3
+player 2 current hand is 81 7 193 178
+player 2 draws a 188 from deck 2
+player 2 discards a 81 to deck 3
+player 2 current hand is 7 193 178 188
+player 2 draws a 60 from deck 2
 player 2 discards a 7 to deck 3
-player 2 current hand is 1 1 1 1
-player 2 wins
+player 2 current hand is 193 178 188 60
+player 87 has informed player 2 that player 87 has won
 player 2 exits
-player 2 final hand: 1 1 1 1
+player 2 hand: 193 178 188 60

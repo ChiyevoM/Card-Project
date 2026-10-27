@@ -1,208 +1,208 @@
-player 17 initial hand 64 57 19 38
-player 17 draws a 84 from deck 17
-player 17 discards a 64 to deck 18
-player 17 current hand is 57 19 38 84
-player 17 draws a 30 from deck 17
-player 17 discards a 57 to deck 18
-player 17 current hand is 19 38 84 30
-player 17 draws a 12 from deck 17
-player 17 discards a 19 to deck 18
-player 17 current hand is 38 84 30 12
-player 17 draws a 92 from deck 17
-player 17 discards a 38 to deck 18
-player 17 current hand is 84 30 12 92
-player 17 draws a 44 from deck 17
-player 17 discards a 84 to deck 18
-player 17 current hand is 30 12 92 44
-player 17 draws a 27 from deck 17
-player 17 discards a 30 to deck 18
-player 17 current hand is 12 92 44 27
-player 17 draws a 57 from deck 17
-player 17 discards a 12 to deck 18
-player 17 current hand is 92 44 27 57
-player 17 draws a 14 from deck 17
-player 17 discards a 92 to deck 18
-player 17 current hand is 44 27 57 14
-player 17 draws a 83 from deck 17
-player 17 discards a 44 to deck 18
-player 17 current hand is 27 57 14 83
-player 17 draws a 41 from deck 17
-player 17 discards a 27 to deck 18
-player 17 current hand is 57 14 83 41
-player 17 draws a 2 from deck 17
-player 17 discards a 57 to deck 18
-player 17 current hand is 14 83 41 2
-player 17 draws a 91 from deck 17
-player 17 discards a 14 to deck 18
-player 17 current hand is 83 41 2 91
-player 17 draws a 94 from deck 17
-player 17 discards a 83 to deck 18
-player 17 current hand is 41 2 91 94
-player 17 draws a 96 from deck 17
-player 17 discards a 41 to deck 18
-player 17 current hand is 2 91 94 96
-player 17 draws a 5 from deck 17
-player 17 discards a 2 to deck 18
-player 17 current hand is 91 94 96 5
-player 17 draws a 72 from deck 17
-player 17 discards a 91 to deck 18
-player 17 current hand is 94 96 5 72
-player 17 draws a 89 from deck 17
-player 17 discards a 94 to deck 18
-player 17 current hand is 96 5 72 89
-player 17 draws a 80 from deck 17
-player 17 discards a 96 to deck 18
-player 17 current hand is 5 72 89 80
-player 17 draws a 53 from deck 17
-player 17 discards a 5 to deck 18
-player 17 current hand is 72 89 80 53
-player 17 draws a 7 from deck 17
-player 17 discards a 72 to deck 18
-player 17 current hand is 89 80 53 7
-player 17 draws a 63 from deck 17
-player 17 discards a 89 to deck 18
-player 17 current hand is 80 53 7 63
-player 17 draws a 61 from deck 17
-player 17 discards a 80 to deck 18
-player 17 current hand is 53 7 63 61
-player 17 draws a 95 from deck 17
-player 17 discards a 53 to deck 18
-player 17 current hand is 7 63 61 95
-player 17 draws a 37 from deck 17
+player 17 initial hand 7 154 173 1
+player 17 draws a 146 from deck 17
 player 17 discards a 7 to deck 18
-player 17 current hand is 63 61 95 37
-player 17 draws a 50 from deck 17
-player 17 discards a 63 to deck 18
-player 17 current hand is 61 95 37 50
-player 17 draws a 8 from deck 17
-player 17 discards a 61 to deck 18
-player 17 current hand is 95 37 50 8
-player 17 draws a 87 from deck 17
-player 17 discards a 95 to deck 18
-player 17 current hand is 37 50 8 87
-player 17 draws a 76 from deck 17
-player 17 discards a 37 to deck 18
-player 17 current hand is 50 8 87 76
-player 17 draws a 71 from deck 17
-player 17 discards a 50 to deck 18
-player 17 current hand is 8 87 76 71
-player 17 draws a 57 from deck 17
-player 17 discards a 8 to deck 18
-player 17 current hand is 87 76 71 57
-player 17 draws a 99 from deck 17
-player 17 discards a 87 to deck 18
-player 17 current hand is 76 71 57 99
-player 17 draws a 90 from deck 17
-player 17 discards a 76 to deck 18
-player 17 current hand is 71 57 99 90
-player 17 draws a 33 from deck 17
-player 17 discards a 71 to deck 18
-player 17 current hand is 57 99 90 33
-player 17 draws a 2 from deck 17
-player 17 discards a 57 to deck 18
-player 17 current hand is 99 90 33 2
-player 17 draws a 22 from deck 17
-player 17 discards a 99 to deck 18
-player 17 current hand is 90 33 2 22
-player 17 draws a 95 from deck 17
-player 17 discards a 90 to deck 18
-player 17 current hand is 33 2 22 95
-player 17 draws a 33 from deck 17
-player 17 discards a 33 to deck 18
-player 17 current hand is 2 22 95 33
-player 17 draws a 32 from deck 17
-player 17 discards a 2 to deck 18
-player 17 current hand is 22 95 33 32
-player 17 draws a 66 from deck 17
-player 17 discards a 22 to deck 18
-player 17 current hand is 95 33 32 66
-player 17 draws a 81 from deck 17
-player 17 discards a 95 to deck 18
-player 17 current hand is 33 32 66 81
-player 17 draws a 17 from deck 17
-player 17 discards a 33 to deck 18
-player 17 current hand is 32 66 81 17
-player 17 draws a 5 from deck 17
-player 17 discards a 32 to deck 18
-player 17 current hand is 66 81 17 5
-player 17 draws a 84 from deck 17
-player 17 discards a 66 to deck 18
-player 17 current hand is 81 17 5 84
-player 17 draws a 93 from deck 17
-player 17 discards a 81 to deck 18
-player 17 current hand is 17 5 84 93
-player 17 draws a 35 from deck 17
-player 17 discards a 5 to deck 18
-player 17 current hand is 17 84 93 35
-player 17 draws a 50 from deck 17
-player 17 discards a 84 to deck 18
-player 17 current hand is 17 93 35 50
-player 17 draws a 80 from deck 17
-player 17 discards a 93 to deck 18
-player 17 current hand is 17 35 50 80
-player 17 draws a 81 from deck 17
-player 17 discards a 35 to deck 18
-player 17 current hand is 17 50 80 81
-player 17 draws a 30 from deck 17
-player 17 discards a 50 to deck 18
-player 17 current hand is 17 80 81 30
-player 17 draws a 64 from deck 17
-player 17 discards a 80 to deck 18
-player 17 current hand is 17 81 30 64
-player 17 draws a 77 from deck 17
-player 17 discards a 81 to deck 18
-player 17 current hand is 17 30 64 77
-player 17 draws a 33 from deck 17
-player 17 discards a 30 to deck 18
-player 17 current hand is 17 64 77 33
-player 17 draws a 7 from deck 17
-player 17 discards a 64 to deck 18
-player 17 current hand is 17 77 33 7
-player 17 draws a 1 from deck 17
-player 17 discards a 77 to deck 18
-player 17 current hand is 17 33 7 1
-player 17 draws a 70 from deck 17
-player 17 discards a 33 to deck 18
-player 17 current hand is 17 7 1 70
-player 17 draws a 40 from deck 17
-player 17 discards a 7 to deck 18
-player 17 current hand is 17 1 70 40
-player 17 draws a 24 from deck 17
+player 17 current hand is 154 173 1 146
+player 17 draws a 107 from deck 17
+player 17 discards a 154 to deck 18
+player 17 current hand is 173 1 146 107
+player 17 draws a 204 from deck 17
+player 17 discards a 173 to deck 18
+player 17 current hand is 1 146 107 204
+player 17 draws a 199 from deck 17
 player 17 discards a 1 to deck 18
-player 17 current hand is 17 70 40 24
-player 17 draws a 28 from deck 17
-player 17 discards a 70 to deck 18
-player 17 current hand is 17 40 24 28
+player 17 current hand is 146 107 204 199
+player 17 draws a 13 from deck 17
+player 17 discards a 146 to deck 18
+player 17 current hand is 107 204 199 13
+player 17 draws a 210 from deck 17
+player 17 discards a 107 to deck 18
+player 17 current hand is 204 199 13 210
+player 17 draws a 148 from deck 17
+player 17 discards a 204 to deck 18
+player 17 current hand is 199 13 210 148
+player 17 draws a 221 from deck 17
+player 17 discards a 199 to deck 18
+player 17 current hand is 13 210 148 221
 player 17 draws a 22 from deck 17
-player 17 discards a 40 to deck 18
-player 17 current hand is 17 24 28 22
-player 17 draws a 33 from deck 17
-player 17 discards a 24 to deck 18
-player 17 current hand is 17 28 22 33
-player 17 draws a 63 from deck 17
-player 17 discards a 28 to deck 18
-player 17 current hand is 17 22 33 63
-player 17 draws a 17 from deck 17
+player 17 discards a 13 to deck 18
+player 17 current hand is 210 148 221 22
+player 17 draws a 217 from deck 17
+player 17 discards a 210 to deck 18
+player 17 current hand is 148 221 22 217
+player 17 draws a 58 from deck 17
+player 17 discards a 148 to deck 18
+player 17 current hand is 221 22 217 58
+player 17 draws a 5 from deck 17
+player 17 discards a 221 to deck 18
+player 17 current hand is 22 217 58 5
+player 17 draws a 131 from deck 17
 player 17 discards a 22 to deck 18
-player 17 current hand is 17 33 63 17
-player 17 draws a 52 from deck 17
-player 17 discards a 33 to deck 18
-player 17 current hand is 17 63 17 52
-player 17 draws a 43 from deck 17
-player 17 discards a 63 to deck 18
-player 17 current hand is 17 17 52 43
-player 17 draws a 55 from deck 17
-player 17 discards a 52 to deck 18
-player 17 current hand is 17 17 43 55
+player 17 current hand is 217 58 5 131
+player 17 draws a 63 from deck 17
+player 17 discards a 217 to deck 18
+player 17 current hand is 58 5 131 63
+player 17 draws a 136 from deck 17
+player 17 discards a 58 to deck 18
+player 17 current hand is 5 131 63 136
+player 17 draws a 92 from deck 17
+player 17 discards a 5 to deck 18
+player 17 current hand is 131 63 136 92
+player 17 draws a 180 from deck 17
+player 17 discards a 131 to deck 18
+player 17 current hand is 63 136 92 180
 player 17 draws a 4 from deck 17
-player 17 discards a 43 to deck 18
-player 17 current hand is 17 17 55 4
-player 17 draws a 3 from deck 17
-player 17 discards a 55 to deck 18
-player 17 current hand is 17 17 4 3
-player 17 draws a 56 from deck 17
+player 17 discards a 63 to deck 18
+player 17 current hand is 136 92 180 4
+player 17 draws a 43 from deck 17
+player 17 discards a 136 to deck 18
+player 17 current hand is 92 180 4 43
+player 17 draws a 170 from deck 17
+player 17 discards a 92 to deck 18
+player 17 current hand is 180 4 43 170
+player 17 draws a 231 from deck 17
+player 17 discards a 180 to deck 18
+player 17 current hand is 4 43 170 231
+player 17 draws a 1 from deck 17
 player 17 discards a 4 to deck 18
-player 17 current hand is 17 17 3 56
-player 54 has informed player 17 that player 54 has won
+player 17 current hand is 43 170 231 1
+player 17 draws a 232 from deck 17
+player 17 discards a 43 to deck 18
+player 17 current hand is 170 231 1 232
+player 17 draws a 222 from deck 17
+player 17 discards a 170 to deck 18
+player 17 current hand is 231 1 232 222
+player 17 draws a 6 from deck 17
+player 17 discards a 231 to deck 18
+player 17 current hand is 1 232 222 6
+player 17 draws a 179 from deck 17
+player 17 discards a 1 to deck 18
+player 17 current hand is 232 222 6 179
+player 17 draws a 168 from deck 17
+player 17 discards a 232 to deck 18
+player 17 current hand is 222 6 179 168
+player 17 draws a 208 from deck 17
+player 17 discards a 222 to deck 18
+player 17 current hand is 6 179 168 208
+player 17 draws a 138 from deck 17
+player 17 discards a 6 to deck 18
+player 17 current hand is 179 168 208 138
+player 17 draws a 184 from deck 17
+player 17 discards a 179 to deck 18
+player 17 current hand is 168 208 138 184
+player 17 draws a 39 from deck 17
+player 17 discards a 168 to deck 18
+player 17 current hand is 208 138 184 39
+player 17 draws a 180 from deck 17
+player 17 discards a 208 to deck 18
+player 17 current hand is 138 184 39 180
+player 17 draws a 134 from deck 17
+player 17 discards a 138 to deck 18
+player 17 current hand is 184 39 180 134
+player 17 draws a 173 from deck 17
+player 17 discards a 184 to deck 18
+player 17 current hand is 39 180 134 173
+player 17 draws a 35 from deck 17
+player 17 discards a 39 to deck 18
+player 17 current hand is 180 134 173 35
+player 17 draws a 180 from deck 17
+player 17 discards a 180 to deck 18
+player 17 current hand is 134 173 35 180
+player 17 draws a 85 from deck 17
+player 17 discards a 134 to deck 18
+player 17 current hand is 173 35 180 85
+player 17 draws a 186 from deck 17
+player 17 discards a 173 to deck 18
+player 17 current hand is 35 180 85 186
+player 17 draws a 204 from deck 17
+player 17 discards a 35 to deck 18
+player 17 current hand is 180 85 186 204
+player 17 draws a 47 from deck 17
+player 17 discards a 180 to deck 18
+player 17 current hand is 85 186 204 47
+player 17 draws a 237 from deck 17
+player 17 discards a 85 to deck 18
+player 17 current hand is 186 204 47 237
+player 17 draws a 100 from deck 17
+player 17 discards a 186 to deck 18
+player 17 current hand is 204 47 237 100
+player 17 draws a 134 from deck 17
+player 17 discards a 204 to deck 18
+player 17 current hand is 47 237 100 134
+player 17 draws a 208 from deck 17
+player 17 discards a 47 to deck 18
+player 17 current hand is 237 100 134 208
+player 17 draws a 152 from deck 17
+player 17 discards a 237 to deck 18
+player 17 current hand is 100 134 208 152
+player 17 draws a 141 from deck 17
+player 17 discards a 100 to deck 18
+player 17 current hand is 134 208 152 141
+player 17 draws a 210 from deck 17
+player 17 discards a 134 to deck 18
+player 17 current hand is 208 152 141 210
+player 17 draws a 27 from deck 17
+player 17 discards a 208 to deck 18
+player 17 current hand is 152 141 210 27
+player 17 draws a 88 from deck 17
+player 17 discards a 152 to deck 18
+player 17 current hand is 141 210 27 88
+player 17 draws a 141 from deck 17
+player 17 discards a 141 to deck 18
+player 17 current hand is 210 27 88 141
+player 17 draws a 71 from deck 17
+player 17 discards a 210 to deck 18
+player 17 current hand is 27 88 141 71
+player 17 draws a 147 from deck 17
+player 17 discards a 27 to deck 18
+player 17 current hand is 88 141 71 147
+player 17 draws a 70 from deck 17
+player 17 discards a 88 to deck 18
+player 17 current hand is 141 71 147 70
+player 17 draws a 144 from deck 17
+player 17 discards a 141 to deck 18
+player 17 current hand is 71 147 70 144
+player 17 draws a 112 from deck 17
+player 17 discards a 71 to deck 18
+player 17 current hand is 147 70 144 112
+player 17 draws a 166 from deck 17
+player 17 discards a 147 to deck 18
+player 17 current hand is 70 144 112 166
+player 17 draws a 79 from deck 17
+player 17 discards a 70 to deck 18
+player 17 current hand is 144 112 166 79
+player 17 draws a 23 from deck 17
+player 17 discards a 144 to deck 18
+player 17 current hand is 112 166 79 23
+player 17 draws a 76 from deck 17
+player 17 discards a 112 to deck 18
+player 17 current hand is 166 79 23 76
+player 17 draws a 84 from deck 17
+player 17 discards a 166 to deck 18
+player 17 current hand is 79 23 76 84
+player 17 draws a 138 from deck 17
+player 17 discards a 79 to deck 18
+player 17 current hand is 23 76 84 138
+player 17 draws a 183 from deck 17
+player 17 discards a 23 to deck 18
+player 17 current hand is 76 84 138 183
+player 17 draws a 233 from deck 17
+player 17 discards a 76 to deck 18
+player 17 current hand is 84 138 183 233
+player 17 draws a 184 from deck 17
+player 17 discards a 84 to deck 18
+player 17 current hand is 138 183 233 184
+player 17 draws a 67 from deck 17
+player 17 discards a 138 to deck 18
+player 17 current hand is 183 233 184 67
+player 17 draws a 129 from deck 17
+player 17 discards a 183 to deck 18
+player 17 current hand is 233 184 67 129
+player 17 draws a 87 from deck 17
+player 17 discards a 233 to deck 18
+player 17 current hand is 184 67 129 87
+player 17 draws a 135 from deck 17
+player 17 discards a 184 to deck 18
+player 17 current hand is 67 129 87 135
+player 87 has informed player 17 that player 87 has won
 player 17 exits
-player 17 hand: 17 17 3 56
+player 17 hand: 67 129 87 135

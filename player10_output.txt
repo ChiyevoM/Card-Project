@@ -1,124 +1,124 @@
-player 10 initial hand 77 33 7 1
-player 10 draws a 70 from deck 10
-player 10 discards a 77 to deck 11
-player 10 current hand is 33 7 1 70
-player 10 draws a 10 from deck 10
-player 10 discards a 33 to deck 11
-player 10 current hand is 7 1 70 10
-player 10 draws a 40 from deck 10
-player 10 discards a 7 to deck 11
-player 10 current hand is 1 70 10 40
-player 10 draws a 24 from deck 10
-player 10 discards a 1 to deck 11
-player 10 current hand is 70 10 40 24
-player 10 draws a 28 from deck 10
-player 10 discards a 70 to deck 11
-player 10 current hand is 10 40 24 28
-player 10 draws a 22 from deck 10
-player 10 discards a 40 to deck 11
-player 10 current hand is 10 24 28 22
-player 10 draws a 33 from deck 10
-player 10 discards a 24 to deck 11
-player 10 current hand is 10 28 22 33
-player 10 draws a 63 from deck 10
-player 10 discards a 28 to deck 11
-player 10 current hand is 10 22 33 63
-player 10 draws a 17 from deck 10
-player 10 discards a 22 to deck 11
-player 10 current hand is 10 33 63 17
-player 10 draws a 52 from deck 10
-player 10 discards a 33 to deck 11
-player 10 current hand is 10 63 17 52
-player 10 draws a 43 from deck 10
-player 10 discards a 63 to deck 11
-player 10 current hand is 10 17 52 43
-player 10 draws a 10 from deck 10
-player 10 discards a 17 to deck 11
-player 10 current hand is 10 52 43 10
-player 10 draws a 55 from deck 10
-player 10 discards a 52 to deck 11
-player 10 current hand is 10 43 10 55
-player 10 draws a 4 from deck 10
-player 10 discards a 43 to deck 11
-player 10 current hand is 10 10 55 4
-player 10 draws a 3 from deck 10
-player 10 discards a 55 to deck 11
-player 10 current hand is 10 10 4 3
-player 10 draws a 56 from deck 10
-player 10 discards a 4 to deck 11
-player 10 current hand is 10 10 3 56
-player 10 draws a 87 from deck 10
-player 10 discards a 3 to deck 11
-player 10 current hand is 10 10 56 87
+player 10 initial hand 70 144 112 166
 player 10 draws a 79 from deck 10
-player 10 discards a 56 to deck 11
-player 10 current hand is 10 10 87 79
-player 10 draws a 19 from deck 10
-player 10 discards a 87 to deck 11
-player 10 current hand is 10 10 79 19
-player 10 draws a 65 from deck 10
+player 10 discards a 70 to deck 11
+player 10 current hand is 144 112 166 79
+player 10 draws a 23 from deck 10
+player 10 discards a 144 to deck 11
+player 10 current hand is 112 166 79 23
+player 10 draws a 76 from deck 10
+player 10 discards a 112 to deck 11
+player 10 current hand is 166 79 23 76
+player 10 draws a 84 from deck 10
+player 10 discards a 166 to deck 11
+player 10 current hand is 79 23 76 84
+player 10 draws a 138 from deck 10
 player 10 discards a 79 to deck 11
-player 10 current hand is 10 10 19 65
-player 10 draws a 90 from deck 10
-player 10 discards a 19 to deck 11
-player 10 current hand is 10 10 65 90
-player 10 draws a 58 from deck 10
-player 10 discards a 65 to deck 11
-player 10 current hand is 10 10 90 58
-player 10 draws a 71 from deck 10
-player 10 discards a 90 to deck 11
-player 10 current hand is 10 10 58 71
-player 10 draws a 58 from deck 10
-player 10 discards a 58 to deck 11
-player 10 current hand is 10 10 71 58
-player 10 draws a 13 from deck 10
-player 10 discards a 71 to deck 11
-player 10 current hand is 10 10 58 13
-player 10 draws a 43 from deck 10
-player 10 discards a 58 to deck 11
-player 10 current hand is 10 10 13 43
-player 10 draws a 42 from deck 10
-player 10 discards a 13 to deck 11
-player 10 current hand is 10 10 43 42
-player 10 draws a 3 from deck 10
-player 10 discards a 43 to deck 11
-player 10 current hand is 10 10 42 3
-player 10 draws a 34 from deck 10
-player 10 discards a 42 to deck 11
-player 10 current hand is 10 10 3 34
-player 10 draws a 90 from deck 10
-player 10 discards a 3 to deck 11
-player 10 current hand is 10 10 34 90
-player 10 draws a 34 from deck 10
-player 10 discards a 34 to deck 11
-player 10 current hand is 10 10 90 34
-player 10 draws a 95 from deck 10
-player 10 discards a 90 to deck 11
-player 10 current hand is 10 10 34 95
+player 10 current hand is 23 76 84 138
+player 10 draws a 183 from deck 10
+player 10 discards a 23 to deck 11
+player 10 current hand is 76 84 138 183
+player 10 draws a 233 from deck 10
+player 10 discards a 76 to deck 11
+player 10 current hand is 84 138 183 233
+player 10 draws a 184 from deck 10
+player 10 discards a 84 to deck 11
+player 10 current hand is 138 183 233 184
 player 10 draws a 67 from deck 10
-player 10 discards a 34 to deck 11
-player 10 current hand is 10 10 95 67
-player 10 draws a 27 from deck 10
-player 10 discards a 95 to deck 11
-player 10 current hand is 10 10 67 27
-player 10 draws a 19 from deck 10
+player 10 discards a 138 to deck 11
+player 10 current hand is 183 233 184 67
+player 10 draws a 129 from deck 10
+player 10 discards a 183 to deck 11
+player 10 current hand is 233 184 67 129
+player 10 draws a 87 from deck 10
+player 10 discards a 233 to deck 11
+player 10 current hand is 184 67 129 87
+player 10 draws a 135 from deck 10
+player 10 discards a 184 to deck 11
+player 10 current hand is 67 129 87 135
+player 10 draws a 65 from deck 10
 player 10 discards a 67 to deck 11
-player 10 current hand is 10 10 27 19
-player 10 draws a 22 from deck 10
-player 10 discards a 27 to deck 11
-player 10 current hand is 10 10 19 22
-player 10 draws a 61 from deck 10
-player 10 discards a 19 to deck 11
-player 10 current hand is 10 10 22 61
-player 10 draws a 19 from deck 10
-player 10 discards a 22 to deck 11
-player 10 current hand is 10 10 61 19
-player 10 draws a 62 from deck 10
-player 10 discards a 61 to deck 11
-player 10 current hand is 10 10 19 62
-player 10 draws a 36 from deck 10
-player 10 discards a 19 to deck 11
-player 10 current hand is 10 10 62 36
-player 54 has informed player 10 that player 54 has won
+player 10 current hand is 129 87 135 65
+player 10 draws a 160 from deck 10
+player 10 discards a 129 to deck 11
+player 10 current hand is 87 135 65 160
+player 10 draws a 94 from deck 10
+player 10 discards a 87 to deck 11
+player 10 current hand is 135 65 160 94
+player 10 draws a 142 from deck 10
+player 10 discards a 135 to deck 11
+player 10 current hand is 65 160 94 142
+player 10 draws a 227 from deck 10
+player 10 discards a 65 to deck 11
+player 10 current hand is 160 94 142 227
+player 10 draws a 64 from deck 10
+player 10 discards a 160 to deck 11
+player 10 current hand is 94 142 227 64
+player 10 draws a 44 from deck 10
+player 10 discards a 94 to deck 11
+player 10 current hand is 142 227 64 44
+player 10 draws a 43 from deck 10
+player 10 discards a 142 to deck 11
+player 10 current hand is 227 64 44 43
+player 10 draws a 132 from deck 10
+player 10 discards a 227 to deck 11
+player 10 current hand is 64 44 43 132
+player 10 draws a 187 from deck 10
+player 10 discards a 64 to deck 11
+player 10 current hand is 44 43 132 187
+player 10 draws a 118 from deck 10
+player 10 discards a 44 to deck 11
+player 10 current hand is 43 132 187 118
+player 10 draws a 201 from deck 10
+player 10 discards a 43 to deck 11
+player 10 current hand is 132 187 118 201
+player 10 draws a 122 from deck 10
+player 10 discards a 132 to deck 11
+player 10 current hand is 187 118 201 122
+player 10 draws a 140 from deck 10
+player 10 discards a 187 to deck 11
+player 10 current hand is 118 201 122 140
+player 10 draws a 56 from deck 10
+player 10 discards a 118 to deck 11
+player 10 current hand is 201 122 140 56
+player 10 draws a 26 from deck 10
+player 10 discards a 201 to deck 11
+player 10 current hand is 122 140 56 26
+player 10 draws a 217 from deck 10
+player 10 discards a 122 to deck 11
+player 10 current hand is 140 56 26 217
+player 10 draws a 223 from deck 10
+player 10 discards a 140 to deck 11
+player 10 current hand is 56 26 217 223
+player 10 draws a 105 from deck 10
+player 10 discards a 56 to deck 11
+player 10 current hand is 26 217 223 105
+player 10 draws a 123 from deck 10
+player 10 discards a 26 to deck 11
+player 10 current hand is 217 223 105 123
+player 10 draws a 51 from deck 10
+player 10 discards a 217 to deck 11
+player 10 current hand is 223 105 123 51
+player 10 draws a 201 from deck 10
+player 10 discards a 223 to deck 11
+player 10 current hand is 105 123 51 201
+player 10 draws a 73 from deck 10
+player 10 discards a 105 to deck 11
+player 10 current hand is 123 51 201 73
+player 10 draws a 235 from deck 10
+player 10 discards a 123 to deck 11
+player 10 current hand is 51 201 73 235
+player 10 draws a 76 from deck 10
+player 10 discards a 51 to deck 11
+player 10 current hand is 201 73 235 76
+player 10 draws a 188 from deck 10
+player 10 discards a 201 to deck 11
+player 10 current hand is 73 235 76 188
+player 10 draws a 237 from deck 10
+player 10 discards a 73 to deck 11
+player 10 current hand is 235 76 188 237
+player 10 draws a 119 from deck 10
+player 10 discards a 235 to deck 11
+player 10 current hand is 76 188 237 119
+player 87 has informed player 10 that player 87 has won
 player 10 exits
-player 10 hand: 10 10 62 36
+player 10 hand: 76 188 237 119

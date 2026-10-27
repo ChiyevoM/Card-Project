@@ -1,4 +1,280 @@
-player 89 initial hand 11 72 58 31
-player 54 has informed player 89 that player 54 has won
+player 89 initial hand 208 200 175 175
+player 89 draws a 70 from deck 89
+player 89 discards a 208 to deck 90
+player 89 current hand is 200 175 175 70
+player 89 draws a 91 from deck 89
+player 89 discards a 200 to deck 90
+player 89 current hand is 175 175 70 91
+player 89 draws a 54 from deck 89
+player 89 discards a 175 to deck 90
+player 89 current hand is 175 70 91 54
+player 89 draws a 100 from deck 89
+player 89 discards a 175 to deck 90
+player 89 current hand is 70 91 54 100
+player 89 draws a 85 from deck 89
+player 89 discards a 70 to deck 90
+player 89 current hand is 91 54 100 85
+player 89 draws a 198 from deck 89
+player 89 discards a 91 to deck 90
+player 89 current hand is 54 100 85 198
+player 89 draws a 121 from deck 89
+player 89 discards a 54 to deck 90
+player 89 current hand is 100 85 198 121
+player 89 draws a 80 from deck 89
+player 89 discards a 100 to deck 90
+player 89 current hand is 85 198 121 80
+player 89 draws a 168 from deck 89
+player 89 discards a 85 to deck 90
+player 89 current hand is 198 121 80 168
+player 89 draws a 14 from deck 89
+player 89 discards a 198 to deck 90
+player 89 current hand is 121 80 168 14
+player 89 draws a 89 from deck 89
+player 89 discards a 121 to deck 90
+player 89 current hand is 80 168 14 89
+player 89 draws a 220 from deck 89
+player 89 discards a 80 to deck 90
+player 89 current hand is 168 14 89 220
+player 89 draws a 68 from deck 89
+player 89 discards a 168 to deck 90
+player 89 current hand is 14 89 220 68
+player 89 draws a 201 from deck 89
+player 89 discards a 14 to deck 90
+player 89 current hand is 89 220 68 201
+player 89 draws a 26 from deck 89
+player 89 discards a 220 to deck 90
+player 89 current hand is 89 68 201 26
+player 89 draws a 216 from deck 89
+player 89 discards a 68 to deck 90
+player 89 current hand is 89 201 26 216
+player 89 draws a 12 from deck 89
+player 89 discards a 201 to deck 90
+player 89 current hand is 89 26 216 12
+player 89 draws a 47 from deck 89
+player 89 discards a 26 to deck 90
+player 89 current hand is 89 216 12 47
+player 89 draws a 36 from deck 89
+player 89 discards a 216 to deck 90
+player 89 current hand is 89 12 47 36
+player 89 draws a 100 from deck 89
+player 89 discards a 12 to deck 90
+player 89 current hand is 89 47 36 100
+player 89 draws a 131 from deck 89
+player 89 discards a 47 to deck 90
+player 89 current hand is 89 36 100 131
+player 89 draws a 90 from deck 89
+player 89 discards a 36 to deck 90
+player 89 current hand is 89 100 131 90
+player 89 draws a 85 from deck 89
+player 89 discards a 100 to deck 90
+player 89 current hand is 89 131 90 85
+player 89 draws a 38 from deck 89
+player 89 discards a 131 to deck 90
+player 89 current hand is 89 90 85 38
+player 89 draws a 117 from deck 89
+player 89 discards a 90 to deck 90
+player 89 current hand is 89 85 38 117
+player 89 draws a 32 from deck 89
+player 89 discards a 85 to deck 90
+player 89 current hand is 89 38 117 32
+player 89 draws a 236 from deck 89
+player 89 discards a 38 to deck 90
+player 89 current hand is 89 117 32 236
+player 89 draws a 191 from deck 89
+player 89 discards a 117 to deck 90
+player 89 current hand is 89 32 236 191
+player 89 draws a 190 from deck 89
+player 89 discards a 32 to deck 90
+player 89 current hand is 89 236 191 190
+player 89 draws a 50 from deck 89
+player 89 discards a 236 to deck 90
+player 89 current hand is 89 191 190 50
+player 89 draws a 125 from deck 89
+player 89 discards a 191 to deck 90
+player 89 current hand is 89 190 50 125
+player 89 draws a 225 from deck 89
+player 89 discards a 190 to deck 90
+player 89 current hand is 89 50 125 225
+player 89 draws a 156 from deck 89
+player 89 discards a 50 to deck 90
+player 89 current hand is 89 125 225 156
+player 89 draws a 179 from deck 89
+player 89 discards a 125 to deck 90
+player 89 current hand is 89 225 156 179
+player 89 draws a 178 from deck 89
+player 89 discards a 225 to deck 90
+player 89 current hand is 89 156 179 178
+player 89 draws a 111 from deck 89
+player 89 discards a 156 to deck 90
+player 89 current hand is 89 179 178 111
+player 89 draws a 63 from deck 89
+player 89 discards a 179 to deck 90
+player 89 current hand is 89 178 111 63
+player 89 draws a 198 from deck 89
+player 89 discards a 178 to deck 90
+player 89 current hand is 89 111 63 198
+player 89 draws a 42 from deck 89
+player 89 discards a 111 to deck 90
+player 89 current hand is 89 63 198 42
+player 89 draws a 235 from deck 89
+player 89 discards a 63 to deck 90
+player 89 current hand is 89 198 42 235
+player 89 draws a 171 from deck 89
+player 89 discards a 198 to deck 90
+player 89 current hand is 89 42 235 171
+player 89 draws a 202 from deck 89
+player 89 discards a 42 to deck 90
+player 89 current hand is 89 235 171 202
+player 89 draws a 231 from deck 89
+player 89 discards a 235 to deck 90
+player 89 current hand is 89 171 202 231
+player 89 draws a 213 from deck 89
+player 89 discards a 171 to deck 90
+player 89 current hand is 89 202 231 213
+player 89 draws a 38 from deck 89
+player 89 discards a 202 to deck 90
+player 89 current hand is 89 231 213 38
+player 89 draws a 201 from deck 89
+player 89 discards a 231 to deck 90
+player 89 current hand is 89 213 38 201
+player 89 draws a 235 from deck 89
+player 89 discards a 213 to deck 90
+player 89 current hand is 89 38 201 235
+player 89 draws a 225 from deck 89
+player 89 discards a 38 to deck 90
+player 89 current hand is 89 201 235 225
+player 89 draws a 93 from deck 89
+player 89 discards a 201 to deck 90
+player 89 current hand is 89 235 225 93
+player 89 draws a 191 from deck 89
+player 89 discards a 235 to deck 90
+player 89 current hand is 89 225 93 191
+player 89 draws a 233 from deck 89
+player 89 discards a 225 to deck 90
+player 89 current hand is 89 93 191 233
+player 89 draws a 94 from deck 89
+player 89 discards a 93 to deck 90
+player 89 current hand is 89 191 233 94
+player 89 draws a 119 from deck 89
+player 89 discards a 191 to deck 90
+player 89 current hand is 89 233 94 119
+player 89 draws a 165 from deck 89
+player 89 discards a 233 to deck 90
+player 89 current hand is 89 94 119 165
+player 89 draws a 34 from deck 89
+player 89 discards a 94 to deck 90
+player 89 current hand is 89 119 165 34
+player 89 draws a 21 from deck 89
+player 89 discards a 119 to deck 90
+player 89 current hand is 89 165 34 21
+player 89 draws a 174 from deck 89
+player 89 discards a 165 to deck 90
+player 89 current hand is 89 34 21 174
+player 89 draws a 95 from deck 89
+player 89 discards a 34 to deck 90
+player 89 current hand is 89 21 174 95
+player 89 draws a 128 from deck 89
+player 89 discards a 21 to deck 90
+player 89 current hand is 89 174 95 128
+player 89 draws a 163 from deck 89
+player 89 discards a 174 to deck 90
+player 89 current hand is 89 95 128 163
+player 89 draws a 32 from deck 89
+player 89 discards a 95 to deck 90
+player 89 current hand is 89 128 163 32
+player 89 draws a 187 from deck 89
+player 89 discards a 128 to deck 90
+player 89 current hand is 89 163 32 187
+player 89 draws a 193 from deck 89
+player 89 discards a 163 to deck 90
+player 89 current hand is 89 32 187 193
+player 89 draws a 24 from deck 89
+player 89 discards a 32 to deck 90
+player 89 current hand is 89 187 193 24
+player 89 draws a 207 from deck 89
+player 89 discards a 187 to deck 90
+player 89 current hand is 89 193 24 207
+player 89 draws a 52 from deck 89
+player 89 discards a 193 to deck 90
+player 89 current hand is 89 24 207 52
+player 89 draws a 36 from deck 89
+player 89 discards a 24 to deck 90
+player 89 current hand is 89 207 52 36
+player 89 draws a 58 from deck 89
+player 89 discards a 207 to deck 90
+player 89 current hand is 89 52 36 58
+player 89 draws a 28 from deck 89
+player 89 discards a 52 to deck 90
+player 89 current hand is 89 36 58 28
+player 89 draws a 94 from deck 89
+player 89 discards a 36 to deck 90
+player 89 current hand is 89 58 28 94
+player 89 draws a 98 from deck 89
+player 89 discards a 58 to deck 90
+player 89 current hand is 89 28 94 98
+player 89 draws a 18 from deck 89
+player 89 discards a 28 to deck 90
+player 89 current hand is 89 94 98 18
+player 89 draws a 110 from deck 89
+player 89 discards a 94 to deck 90
+player 89 current hand is 89 98 18 110
+player 89 draws a 22 from deck 89
+player 89 discards a 98 to deck 90
+player 89 current hand is 89 18 110 22
+player 89 draws a 220 from deck 89
+player 89 discards a 18 to deck 90
+player 89 current hand is 89 110 22 220
+player 89 draws a 78 from deck 89
+player 89 discards a 110 to deck 90
+player 89 current hand is 89 22 220 78
+player 89 draws a 149 from deck 89
+player 89 discards a 22 to deck 90
+player 89 current hand is 89 220 78 149
+player 89 draws a 46 from deck 89
+player 89 discards a 220 to deck 90
+player 89 current hand is 89 78 149 46
+player 89 draws a 57 from deck 89
+player 89 discards a 78 to deck 90
+player 89 current hand is 89 149 46 57
+player 89 draws a 40 from deck 89
+player 89 discards a 149 to deck 90
+player 89 current hand is 89 46 57 40
+player 89 draws a 141 from deck 89
+player 89 discards a 46 to deck 90
+player 89 current hand is 89 57 40 141
+player 89 draws a 52 from deck 89
+player 89 discards a 57 to deck 90
+player 89 current hand is 89 40 141 52
+player 89 draws a 156 from deck 89
+player 89 discards a 40 to deck 90
+player 89 current hand is 89 141 52 156
+player 89 draws a 143 from deck 89
+player 89 discards a 141 to deck 90
+player 89 current hand is 89 52 156 143
+player 89 draws a 113 from deck 89
+player 89 discards a 52 to deck 90
+player 89 current hand is 89 156 143 113
+player 89 draws a 121 from deck 89
+player 89 discards a 156 to deck 90
+player 89 current hand is 89 143 113 121
+player 89 draws a 184 from deck 89
+player 89 discards a 143 to deck 90
+player 89 current hand is 89 113 121 184
+player 89 draws a 93 from deck 89
+player 89 discards a 113 to deck 90
+player 89 current hand is 89 121 184 93
+player 89 draws a 207 from deck 89
+player 89 discards a 121 to deck 90
+player 89 current hand is 89 184 93 207
+player 89 draws a 172 from deck 89
+player 89 discards a 184 to deck 90
+player 89 current hand is 89 93 207 172
+player 89 draws a 31 from deck 89
+player 89 discards a 93 to deck 90
+player 89 current hand is 89 207 172 31
+player 89 draws a 212 from deck 89
+player 89 discards a 207 to deck 90
+player 89 current hand is 89 172 31 212
+player 87 has informed player 89 that player 87 has won
 player 89 exits
-player 89 hand: 11 72 58 31
+player 89 hand: 89 172 31 212

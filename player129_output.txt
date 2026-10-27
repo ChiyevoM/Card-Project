@@ -1,0 +1,4 @@
+player 129 initial hand 72 219 55 215
+player 87 has informed player 129 that player 87 has won
+player 129 exits
+player 129 hand: 72 219 55 215

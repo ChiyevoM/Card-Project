@@ -1,4 +1,559 @@
-player 69 initial hand 21 38 9 58
-player 54 has informed player 69 that player 54 has won
+player 69 initial hand 11 150 111 156
+player 69 draws a 1 from deck 69
+player 69 discards a 11 to deck 70
+player 69 current hand is 150 111 156 1
+player 69 draws a 195 from deck 69
+player 69 discards a 150 to deck 70
+player 69 current hand is 111 156 1 195
+player 69 draws a 156 from deck 69
+player 69 discards a 111 to deck 70
+player 69 current hand is 156 1 195 156
+player 69 draws a 232 from deck 69
+player 69 discards a 156 to deck 70
+player 69 current hand is 1 195 156 232
+player 69 draws a 10 from deck 69
+player 69 discards a 1 to deck 70
+player 69 current hand is 195 156 232 10
+player 69 draws a 127 from deck 69
+player 69 discards a 195 to deck 70
+player 69 current hand is 156 232 10 127
+player 69 draws a 134 from deck 69
+player 69 discards a 156 to deck 70
+player 69 current hand is 232 10 127 134
+player 69 draws a 82 from deck 69
+player 69 discards a 232 to deck 70
+player 69 current hand is 10 127 134 82
+player 69 draws a 166 from deck 69
+player 69 discards a 10 to deck 70
+player 69 current hand is 127 134 82 166
+player 69 draws a 118 from deck 69
+player 69 discards a 127 to deck 70
+player 69 current hand is 134 82 166 118
+player 69 draws a 37 from deck 69
+player 69 discards a 134 to deck 70
+player 69 current hand is 82 166 118 37
+player 69 draws a 64 from deck 69
+player 69 discards a 82 to deck 70
+player 69 current hand is 166 118 37 64
+player 69 draws a 48 from deck 69
+player 69 discards a 166 to deck 70
+player 69 current hand is 118 37 64 48
+player 69 draws a 175 from deck 69
+player 69 discards a 118 to deck 70
+player 69 current hand is 37 64 48 175
+player 69 draws a 200 from deck 69
+player 69 discards a 37 to deck 70
+player 69 current hand is 64 48 175 200
+player 69 draws a 224 from deck 69
+player 69 discards a 64 to deck 70
+player 69 current hand is 48 175 200 224
+player 69 draws a 203 from deck 69
+player 69 discards a 48 to deck 70
+player 69 current hand is 175 200 224 203
+player 69 draws a 163 from deck 69
+player 69 discards a 175 to deck 70
+player 69 current hand is 200 224 203 163
+player 69 draws a 236 from deck 69
+player 69 discards a 200 to deck 70
+player 69 current hand is 224 203 163 236
+player 69 draws a 94 from deck 69
+player 69 discards a 224 to deck 70
+player 69 current hand is 203 163 236 94
+player 69 draws a 140 from deck 69
+player 69 discards a 203 to deck 70
+player 69 current hand is 163 236 94 140
+player 69 draws a 14 from deck 69
+player 69 discards a 163 to deck 70
+player 69 current hand is 236 94 140 14
+player 69 draws a 100 from deck 69
+player 69 discards a 236 to deck 70
+player 69 current hand is 94 140 14 100
+player 69 draws a 80 from deck 69
+player 69 discards a 94 to deck 70
+player 69 current hand is 140 14 100 80
+player 69 draws a 63 from deck 69
+player 69 discards a 140 to deck 70
+player 69 current hand is 14 100 80 63
+player 69 draws a 89 from deck 69
+player 69 discards a 14 to deck 70
+player 69 current hand is 100 80 63 89
+player 69 draws a 18 from deck 69
+player 69 discards a 100 to deck 70
+player 69 current hand is 80 63 89 18
+player 69 draws a 136 from deck 69
+player 69 discards a 80 to deck 70
+player 69 current hand is 63 89 18 136
+player 69 draws a 34 from deck 69
+player 69 discards a 63 to deck 70
+player 69 current hand is 89 18 136 34
+player 69 draws a 211 from deck 69
+player 69 discards a 89 to deck 70
+player 69 current hand is 18 136 34 211
+player 69 draws a 97 from deck 69
+player 69 discards a 18 to deck 70
+player 69 current hand is 136 34 211 97
+player 69 draws a 32 from deck 69
+player 69 discards a 136 to deck 70
+player 69 current hand is 34 211 97 32
+player 69 draws a 64 from deck 69
+player 69 discards a 34 to deck 70
+player 69 current hand is 211 97 32 64
+player 69 draws a 61 from deck 69
+player 69 discards a 211 to deck 70
+player 69 current hand is 97 32 64 61
+player 69 draws a 222 from deck 69
+player 69 discards a 97 to deck 70
+player 69 current hand is 32 64 61 222
+player 69 draws a 181 from deck 69
+player 69 discards a 32 to deck 70
+player 69 current hand is 64 61 222 181
+player 69 draws a 221 from deck 69
+player 69 discards a 64 to deck 70
+player 69 current hand is 61 222 181 221
+player 69 draws a 87 from deck 69
+player 69 discards a 61 to deck 70
+player 69 current hand is 222 181 221 87
+player 69 draws a 209 from deck 69
+player 69 discards a 222 to deck 70
+player 69 current hand is 181 221 87 209
+player 69 draws a 133 from deck 69
+player 69 discards a 181 to deck 70
+player 69 current hand is 221 87 209 133
+player 69 draws a 86 from deck 69
+player 69 discards a 221 to deck 70
+player 69 current hand is 87 209 133 86
+player 69 draws a 33 from deck 69
+player 69 discards a 87 to deck 70
+player 69 current hand is 209 133 86 33
+player 69 draws a 180 from deck 69
+player 69 discards a 209 to deck 70
+player 69 current hand is 133 86 33 180
+player 69 draws a 168 from deck 69
+player 69 discards a 133 to deck 70
+player 69 current hand is 86 33 180 168
+player 69 draws a 193 from deck 69
+player 69 discards a 86 to deck 70
+player 69 current hand is 33 180 168 193
+player 69 draws a 5 from deck 69
+player 69 discards a 33 to deck 70
+player 69 current hand is 180 168 193 5
+player 69 draws a 83 from deck 69
+player 69 discards a 180 to deck 70
+player 69 current hand is 168 193 5 83
+player 69 draws a 163 from deck 69
+player 69 discards a 168 to deck 70
+player 69 current hand is 193 5 83 163
+player 69 draws a 135 from deck 69
+player 69 discards a 193 to deck 70
+player 69 current hand is 5 83 163 135
+player 69 draws a 53 from deck 69
+player 69 discards a 5 to deck 70
+player 69 current hand is 83 163 135 53
+player 69 draws a 89 from deck 69
+player 69 discards a 83 to deck 70
+player 69 current hand is 163 135 53 89
+player 69 draws a 70 from deck 69
+player 69 discards a 163 to deck 70
+player 69 current hand is 135 53 89 70
+player 69 draws a 121 from deck 69
+player 69 discards a 135 to deck 70
+player 69 current hand is 53 89 70 121
+player 69 draws a 184 from deck 69
+player 69 discards a 53 to deck 70
+player 69 current hand is 89 70 121 184
+player 69 draws a 191 from deck 69
+player 69 discards a 89 to deck 70
+player 69 current hand is 70 121 184 191
+player 69 draws a 211 from deck 69
+player 69 discards a 70 to deck 70
+player 69 current hand is 121 184 191 211
+player 69 draws a 131 from deck 69
+player 69 discards a 121 to deck 70
+player 69 current hand is 184 191 211 131
+player 69 draws a 234 from deck 69
+player 69 discards a 184 to deck 70
+player 69 current hand is 191 211 131 234
+player 69 draws a 176 from deck 69
+player 69 discards a 191 to deck 70
+player 69 current hand is 211 131 234 176
+player 69 draws a 174 from deck 69
+player 69 discards a 211 to deck 70
+player 69 current hand is 131 234 176 174
+player 69 draws a 205 from deck 69
+player 69 discards a 131 to deck 70
+player 69 current hand is 234 176 174 205
+player 69 draws a 193 from deck 69
+player 69 discards a 234 to deck 70
+player 69 current hand is 176 174 205 193
+player 69 draws a 226 from deck 69
+player 69 discards a 176 to deck 70
+player 69 current hand is 174 205 193 226
+player 69 draws a 124 from deck 69
+player 69 discards a 174 to deck 70
+player 69 current hand is 205 193 226 124
+player 69 draws a 157 from deck 69
+player 69 discards a 205 to deck 70
+player 69 current hand is 193 226 124 157
+player 69 draws a 5 from deck 69
+player 69 discards a 193 to deck 70
+player 69 current hand is 226 124 157 5
+player 69 draws a 172 from deck 69
+player 69 discards a 226 to deck 70
+player 69 current hand is 124 157 5 172
+player 69 draws a 26 from deck 69
+player 69 discards a 124 to deck 70
+player 69 current hand is 157 5 172 26
+player 69 draws a 225 from deck 69
+player 69 discards a 157 to deck 70
+player 69 current hand is 5 172 26 225
+player 69 draws a 2 from deck 69
+player 69 discards a 5 to deck 70
+player 69 current hand is 172 26 225 2
+player 69 draws a 108 from deck 69
+player 69 discards a 172 to deck 70
+player 69 current hand is 26 225 2 108
+player 69 draws a 227 from deck 69
+player 69 discards a 26 to deck 70
+player 69 current hand is 225 2 108 227
+player 69 draws a 212 from deck 69
+player 69 discards a 225 to deck 70
+player 69 current hand is 2 108 227 212
+player 69 draws a 172 from deck 69
+player 69 discards a 2 to deck 70
+player 69 current hand is 108 227 212 172
+player 69 draws a 23 from deck 69
+player 69 discards a 108 to deck 70
+player 69 current hand is 227 212 172 23
+player 69 draws a 96 from deck 69
+player 69 discards a 227 to deck 70
+player 69 current hand is 212 172 23 96
+player 69 draws a 143 from deck 69
+player 69 discards a 212 to deck 70
+player 69 current hand is 172 23 96 143
+player 69 draws a 233 from deck 69
+player 69 discards a 172 to deck 70
+player 69 current hand is 23 96 143 233
+player 69 draws a 102 from deck 69
+player 69 discards a 23 to deck 70
+player 69 current hand is 96 143 233 102
+player 69 draws a 157 from deck 69
+player 69 discards a 96 to deck 70
+player 69 current hand is 143 233 102 157
+player 69 draws a 171 from deck 69
+player 69 discards a 143 to deck 70
+player 69 current hand is 233 102 157 171
+player 69 draws a 193 from deck 69
+player 69 discards a 233 to deck 70
+player 69 current hand is 102 157 171 193
+player 69 draws a 103 from deck 69
+player 69 discards a 102 to deck 70
+player 69 current hand is 157 171 193 103
+player 69 draws a 173 from deck 69
+player 69 discards a 157 to deck 70
+player 69 current hand is 171 193 103 173
+player 69 draws a 49 from deck 69
+player 69 discards a 171 to deck 70
+player 69 current hand is 193 103 173 49
+player 69 draws a 160 from deck 69
+player 69 discards a 193 to deck 70
+player 69 current hand is 103 173 49 160
+player 69 draws a 187 from deck 69
+player 69 discards a 103 to deck 70
+player 69 current hand is 173 49 160 187
+player 69 draws a 186 from deck 69
+player 69 discards a 173 to deck 70
+player 69 current hand is 49 160 187 186
+player 69 draws a 24 from deck 69
+player 69 discards a 49 to deck 70
+player 69 current hand is 160 187 186 24
+player 69 draws a 135 from deck 69
+player 69 discards a 160 to deck 70
+player 69 current hand is 187 186 24 135
+player 69 draws a 232 from deck 69
+player 69 discards a 187 to deck 70
+player 69 current hand is 186 24 135 232
+player 69 draws a 230 from deck 69
+player 69 discards a 186 to deck 70
+player 69 current hand is 24 135 232 230
+player 69 draws a 139 from deck 69
+player 69 discards a 24 to deck 70
+player 69 current hand is 135 232 230 139
+player 69 draws a 142 from deck 69
+player 69 discards a 135 to deck 70
+player 69 current hand is 232 230 139 142
+player 69 draws a 110 from deck 69
+player 69 discards a 232 to deck 70
+player 69 current hand is 230 139 142 110
+player 69 draws a 12 from deck 69
+player 69 discards a 230 to deck 70
+player 69 current hand is 139 142 110 12
+player 69 draws a 203 from deck 69
+player 69 discards a 139 to deck 70
+player 69 current hand is 142 110 12 203
+player 69 draws a 177 from deck 69
+player 69 discards a 142 to deck 70
+player 69 current hand is 110 12 203 177
+player 69 draws a 207 from deck 69
+player 69 discards a 110 to deck 70
+player 69 current hand is 12 203 177 207
+player 69 draws a 73 from deck 69
+player 69 discards a 12 to deck 70
+player 69 current hand is 203 177 207 73
+player 69 draws a 228 from deck 69
+player 69 discards a 203 to deck 70
+player 69 current hand is 177 207 73 228
+player 69 draws a 222 from deck 69
+player 69 discards a 177 to deck 70
+player 69 current hand is 207 73 228 222
+player 69 draws a 37 from deck 69
+player 69 discards a 207 to deck 70
+player 69 current hand is 73 228 222 37
+player 69 draws a 196 from deck 69
+player 69 discards a 73 to deck 70
+player 69 current hand is 228 222 37 196
+player 69 draws a 216 from deck 69
+player 69 discards a 228 to deck 70
+player 69 current hand is 222 37 196 216
+player 69 draws a 31 from deck 69
+player 69 discards a 222 to deck 70
+player 69 current hand is 37 196 216 31
+player 69 draws a 124 from deck 69
+player 69 discards a 37 to deck 70
+player 69 current hand is 196 216 31 124
+player 69 draws a 236 from deck 69
+player 69 discards a 196 to deck 70
+player 69 current hand is 216 31 124 236
+player 69 draws a 54 from deck 69
+player 69 discards a 216 to deck 70
+player 69 current hand is 31 124 236 54
+player 69 draws a 203 from deck 69
+player 69 discards a 31 to deck 70
+player 69 current hand is 124 236 54 203
+player 69 draws a 126 from deck 69
+player 69 discards a 124 to deck 70
+player 69 current hand is 236 54 203 126
+player 69 draws a 118 from deck 69
+player 69 discards a 236 to deck 70
+player 69 current hand is 54 203 126 118
+player 69 draws a 45 from deck 69
+player 69 discards a 54 to deck 70
+player 69 current hand is 203 126 118 45
+player 69 draws a 44 from deck 69
+player 69 discards a 203 to deck 70
+player 69 current hand is 126 118 45 44
+player 69 draws a 100 from deck 69
+player 69 discards a 126 to deck 70
+player 69 current hand is 118 45 44 100
+player 69 draws a 223 from deck 69
+player 69 discards a 118 to deck 70
+player 69 current hand is 45 44 100 223
+player 69 draws a 162 from deck 69
+player 69 discards a 45 to deck 70
+player 69 current hand is 44 100 223 162
+player 69 draws a 190 from deck 69
+player 69 discards a 44 to deck 70
+player 69 current hand is 100 223 162 190
+player 69 draws a 1 from deck 69
+player 69 discards a 100 to deck 70
+player 69 current hand is 223 162 190 1
+player 69 draws a 71 from deck 69
+player 69 discards a 223 to deck 70
+player 69 current hand is 162 190 1 71
+player 69 draws a 36 from deck 69
+player 69 discards a 162 to deck 70
+player 69 current hand is 190 1 71 36
+player 69 draws a 15 from deck 69
+player 69 discards a 190 to deck 70
+player 69 current hand is 1 71 36 15
+player 69 draws a 185 from deck 69
+player 69 discards a 1 to deck 70
+player 69 current hand is 71 36 15 185
+player 69 draws a 152 from deck 69
+player 69 discards a 71 to deck 70
+player 69 current hand is 36 15 185 152
+player 69 draws a 24 from deck 69
+player 69 discards a 36 to deck 70
+player 69 current hand is 15 185 152 24
+player 69 draws a 144 from deck 69
+player 69 discards a 15 to deck 70
+player 69 current hand is 185 152 24 144
+player 69 draws a 125 from deck 69
+player 69 discards a 185 to deck 70
+player 69 current hand is 152 24 144 125
+player 69 draws a 153 from deck 69
+player 69 discards a 152 to deck 70
+player 69 current hand is 24 144 125 153
+player 69 draws a 51 from deck 69
+player 69 discards a 24 to deck 70
+player 69 current hand is 144 125 153 51
+player 69 draws a 219 from deck 69
+player 69 discards a 144 to deck 70
+player 69 current hand is 125 153 51 219
+player 69 draws a 91 from deck 69
+player 69 discards a 125 to deck 70
+player 69 current hand is 153 51 219 91
+player 69 draws a 105 from deck 69
+player 69 discards a 153 to deck 70
+player 69 current hand is 51 219 91 105
+player 69 draws a 224 from deck 69
+player 69 discards a 51 to deck 70
+player 69 current hand is 219 91 105 224
+player 69 draws a 219 from deck 69
+player 69 discards a 219 to deck 70
+player 69 current hand is 91 105 224 219
+player 69 draws a 44 from deck 69
+player 69 discards a 91 to deck 70
+player 69 current hand is 105 224 219 44
+player 69 draws a 156 from deck 69
+player 69 discards a 105 to deck 70
+player 69 current hand is 224 219 44 156
+player 69 draws a 108 from deck 69
+player 69 discards a 224 to deck 70
+player 69 current hand is 219 44 156 108
+player 69 draws a 98 from deck 69
+player 69 discards a 219 to deck 70
+player 69 current hand is 44 156 108 98
+player 69 draws a 182 from deck 69
+player 69 discards a 44 to deck 70
+player 69 current hand is 156 108 98 182
+player 69 draws a 165 from deck 69
+player 69 discards a 156 to deck 70
+player 69 current hand is 108 98 182 165
+player 69 draws a 21 from deck 69
+player 69 discards a 108 to deck 70
+player 69 current hand is 98 182 165 21
+player 69 draws a 96 from deck 69
+player 69 discards a 98 to deck 70
+player 69 current hand is 182 165 21 96
+player 69 draws a 147 from deck 69
+player 69 discards a 182 to deck 70
+player 69 current hand is 165 21 96 147
+player 69 draws a 14 from deck 69
+player 69 discards a 165 to deck 70
+player 69 current hand is 21 96 147 14
+player 69 draws a 69 from deck 69
+player 69 discards a 21 to deck 70
+player 69 current hand is 96 147 14 69
+player 69 draws a 39 from deck 69
+player 69 discards a 96 to deck 70
+player 69 current hand is 147 14 69 39
+player 69 draws a 46 from deck 69
+player 69 discards a 147 to deck 70
+player 69 current hand is 14 69 39 46
+player 69 draws a 176 from deck 69
+player 69 discards a 14 to deck 70
+player 69 current hand is 69 39 46 176
+player 69 draws a 232 from deck 69
+player 69 discards a 39 to deck 70
+player 69 current hand is 69 46 176 232
+player 69 draws a 137 from deck 69
+player 69 discards a 46 to deck 70
+player 69 current hand is 69 176 232 137
+player 69 draws a 100 from deck 69
+player 69 discards a 176 to deck 70
+player 69 current hand is 69 232 137 100
+player 69 draws a 120 from deck 69
+player 69 discards a 232 to deck 70
+player 69 current hand is 69 137 100 120
+player 69 draws a 8 from deck 69
+player 69 discards a 137 to deck 70
+player 69 current hand is 69 100 120 8
+player 69 draws a 162 from deck 69
+player 69 discards a 100 to deck 70
+player 69 current hand is 69 120 8 162
+player 69 draws a 11 from deck 69
+player 69 discards a 120 to deck 70
+player 69 current hand is 69 8 162 11
+player 69 draws a 235 from deck 69
+player 69 discards a 8 to deck 70
+player 69 current hand is 69 162 11 235
+player 69 draws a 158 from deck 69
+player 69 discards a 162 to deck 70
+player 69 current hand is 69 11 235 158
+player 69 draws a 146 from deck 69
+player 69 discards a 11 to deck 70
+player 69 current hand is 69 235 158 146
+player 69 draws a 32 from deck 69
+player 69 discards a 235 to deck 70
+player 69 current hand is 69 158 146 32
+player 69 draws a 99 from deck 69
+player 69 discards a 158 to deck 70
+player 69 current hand is 69 146 32 99
+player 69 draws a 194 from deck 69
+player 69 discards a 146 to deck 70
+player 69 current hand is 69 32 99 194
+player 69 draws a 154 from deck 69
+player 69 discards a 32 to deck 70
+player 69 current hand is 69 99 194 154
+player 69 draws a 181 from deck 69
+player 69 discards a 99 to deck 70
+player 69 current hand is 69 194 154 181
+player 69 draws a 141 from deck 69
+player 69 discards a 194 to deck 70
+player 69 current hand is 69 154 181 141
+player 69 draws a 207 from deck 69
+player 69 discards a 154 to deck 70
+player 69 current hand is 69 181 141 207
+player 69 draws a 209 from deck 69
+player 69 discards a 181 to deck 70
+player 69 current hand is 69 141 207 209
+player 69 draws a 82 from deck 69
+player 69 discards a 141 to deck 70
+player 69 current hand is 69 207 209 82
+player 69 draws a 127 from deck 69
+player 69 discards a 207 to deck 70
+player 69 current hand is 69 209 82 127
+player 69 draws a 12 from deck 69
+player 69 discards a 209 to deck 70
+player 69 current hand is 69 82 127 12
+player 69 draws a 115 from deck 69
+player 69 discards a 82 to deck 70
+player 69 current hand is 69 127 12 115
+player 69 draws a 172 from deck 69
+player 69 discards a 127 to deck 70
+player 69 current hand is 69 12 115 172
+player 69 draws a 21 from deck 69
+player 69 discards a 12 to deck 70
+player 69 current hand is 69 115 172 21
+player 69 draws a 14 from deck 69
+player 69 discards a 115 to deck 70
+player 69 current hand is 69 172 21 14
+player 69 draws a 185 from deck 69
+player 69 discards a 172 to deck 70
+player 69 current hand is 69 21 14 185
+player 69 draws a 71 from deck 69
+player 69 discards a 21 to deck 70
+player 69 current hand is 69 14 185 71
+player 69 draws a 3 from deck 69
+player 69 discards a 14 to deck 70
+player 69 current hand is 69 185 71 3
+player 69 draws a 192 from deck 69
+player 69 discards a 185 to deck 70
+player 69 current hand is 69 71 3 192
+player 69 draws a 160 from deck 69
+player 69 discards a 71 to deck 70
+player 69 current hand is 69 3 192 160
+player 69 draws a 76 from deck 69
+player 69 discards a 3 to deck 70
+player 69 current hand is 69 192 160 76
+player 69 draws a 4 from deck 69
+player 69 discards a 192 to deck 70
+player 69 current hand is 69 160 76 4
+player 69 draws a 138 from deck 69
+player 69 discards a 160 to deck 70
+player 69 current hand is 69 76 4 138
+player 69 draws a 27 from deck 69
+player 69 discards a 76 to deck 70
+player 69 current hand is 69 4 138 27
+player 69 draws a 69 from deck 69
+player 69 discards a 4 to deck 70
+player 69 current hand is 69 138 27 69
+player 69 draws a 132 from deck 69
+player 69 discards a 138 to deck 70
+player 69 current hand is 69 27 69 132
+player 69 draws a 132 from deck 69
+player 69 discards a 27 to deck 70
+player 69 current hand is 69 69 132 132
+player 87 has informed player 69 that player 87 has won
 player 69 exits
-player 69 hand: 21 38 9 58
+player 69 hand: 69 69 132 132

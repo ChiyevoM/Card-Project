@@ -1,349 +1,544 @@
-player 45 initial hand 54 84 21 44
-player 45 draws a 9 from deck 45
-player 45 discards a 54 to deck 46
-player 45 current hand is 84 21 44 9
-player 45 draws a 61 from deck 45
-player 45 discards a 84 to deck 46
-player 45 current hand is 21 44 9 61
-player 45 draws a 92 from deck 45
-player 45 discards a 21 to deck 46
-player 45 current hand is 44 9 61 92
-player 45 draws a 56 from deck 45
-player 45 discards a 44 to deck 46
-player 45 current hand is 9 61 92 56
-player 45 draws a 65 from deck 45
-player 45 discards a 9 to deck 46
-player 45 current hand is 61 92 56 65
-player 45 draws a 46 from deck 45
-player 45 discards a 61 to deck 46
-player 45 current hand is 92 56 65 46
-player 45 draws a 48 from deck 45
-player 45 discards a 92 to deck 46
-player 45 current hand is 56 65 46 48
-player 45 draws a 98 from deck 45
-player 45 discards a 56 to deck 46
-player 45 current hand is 65 46 48 98
-player 45 draws a 1 from deck 45
-player 45 discards a 65 to deck 46
-player 45 current hand is 46 48 98 1
-player 45 draws a 47 from deck 45
-player 45 discards a 46 to deck 46
-player 45 current hand is 48 98 1 47
-player 45 draws a 26 from deck 45
-player 45 discards a 48 to deck 46
-player 45 current hand is 98 1 47 26
-player 45 draws a 76 from deck 45
-player 45 discards a 98 to deck 46
-player 45 current hand is 1 47 26 76
-player 45 draws a 84 from deck 45
-player 45 discards a 1 to deck 46
-player 45 current hand is 47 26 76 84
-player 45 draws a 21 from deck 45
-player 45 discards a 47 to deck 46
-player 45 current hand is 26 76 84 21
-player 45 draws a 49 from deck 45
-player 45 discards a 26 to deck 46
-player 45 current hand is 76 84 21 49
-player 45 draws a 34 from deck 45
-player 45 discards a 76 to deck 46
-player 45 current hand is 84 21 49 34
-player 45 draws a 24 from deck 45
-player 45 discards a 84 to deck 46
-player 45 current hand is 21 49 34 24
-player 45 draws a 46 from deck 45
-player 45 discards a 21 to deck 46
-player 45 current hand is 49 34 24 46
-player 45 draws a 78 from deck 45
-player 45 discards a 49 to deck 46
-player 45 current hand is 34 24 46 78
-player 45 draws a 51 from deck 45
-player 45 discards a 34 to deck 46
-player 45 current hand is 24 46 78 51
-player 45 draws a 93 from deck 45
-player 45 discards a 24 to deck 46
-player 45 current hand is 46 78 51 93
-player 45 draws a 64 from deck 45
-player 45 discards a 46 to deck 46
-player 45 current hand is 78 51 93 64
-player 45 draws a 32 from deck 45
-player 45 discards a 78 to deck 46
-player 45 current hand is 51 93 64 32
-player 45 draws a 52 from deck 45
-player 45 discards a 51 to deck 46
-player 45 current hand is 93 64 32 52
-player 45 draws a 54 from deck 45
-player 45 discards a 93 to deck 46
-player 45 current hand is 64 32 52 54
-player 45 draws a 77 from deck 45
-player 45 discards a 64 to deck 46
-player 45 current hand is 32 52 54 77
-player 45 draws a 71 from deck 45
-player 45 discards a 32 to deck 46
-player 45 current hand is 52 54 77 71
-player 45 draws a 67 from deck 45
-player 45 discards a 52 to deck 46
-player 45 current hand is 54 77 71 67
-player 45 draws a 99 from deck 45
-player 45 discards a 54 to deck 46
-player 45 current hand is 77 71 67 99
-player 45 draws a 70 from deck 45
-player 45 discards a 77 to deck 46
-player 45 current hand is 71 67 99 70
-player 45 draws a 26 from deck 45
-player 45 discards a 71 to deck 46
-player 45 current hand is 67 99 70 26
-player 45 draws a 73 from deck 45
-player 45 discards a 67 to deck 46
-player 45 current hand is 99 70 26 73
-player 45 draws a 26 from deck 45
-player 45 discards a 99 to deck 46
-player 45 current hand is 70 26 73 26
-player 45 draws a 2 from deck 45
-player 45 discards a 70 to deck 46
-player 45 current hand is 26 73 26 2
-player 45 draws a 29 from deck 45
-player 45 discards a 26 to deck 46
-player 45 current hand is 73 26 2 29
-player 45 draws a 89 from deck 45
-player 45 discards a 73 to deck 46
-player 45 current hand is 26 2 29 89
-player 45 draws a 99 from deck 45
-player 45 discards a 26 to deck 46
-player 45 current hand is 2 29 89 99
-player 45 draws a 60 from deck 45
-player 45 discards a 2 to deck 46
-player 45 current hand is 29 89 99 60
-player 45 draws a 64 from deck 45
-player 45 discards a 29 to deck 46
-player 45 current hand is 89 99 60 64
-player 45 draws a 24 from deck 45
-player 45 discards a 89 to deck 46
-player 45 current hand is 99 60 64 24
-player 45 draws a 69 from deck 45
-player 45 discards a 99 to deck 46
-player 45 current hand is 60 64 24 69
-player 45 draws a 53 from deck 45
-player 45 discards a 60 to deck 46
-player 45 current hand is 64 24 69 53
-player 45 draws a 86 from deck 45
-player 45 discards a 64 to deck 46
-player 45 current hand is 24 69 53 86
-player 45 draws a 57 from deck 45
-player 45 discards a 24 to deck 46
-player 45 current hand is 69 53 86 57
-player 45 draws a 90 from deck 45
-player 45 discards a 69 to deck 46
-player 45 current hand is 53 86 57 90
-player 45 draws a 13 from deck 45
-player 45 discards a 53 to deck 46
-player 45 current hand is 86 57 90 13
-player 45 draws a 83 from deck 45
-player 45 discards a 86 to deck 46
-player 45 current hand is 57 90 13 83
-player 45 draws a 57 from deck 45
-player 45 discards a 57 to deck 46
-player 45 current hand is 90 13 83 57
-player 45 draws a 3 from deck 45
-player 45 discards a 90 to deck 46
-player 45 current hand is 13 83 57 3
-player 45 draws a 95 from deck 45
-player 45 discards a 13 to deck 46
-player 45 current hand is 83 57 3 95
-player 45 draws a 77 from deck 45
-player 45 discards a 83 to deck 46
-player 45 current hand is 57 3 95 77
-player 45 draws a 25 from deck 45
-player 45 discards a 57 to deck 46
-player 45 current hand is 3 95 77 25
-player 45 draws a 20 from deck 45
-player 45 discards a 3 to deck 46
-player 45 current hand is 95 77 25 20
-player 45 draws a 94 from deck 45
-player 45 discards a 95 to deck 46
-player 45 current hand is 77 25 20 94
-player 45 draws a 92 from deck 45
-player 45 discards a 77 to deck 46
-player 45 current hand is 25 20 94 92
-player 45 draws a 97 from deck 45
-player 45 discards a 25 to deck 46
-player 45 current hand is 20 94 92 97
-player 45 draws a 25 from deck 45
-player 45 discards a 20 to deck 46
-player 45 current hand is 94 92 97 25
-player 45 draws a 81 from deck 45
-player 45 discards a 94 to deck 46
-player 45 current hand is 92 97 25 81
-player 45 draws a 46 from deck 45
-player 45 discards a 92 to deck 46
-player 45 current hand is 97 25 81 46
-player 45 draws a 100 from deck 45
-player 45 discards a 97 to deck 46
-player 45 current hand is 25 81 46 100
-player 45 draws a 18 from deck 45
-player 45 discards a 25 to deck 46
-player 45 current hand is 81 46 100 18
-player 45 draws a 47 from deck 45
-player 45 discards a 81 to deck 46
-player 45 current hand is 46 100 18 47
-player 45 draws a 85 from deck 45
-player 45 discards a 46 to deck 46
-player 45 current hand is 100 18 47 85
-player 45 draws a 1 from deck 45
-player 45 discards a 100 to deck 46
-player 45 current hand is 18 47 85 1
-player 45 draws a 73 from deck 45
-player 45 discards a 18 to deck 46
-player 45 current hand is 47 85 1 73
-player 45 draws a 99 from deck 45
-player 45 discards a 47 to deck 46
-player 45 current hand is 85 1 73 99
-player 45 draws a 7 from deck 45
-player 45 discards a 85 to deck 46
-player 45 current hand is 1 73 99 7
-player 45 draws a 11 from deck 45
-player 45 discards a 1 to deck 46
-player 45 current hand is 73 99 7 11
-player 45 draws a 31 from deck 45
-player 45 discards a 73 to deck 46
-player 45 current hand is 99 7 11 31
-player 45 draws a 87 from deck 45
-player 45 discards a 99 to deck 46
-player 45 current hand is 7 11 31 87
-player 45 draws a 29 from deck 45
-player 45 discards a 7 to deck 46
-player 45 current hand is 11 31 87 29
-player 45 draws a 82 from deck 45
-player 45 discards a 11 to deck 46
-player 45 current hand is 31 87 29 82
-player 45 draws a 19 from deck 45
-player 45 discards a 31 to deck 46
-player 45 current hand is 87 29 82 19
-player 45 draws a 89 from deck 45
-player 45 discards a 87 to deck 46
-player 45 current hand is 29 82 19 89
-player 45 draws a 31 from deck 45
-player 45 discards a 29 to deck 46
-player 45 current hand is 82 19 89 31
-player 45 draws a 76 from deck 45
-player 45 discards a 82 to deck 46
-player 45 current hand is 19 89 31 76
-player 45 draws a 96 from deck 45
-player 45 discards a 19 to deck 46
-player 45 current hand is 89 31 76 96
-player 45 draws a 91 from deck 45
-player 45 discards a 89 to deck 46
-player 45 current hand is 31 76 96 91
-player 45 draws a 27 from deck 45
-player 45 discards a 31 to deck 46
-player 45 current hand is 76 96 91 27
-player 45 draws a 1 from deck 45
-player 45 discards a 76 to deck 46
-player 45 current hand is 96 91 27 1
-player 45 draws a 62 from deck 45
-player 45 discards a 96 to deck 46
-player 45 current hand is 91 27 1 62
-player 45 draws a 86 from deck 45
-player 45 discards a 91 to deck 46
-player 45 current hand is 27 1 62 86
+player 45 initial hand 27 69 132 132
 player 45 draws a 79 from deck 45
 player 45 discards a 27 to deck 46
-player 45 current hand is 1 62 86 79
-player 45 draws a 49 from deck 45
-player 45 discards a 1 to deck 46
-player 45 current hand is 62 86 79 49
-player 45 draws a 93 from deck 45
-player 45 discards a 62 to deck 46
-player 45 current hand is 86 79 49 93
-player 45 draws a 76 from deck 45
-player 45 discards a 86 to deck 46
-player 45 current hand is 79 49 93 76
-player 45 draws a 12 from deck 45
+player 45 current hand is 69 132 132 79
+player 45 draws a 52 from deck 45
+player 45 discards a 69 to deck 46
+player 45 current hand is 132 132 79 52
+player 45 draws a 61 from deck 45
+player 45 discards a 132 to deck 46
+player 45 current hand is 132 79 52 61
+player 45 draws a 165 from deck 45
+player 45 discards a 132 to deck 46
+player 45 current hand is 79 52 61 165
+player 45 draws a 99 from deck 45
 player 45 discards a 79 to deck 46
-player 45 current hand is 49 93 76 12
-player 45 draws a 71 from deck 45
-player 45 discards a 49 to deck 46
-player 45 current hand is 93 76 12 71
-player 45 draws a 2 from deck 45
-player 45 discards a 93 to deck 46
-player 45 current hand is 76 12 71 2
-player 45 draws a 2 from deck 45
-player 45 discards a 76 to deck 46
-player 45 current hand is 12 71 2 2
-player 45 draws a 9 from deck 45
-player 45 discards a 12 to deck 46
-player 45 current hand is 71 2 2 9
-player 45 draws a 92 from deck 45
-player 45 discards a 71 to deck 46
-player 45 current hand is 2 2 9 92
-player 45 draws a 57 from deck 45
-player 45 discards a 2 to deck 46
-player 45 current hand is 2 9 92 57
-player 45 draws a 77 from deck 45
-player 45 discards a 2 to deck 46
-player 45 current hand is 9 92 57 77
-player 45 draws a 16 from deck 45
-player 45 discards a 9 to deck 46
-player 45 current hand is 92 57 77 16
-player 45 draws a 67 from deck 45
-player 45 discards a 92 to deck 46
-player 45 current hand is 57 77 16 67
-player 45 draws a 62 from deck 45
-player 45 discards a 57 to deck 46
-player 45 current hand is 77 16 67 62
-player 45 draws a 68 from deck 45
-player 45 discards a 77 to deck 46
-player 45 current hand is 16 67 62 68
-player 45 draws a 56 from deck 45
-player 45 discards a 16 to deck 46
-player 45 current hand is 67 62 68 56
-player 45 draws a 9 from deck 45
-player 45 discards a 67 to deck 46
-player 45 current hand is 62 68 56 9
-player 45 draws a 87 from deck 45
-player 45 discards a 62 to deck 46
-player 45 current hand is 68 56 9 87
-player 45 draws a 83 from deck 45
-player 45 discards a 68 to deck 46
-player 45 current hand is 56 9 87 83
-player 45 draws a 45 from deck 45
-player 45 discards a 56 to deck 46
-player 45 current hand is 9 87 83 45
-player 45 draws a 57 from deck 45
-player 45 discards a 9 to deck 46
-player 45 current hand is 87 83 45 57
-player 45 draws a 9 from deck 45
-player 45 discards a 87 to deck 46
-player 45 current hand is 83 45 57 9
-player 45 draws a 54 from deck 45
-player 45 discards a 83 to deck 46
-player 45 current hand is 45 57 9 54
-player 45 draws a 23 from deck 45
-player 45 discards a 57 to deck 46
-player 45 current hand is 45 9 54 23
-player 45 draws a 87 from deck 45
-player 45 discards a 9 to deck 46
-player 45 current hand is 45 54 23 87
-player 45 draws a 29 from deck 45
-player 45 discards a 54 to deck 46
-player 45 current hand is 45 23 87 29
+player 45 current hand is 52 61 165 99
+player 45 draws a 124 from deck 45
+player 45 discards a 52 to deck 46
+player 45 current hand is 61 165 99 124
+player 45 draws a 158 from deck 45
+player 45 discards a 61 to deck 46
+player 45 current hand is 165 99 124 158
+player 45 draws a 110 from deck 45
+player 45 discards a 165 to deck 46
+player 45 current hand is 99 124 158 110
+player 45 draws a 206 from deck 45
+player 45 discards a 99 to deck 46
+player 45 current hand is 124 158 110 206
+player 45 draws a 121 from deck 45
+player 45 discards a 124 to deck 46
+player 45 current hand is 158 110 206 121
+player 45 draws a 91 from deck 45
+player 45 discards a 158 to deck 46
+player 45 current hand is 110 206 121 91
+player 45 draws a 173 from deck 45
+player 45 discards a 110 to deck 46
+player 45 current hand is 206 121 91 173
+player 45 draws a 160 from deck 45
+player 45 discards a 206 to deck 46
+player 45 current hand is 121 91 173 160
+player 45 draws a 139 from deck 45
+player 45 discards a 121 to deck 46
+player 45 current hand is 91 173 160 139
+player 45 draws a 4 from deck 45
+player 45 discards a 91 to deck 46
+player 45 current hand is 173 160 139 4
+player 45 draws a 169 from deck 45
+player 45 discards a 173 to deck 46
+player 45 current hand is 160 139 4 169
+player 45 draws a 17 from deck 45
+player 45 discards a 160 to deck 46
+player 45 current hand is 139 4 169 17
+player 45 draws a 158 from deck 45
+player 45 discards a 139 to deck 46
+player 45 current hand is 4 169 17 158
+player 45 draws a 228 from deck 45
+player 45 discards a 4 to deck 46
+player 45 current hand is 169 17 158 228
 player 45 draws a 15 from deck 45
-player 45 discards a 23 to deck 46
-player 45 current hand is 45 87 29 15
-player 45 draws a 18 from deck 45
-player 45 discards a 87 to deck 46
-player 45 current hand is 45 29 15 18
-player 45 draws a 64 from deck 45
-player 45 discards a 29 to deck 46
-player 45 current hand is 45 15 18 64
-player 45 draws a 50 from deck 45
+player 45 discards a 169 to deck 46
+player 45 current hand is 17 158 228 15
+player 45 draws a 224 from deck 45
+player 45 discards a 17 to deck 46
+player 45 current hand is 158 228 15 224
+player 45 draws a 23 from deck 45
+player 45 discards a 158 to deck 46
+player 45 current hand is 228 15 224 23
+player 45 draws a 157 from deck 45
+player 45 discards a 228 to deck 46
+player 45 current hand is 15 224 23 157
+player 45 draws a 28 from deck 45
 player 45 discards a 15 to deck 46
-player 45 current hand is 45 18 64 50
-player 45 draws a 93 from deck 45
+player 45 current hand is 224 23 157 28
+player 45 draws a 33 from deck 45
+player 45 discards a 224 to deck 46
+player 45 current hand is 23 157 28 33
+player 45 draws a 59 from deck 45
+player 45 discards a 23 to deck 46
+player 45 current hand is 157 28 33 59
+player 45 draws a 96 from deck 45
+player 45 discards a 157 to deck 46
+player 45 current hand is 28 33 59 96
+player 45 draws a 70 from deck 45
+player 45 discards a 28 to deck 46
+player 45 current hand is 33 59 96 70
+player 45 draws a 226 from deck 45
+player 45 discards a 33 to deck 46
+player 45 current hand is 59 96 70 226
+player 45 draws a 233 from deck 45
+player 45 discards a 59 to deck 46
+player 45 current hand is 96 70 226 233
+player 45 draws a 19 from deck 45
+player 45 discards a 96 to deck 46
+player 45 current hand is 70 226 233 19
+player 45 draws a 170 from deck 45
+player 45 discards a 70 to deck 46
+player 45 current hand is 226 233 19 170
+player 45 draws a 84 from deck 45
+player 45 discards a 226 to deck 46
+player 45 current hand is 233 19 170 84
+player 45 draws a 173 from deck 45
+player 45 discards a 233 to deck 46
+player 45 current hand is 19 170 84 173
+player 45 draws a 101 from deck 45
+player 45 discards a 19 to deck 46
+player 45 current hand is 170 84 173 101
+player 45 draws a 205 from deck 45
+player 45 discards a 170 to deck 46
+player 45 current hand is 84 173 101 205
+player 45 draws a 159 from deck 45
+player 45 discards a 84 to deck 46
+player 45 current hand is 173 101 205 159
+player 45 draws a 220 from deck 45
+player 45 discards a 173 to deck 46
+player 45 current hand is 101 205 159 220
+player 45 draws a 176 from deck 45
+player 45 discards a 101 to deck 46
+player 45 current hand is 205 159 220 176
+player 45 draws a 126 from deck 45
+player 45 discards a 205 to deck 46
+player 45 current hand is 159 220 176 126
+player 45 draws a 27 from deck 45
+player 45 discards a 159 to deck 46
+player 45 current hand is 220 176 126 27
+player 45 draws a 19 from deck 45
+player 45 discards a 220 to deck 46
+player 45 current hand is 176 126 27 19
+player 45 draws a 109 from deck 45
+player 45 discards a 176 to deck 46
+player 45 current hand is 126 27 19 109
+player 45 draws a 45 from deck 45
+player 45 discards a 126 to deck 46
+player 45 current hand is 27 19 109 45
+player 45 draws a 161 from deck 45
+player 45 discards a 27 to deck 46
+player 45 current hand is 19 109 45 161
+player 45 draws a 217 from deck 45
+player 45 discards a 19 to deck 46
+player 45 current hand is 109 45 161 217
+player 45 draws a 3 from deck 45
+player 45 discards a 109 to deck 46
+player 45 current hand is 45 161 217 3
+player 45 draws a 83 from deck 45
+player 45 discards a 161 to deck 46
+player 45 current hand is 45 217 3 83
+player 45 draws a 82 from deck 45
+player 45 discards a 217 to deck 46
+player 45 current hand is 45 3 83 82
+player 45 draws a 88 from deck 45
+player 45 discards a 3 to deck 46
+player 45 current hand is 45 83 82 88
+player 45 draws a 18 from deck 45
+player 45 discards a 83 to deck 46
+player 45 current hand is 45 82 88 18
+player 45 draws a 208 from deck 45
+player 45 discards a 82 to deck 46
+player 45 current hand is 45 88 18 208
+player 45 draws a 214 from deck 45
+player 45 discards a 88 to deck 46
+player 45 current hand is 45 18 208 214
+player 45 draws a 208 from deck 45
 player 45 discards a 18 to deck 46
-player 45 current hand is 45 64 50 93
-player 45 draws a 6 from deck 45
-player 45 discards a 64 to deck 46
-player 45 current hand is 45 50 93 6
-player 54 has informed player 45 that player 54 has won
+player 45 current hand is 45 208 214 208
+player 45 draws a 183 from deck 45
+player 45 discards a 208 to deck 46
+player 45 current hand is 45 214 208 183
+player 45 draws a 54 from deck 45
+player 45 discards a 214 to deck 46
+player 45 current hand is 45 208 183 54
+player 45 draws a 131 from deck 45
+player 45 discards a 208 to deck 46
+player 45 current hand is 45 183 54 131
+player 45 draws a 19 from deck 45
+player 45 discards a 183 to deck 46
+player 45 current hand is 45 54 131 19
+player 45 draws a 50 from deck 45
+player 45 discards a 54 to deck 46
+player 45 current hand is 45 131 19 50
+player 45 draws a 19 from deck 45
+player 45 discards a 131 to deck 46
+player 45 current hand is 45 19 50 19
+player 45 draws a 79 from deck 45
+player 45 discards a 19 to deck 46
+player 45 current hand is 45 50 19 79
+player 45 draws a 161 from deck 45
+player 45 discards a 50 to deck 46
+player 45 current hand is 45 19 79 161
+player 45 draws a 222 from deck 45
+player 45 discards a 19 to deck 46
+player 45 current hand is 45 79 161 222
+player 45 draws a 17 from deck 45
+player 45 discards a 79 to deck 46
+player 45 current hand is 45 161 222 17
+player 45 draws a 79 from deck 45
+player 45 discards a 161 to deck 46
+player 45 current hand is 45 222 17 79
+player 45 draws a 32 from deck 45
+player 45 discards a 222 to deck 46
+player 45 current hand is 45 17 79 32
+player 45 draws a 58 from deck 45
+player 45 discards a 17 to deck 46
+player 45 current hand is 45 79 32 58
+player 45 draws a 20 from deck 45
+player 45 discards a 79 to deck 46
+player 45 current hand is 45 32 58 20
+player 45 draws a 215 from deck 45
+player 45 discards a 32 to deck 46
+player 45 current hand is 45 58 20 215
+player 45 draws a 217 from deck 45
+player 45 discards a 58 to deck 46
+player 45 current hand is 45 20 215 217
+player 45 draws a 214 from deck 45
+player 45 discards a 20 to deck 46
+player 45 current hand is 45 215 217 214
+player 45 draws a 211 from deck 45
+player 45 discards a 215 to deck 46
+player 45 current hand is 45 217 214 211
+player 45 draws a 119 from deck 45
+player 45 discards a 217 to deck 46
+player 45 current hand is 45 214 211 119
+player 45 draws a 117 from deck 45
+player 45 discards a 214 to deck 46
+player 45 current hand is 45 211 119 117
+player 45 draws a 197 from deck 45
+player 45 discards a 211 to deck 46
+player 45 current hand is 45 119 117 197
+player 45 draws a 200 from deck 45
+player 45 discards a 119 to deck 46
+player 45 current hand is 45 117 197 200
+player 45 draws a 71 from deck 45
+player 45 discards a 117 to deck 46
+player 45 current hand is 45 197 200 71
+player 45 draws a 12 from deck 45
+player 45 discards a 197 to deck 46
+player 45 current hand is 45 200 71 12
+player 45 draws a 88 from deck 45
+player 45 discards a 200 to deck 46
+player 45 current hand is 45 71 12 88
+player 45 draws a 228 from deck 45
+player 45 discards a 71 to deck 46
+player 45 current hand is 45 12 88 228
+player 45 draws a 97 from deck 45
+player 45 discards a 12 to deck 46
+player 45 current hand is 45 88 228 97
+player 45 draws a 120 from deck 45
+player 45 discards a 88 to deck 46
+player 45 current hand is 45 228 97 120
+player 45 draws a 104 from deck 45
+player 45 discards a 228 to deck 46
+player 45 current hand is 45 97 120 104
+player 45 draws a 155 from deck 45
+player 45 discards a 97 to deck 46
+player 45 current hand is 45 120 104 155
+player 45 draws a 33 from deck 45
+player 45 discards a 120 to deck 46
+player 45 current hand is 45 104 155 33
+player 45 draws a 146 from deck 45
+player 45 discards a 104 to deck 46
+player 45 current hand is 45 155 33 146
+player 45 draws a 210 from deck 45
+player 45 discards a 155 to deck 46
+player 45 current hand is 45 33 146 210
+player 45 draws a 189 from deck 45
+player 45 discards a 33 to deck 46
+player 45 current hand is 45 146 210 189
+player 45 draws a 135 from deck 45
+player 45 discards a 146 to deck 46
+player 45 current hand is 45 210 189 135
+player 45 draws a 25 from deck 45
+player 45 discards a 210 to deck 46
+player 45 current hand is 45 189 135 25
+player 45 draws a 112 from deck 45
+player 45 discards a 189 to deck 46
+player 45 current hand is 45 135 25 112
+player 45 draws a 123 from deck 45
+player 45 discards a 135 to deck 46
+player 45 current hand is 45 25 112 123
+player 45 draws a 204 from deck 45
+player 45 discards a 25 to deck 46
+player 45 current hand is 45 112 123 204
+player 45 draws a 5 from deck 45
+player 45 discards a 112 to deck 46
+player 45 current hand is 45 123 204 5
+player 45 draws a 226 from deck 45
+player 45 discards a 123 to deck 46
+player 45 current hand is 45 204 5 226
+player 45 draws a 123 from deck 45
+player 45 discards a 204 to deck 46
+player 45 current hand is 45 5 226 123
+player 45 draws a 218 from deck 45
+player 45 discards a 5 to deck 46
+player 45 current hand is 45 226 123 218
+player 45 draws a 124 from deck 45
+player 45 discards a 226 to deck 46
+player 45 current hand is 45 123 218 124
+player 45 draws a 234 from deck 45
+player 45 discards a 123 to deck 46
+player 45 current hand is 45 218 124 234
+player 45 draws a 31 from deck 45
+player 45 discards a 218 to deck 46
+player 45 current hand is 45 124 234 31
+player 45 draws a 90 from deck 45
+player 45 discards a 124 to deck 46
+player 45 current hand is 45 234 31 90
+player 45 draws a 9 from deck 45
+player 45 discards a 234 to deck 46
+player 45 current hand is 45 31 90 9
+player 45 draws a 127 from deck 45
+player 45 discards a 31 to deck 46
+player 45 current hand is 45 90 9 127
+player 45 draws a 50 from deck 45
+player 45 discards a 90 to deck 46
+player 45 current hand is 45 9 127 50
+player 45 draws a 130 from deck 45
+player 45 discards a 9 to deck 46
+player 45 current hand is 45 127 50 130
+player 45 draws a 218 from deck 45
+player 45 discards a 127 to deck 46
+player 45 current hand is 45 50 130 218
+player 45 draws a 174 from deck 45
+player 45 discards a 50 to deck 46
+player 45 current hand is 45 130 218 174
+player 45 draws a 55 from deck 45
+player 45 discards a 130 to deck 46
+player 45 current hand is 45 218 174 55
+player 45 draws a 190 from deck 45
+player 45 discards a 218 to deck 46
+player 45 current hand is 45 174 55 190
+player 45 draws a 120 from deck 45
+player 45 discards a 174 to deck 46
+player 45 current hand is 45 55 190 120
+player 45 draws a 179 from deck 45
+player 45 discards a 55 to deck 46
+player 45 current hand is 45 190 120 179
+player 45 draws a 22 from deck 45
+player 45 discards a 190 to deck 46
+player 45 current hand is 45 120 179 22
+player 45 draws a 205 from deck 45
+player 45 discards a 120 to deck 46
+player 45 current hand is 45 179 22 205
+player 45 draws a 121 from deck 45
+player 45 discards a 179 to deck 46
+player 45 current hand is 45 22 205 121
+player 45 draws a 5 from deck 45
+player 45 discards a 22 to deck 46
+player 45 current hand is 45 205 121 5
+player 45 draws a 92 from deck 45
+player 45 discards a 205 to deck 46
+player 45 current hand is 45 121 5 92
+player 45 draws a 76 from deck 45
+player 45 discards a 121 to deck 46
+player 45 current hand is 45 5 92 76
+player 45 draws a 85 from deck 45
+player 45 discards a 5 to deck 46
+player 45 current hand is 45 92 76 85
+player 45 draws a 196 from deck 45
+player 45 discards a 92 to deck 46
+player 45 current hand is 45 76 85 196
+player 45 draws a 230 from deck 45
+player 45 discards a 76 to deck 46
+player 45 current hand is 45 85 196 230
+player 45 draws a 174 from deck 45
+player 45 discards a 85 to deck 46
+player 45 current hand is 45 196 230 174
+player 45 draws a 59 from deck 45
+player 45 discards a 196 to deck 46
+player 45 current hand is 45 230 174 59
+player 45 draws a 213 from deck 45
+player 45 discards a 230 to deck 46
+player 45 current hand is 45 174 59 213
+player 45 draws a 114 from deck 45
+player 45 discards a 174 to deck 46
+player 45 current hand is 45 59 213 114
+player 45 draws a 233 from deck 45
+player 45 discards a 59 to deck 46
+player 45 current hand is 45 213 114 233
+player 45 draws a 176 from deck 45
+player 45 discards a 213 to deck 46
+player 45 current hand is 45 114 233 176
+player 45 draws a 56 from deck 45
+player 45 discards a 114 to deck 46
+player 45 current hand is 45 233 176 56
+player 45 draws a 24 from deck 45
+player 45 discards a 233 to deck 46
+player 45 current hand is 45 176 56 24
+player 45 draws a 133 from deck 45
+player 45 discards a 176 to deck 46
+player 45 current hand is 45 56 24 133
+player 45 draws a 62 from deck 45
+player 45 discards a 56 to deck 46
+player 45 current hand is 45 24 133 62
+player 45 draws a 237 from deck 45
+player 45 discards a 24 to deck 46
+player 45 current hand is 45 133 62 237
+player 45 draws a 48 from deck 45
+player 45 discards a 133 to deck 46
+player 45 current hand is 45 62 237 48
+player 45 draws a 130 from deck 45
+player 45 discards a 62 to deck 46
+player 45 current hand is 45 237 48 130
+player 45 draws a 86 from deck 45
+player 45 discards a 237 to deck 46
+player 45 current hand is 45 48 130 86
+player 45 draws a 177 from deck 45
+player 45 discards a 48 to deck 46
+player 45 current hand is 45 130 86 177
+player 45 draws a 195 from deck 45
+player 45 discards a 130 to deck 46
+player 45 current hand is 45 86 177 195
+player 45 draws a 4 from deck 45
+player 45 discards a 86 to deck 46
+player 45 current hand is 45 177 195 4
+player 45 draws a 51 from deck 45
+player 45 discards a 177 to deck 46
+player 45 current hand is 45 195 4 51
+player 45 draws a 235 from deck 45
+player 45 discards a 195 to deck 46
+player 45 current hand is 45 4 51 235
+player 45 draws a 55 from deck 45
+player 45 discards a 4 to deck 46
+player 45 current hand is 45 51 235 55
+player 45 draws a 188 from deck 45
+player 45 discards a 51 to deck 46
+player 45 current hand is 45 235 55 188
+player 45 draws a 116 from deck 45
+player 45 discards a 235 to deck 46
+player 45 current hand is 45 55 188 116
+player 45 draws a 180 from deck 45
+player 45 discards a 55 to deck 46
+player 45 current hand is 45 188 116 180
+player 45 draws a 188 from deck 45
+player 45 discards a 188 to deck 46
+player 45 current hand is 45 116 180 188
+player 45 draws a 228 from deck 45
+player 45 discards a 116 to deck 46
+player 45 current hand is 45 180 188 228
+player 45 draws a 215 from deck 45
+player 45 discards a 180 to deck 46
+player 45 current hand is 45 188 228 215
+player 45 draws a 158 from deck 45
+player 45 discards a 188 to deck 46
+player 45 current hand is 45 228 215 158
+player 45 draws a 82 from deck 45
+player 45 discards a 228 to deck 46
+player 45 current hand is 45 215 158 82
+player 45 draws a 57 from deck 45
+player 45 discards a 215 to deck 46
+player 45 current hand is 45 158 82 57
+player 45 draws a 202 from deck 45
+player 45 discards a 158 to deck 46
+player 45 current hand is 45 82 57 202
+player 45 draws a 133 from deck 45
+player 45 discards a 82 to deck 46
+player 45 current hand is 45 57 202 133
+player 45 draws a 47 from deck 45
+player 45 discards a 57 to deck 46
+player 45 current hand is 45 202 133 47
+player 45 draws a 112 from deck 45
+player 45 discards a 202 to deck 46
+player 45 current hand is 45 133 47 112
+player 45 draws a 67 from deck 45
+player 45 discards a 133 to deck 46
+player 45 current hand is 45 47 112 67
+player 45 draws a 65 from deck 45
+player 45 discards a 47 to deck 46
+player 45 current hand is 45 112 67 65
+player 45 draws a 232 from deck 45
+player 45 discards a 112 to deck 46
+player 45 current hand is 45 67 65 232
+player 45 draws a 17 from deck 45
+player 45 discards a 67 to deck 46
+player 45 current hand is 45 65 232 17
+player 45 draws a 52 from deck 45
+player 45 discards a 65 to deck 46
+player 45 current hand is 45 232 17 52
+player 45 draws a 108 from deck 45
+player 45 discards a 232 to deck 46
+player 45 current hand is 45 17 52 108
+player 45 draws a 141 from deck 45
+player 45 discards a 17 to deck 46
+player 45 current hand is 45 52 108 141
+player 45 draws a 140 from deck 45
+player 45 discards a 52 to deck 46
+player 45 current hand is 45 108 141 140
+player 45 draws a 190 from deck 45
+player 45 discards a 108 to deck 46
+player 45 current hand is 45 141 140 190
+player 45 draws a 57 from deck 45
+player 45 discards a 141 to deck 46
+player 45 current hand is 45 140 190 57
+player 45 draws a 159 from deck 45
+player 45 discards a 140 to deck 46
+player 45 current hand is 45 190 57 159
+player 45 draws a 151 from deck 45
+player 45 discards a 190 to deck 46
+player 45 current hand is 45 57 159 151
+player 45 draws a 178 from deck 45
+player 45 discards a 57 to deck 46
+player 45 current hand is 45 159 151 178
+player 45 draws a 16 from deck 45
+player 45 discards a 159 to deck 46
+player 45 current hand is 45 151 178 16
+player 45 draws a 63 from deck 45
+player 45 discards a 151 to deck 46
+player 45 current hand is 45 178 16 63
+player 45 draws a 211 from deck 45
+player 45 discards a 178 to deck 46
+player 45 current hand is 45 16 63 211
+player 45 draws a 139 from deck 45
+player 45 discards a 16 to deck 46
+player 45 current hand is 45 63 211 139
+player 45 draws a 186 from deck 45
+player 45 discards a 63 to deck 46
+player 45 current hand is 45 211 139 186
+player 45 draws a 133 from deck 45
+player 45 discards a 211 to deck 46
+player 45 current hand is 45 139 186 133
+player 45 draws a 148 from deck 45
+player 45 discards a 139 to deck 46
+player 45 current hand is 45 186 133 148
+player 45 draws a 99 from deck 45
+player 45 discards a 186 to deck 46
+player 45 current hand is 45 133 148 99
+player 45 draws a 110 from deck 45
+player 45 discards a 133 to deck 46
+player 45 current hand is 45 148 99 110
+player 45 draws a 13 from deck 45
+player 45 discards a 148 to deck 46
+player 45 current hand is 45 99 110 13
+player 45 draws a 137 from deck 45
+player 45 discards a 99 to deck 46
+player 45 current hand is 45 110 13 137
+player 45 draws a 103 from deck 45
+player 45 discards a 110 to deck 46
+player 45 current hand is 45 13 137 103
+player 45 draws a 164 from deck 45
+player 45 discards a 13 to deck 46
+player 45 current hand is 45 137 103 164
+player 45 draws a 229 from deck 45
+player 45 discards a 137 to deck 46
+player 45 current hand is 45 103 164 229
+player 87 has informed player 45 that player 87 has won
 player 45 exits
-player 45 hand: 45 50 93 6
+player 45 hand: 45 103 164 229

@@ -1,0 +1,4 @@
+player 205 initial hand 123 201 18 49
+player 87 has informed player 205 that player 87 has won
+player 205 exits
+player 205 hand: 123 201 18 49

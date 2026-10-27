@@ -1,0 +1,4 @@
+player 220 initial hand 3 6 188 175
+player 87 has informed player 220 that player 87 has won
+player 220 exits
+player 220 hand: 3 6 188 175

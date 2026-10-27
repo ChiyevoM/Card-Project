@@ -1,19 +1,40 @@
-player 3 initial hand 6 4 8 4
-player 3 draws a 2 from deck 3
+player 3 initial hand 86 46 108 146
+player 3 draws a 110 from deck 3
+player 3 discards a 86 to deck 4
+player 3 current hand is 46 108 146 110
+player 3 draws a 116 from deck 3
+player 3 discards a 46 to deck 4
+player 3 current hand is 108 146 110 116
+player 3 draws a 54 from deck 3
+player 3 discards a 108 to deck 4
+player 3 current hand is 146 110 116 54
+player 3 draws a 6 from deck 3
+player 3 discards a 146 to deck 4
+player 3 current hand is 110 116 54 6
+player 3 draws a 110 from deck 3
+player 3 discards a 110 to deck 4
+player 3 current hand is 116 54 6 110
+player 3 draws a 166 from deck 3
+player 3 discards a 116 to deck 4
+player 3 current hand is 54 6 110 166
+player 3 draws a 65 from deck 3
+player 3 discards a 54 to deck 4
+player 3 current hand is 6 110 166 65
+player 3 draws a 28 from deck 3
 player 3 discards a 6 to deck 4
-player 3 current hand is 4 8 4 2
+player 3 current hand is 110 166 65 28
+player 3 draws a 213 from deck 3
+player 3 discards a 110 to deck 4
+player 3 current hand is 166 65 28 213
+player 3 draws a 212 from deck 3
+player 3 discards a 166 to deck 4
+player 3 current hand is 65 28 213 212
+player 3 draws a 81 from deck 3
+player 3 discards a 65 to deck 4
+player 3 current hand is 28 213 212 81
 player 3 draws a 7 from deck 3
-player 3 discards a 4 to deck 4
-player 3 current hand is 8 4 2 7
-player 3 draws a 3 from deck 3
-player 3 discards a 8 to deck 4
-player 3 current hand is 4 2 7 3
-player 3 draws a 4 from deck 3
-player 3 discards a 4 to deck 4
-player 3 current hand is 2 7 3 4
-player 3 draws a 7 from deck 3
-player 3 discards a 2 to deck 4
-player 3 current hand is 7 3 4 7
-player 2 has informed player 3 that player 2 has won
+player 3 discards a 28 to deck 4
+player 3 current hand is 213 212 81 7
+player 87 has informed player 3 that player 87 has won
 player 3 exits
-player 3 hand: 7 3 4 7
+player 3 hand: 213 212 81 7

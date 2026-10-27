@@ -1,0 +1,4 @@
+player 166 initial hand 201 47 12 47
+player 87 has informed player 166 that player 87 has won
+player 166 exits
+player 166 hand: 201 47 12 47

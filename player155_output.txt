@@ -1,0 +1,4 @@
+player 155 initial hand 165 99 58 212
+player 87 has informed player 155 that player 87 has won
+player 155 exits
+player 155 hand: 165 99 58 212

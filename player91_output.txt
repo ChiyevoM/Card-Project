@@ -1,4 +1,262 @@
-player 91 initial hand 47 63 48 37
-player 54 has informed player 91 that player 54 has won
+player 91 initial hand 77 192 113 56
+player 91 draws a 79 from deck 91
+player 91 discards a 77 to deck 92
+player 91 current hand is 192 113 56 79
+player 91 draws a 44 from deck 91
+player 91 discards a 192 to deck 92
+player 91 current hand is 113 56 79 44
+player 91 draws a 21 from deck 91
+player 91 discards a 113 to deck 92
+player 91 current hand is 56 79 44 21
+player 91 draws a 20 from deck 91
+player 91 discards a 56 to deck 92
+player 91 current hand is 79 44 21 20
+player 91 draws a 121 from deck 91
+player 91 discards a 79 to deck 92
+player 91 current hand is 44 21 20 121
+player 91 draws a 166 from deck 91
+player 91 discards a 44 to deck 92
+player 91 current hand is 21 20 121 166
+player 91 draws a 160 from deck 91
+player 91 discards a 21 to deck 92
+player 91 current hand is 20 121 166 160
+player 91 draws a 60 from deck 91
+player 91 discards a 20 to deck 92
+player 91 current hand is 121 166 160 60
+player 91 draws a 114 from deck 91
+player 91 discards a 121 to deck 92
+player 91 current hand is 166 160 60 114
+player 91 draws a 226 from deck 91
+player 91 discards a 166 to deck 92
+player 91 current hand is 160 60 114 226
+player 91 draws a 102 from deck 91
+player 91 discards a 160 to deck 92
+player 91 current hand is 60 114 226 102
+player 91 draws a 129 from deck 91
+player 91 discards a 60 to deck 92
+player 91 current hand is 114 226 102 129
+player 91 draws a 208 from deck 91
+player 91 discards a 114 to deck 92
+player 91 current hand is 226 102 129 208
+player 91 draws a 200 from deck 91
+player 91 discards a 226 to deck 92
+player 91 current hand is 102 129 208 200
+player 91 draws a 175 from deck 91
+player 91 discards a 102 to deck 92
+player 91 current hand is 129 208 200 175
+player 91 draws a 175 from deck 91
+player 91 discards a 129 to deck 92
+player 91 current hand is 208 200 175 175
+player 91 draws a 70 from deck 91
+player 91 discards a 208 to deck 92
+player 91 current hand is 200 175 175 70
+player 91 draws a 91 from deck 91
+player 91 discards a 200 to deck 92
+player 91 current hand is 175 175 70 91
+player 91 draws a 54 from deck 91
+player 91 discards a 175 to deck 92
+player 91 current hand is 175 70 91 54
+player 91 draws a 100 from deck 91
+player 91 discards a 175 to deck 92
+player 91 current hand is 70 91 54 100
+player 91 draws a 85 from deck 91
+player 91 discards a 70 to deck 92
+player 91 current hand is 91 54 100 85
+player 91 draws a 198 from deck 91
+player 91 discards a 54 to deck 92
+player 91 current hand is 91 100 85 198
+player 91 draws a 121 from deck 91
+player 91 discards a 100 to deck 92
+player 91 current hand is 91 85 198 121
+player 91 draws a 80 from deck 91
+player 91 discards a 85 to deck 92
+player 91 current hand is 91 198 121 80
+player 91 draws a 168 from deck 91
+player 91 discards a 198 to deck 92
+player 91 current hand is 91 121 80 168
+player 91 draws a 14 from deck 91
+player 91 discards a 121 to deck 92
+player 91 current hand is 91 80 168 14
+player 91 draws a 220 from deck 91
+player 91 discards a 80 to deck 92
+player 91 current hand is 91 168 14 220
+player 91 draws a 68 from deck 91
+player 91 discards a 168 to deck 92
+player 91 current hand is 91 14 220 68
+player 91 draws a 201 from deck 91
+player 91 discards a 14 to deck 92
+player 91 current hand is 91 220 68 201
+player 91 draws a 26 from deck 91
+player 91 discards a 220 to deck 92
+player 91 current hand is 91 68 201 26
+player 91 draws a 216 from deck 91
+player 91 discards a 68 to deck 92
+player 91 current hand is 91 201 26 216
+player 91 draws a 12 from deck 91
+player 91 discards a 201 to deck 92
+player 91 current hand is 91 26 216 12
+player 91 draws a 47 from deck 91
+player 91 discards a 26 to deck 92
+player 91 current hand is 91 216 12 47
+player 91 draws a 36 from deck 91
+player 91 discards a 216 to deck 92
+player 91 current hand is 91 12 47 36
+player 91 draws a 100 from deck 91
+player 91 discards a 12 to deck 92
+player 91 current hand is 91 47 36 100
+player 91 draws a 131 from deck 91
+player 91 discards a 47 to deck 92
+player 91 current hand is 91 36 100 131
+player 91 draws a 85 from deck 91
+player 91 discards a 36 to deck 92
+player 91 current hand is 91 100 131 85
+player 91 draws a 38 from deck 91
+player 91 discards a 100 to deck 92
+player 91 current hand is 91 131 85 38
+player 91 draws a 117 from deck 91
+player 91 discards a 131 to deck 92
+player 91 current hand is 91 85 38 117
+player 91 draws a 32 from deck 91
+player 91 discards a 85 to deck 92
+player 91 current hand is 91 38 117 32
+player 91 draws a 236 from deck 91
+player 91 discards a 38 to deck 92
+player 91 current hand is 91 117 32 236
+player 91 draws a 191 from deck 91
+player 91 discards a 117 to deck 92
+player 91 current hand is 91 32 236 191
+player 91 draws a 190 from deck 91
+player 91 discards a 32 to deck 92
+player 91 current hand is 91 236 191 190
+player 91 draws a 50 from deck 91
+player 91 discards a 236 to deck 92
+player 91 current hand is 91 191 190 50
+player 91 draws a 125 from deck 91
+player 91 discards a 191 to deck 92
+player 91 current hand is 91 190 50 125
+player 91 draws a 225 from deck 91
+player 91 discards a 190 to deck 92
+player 91 current hand is 91 50 125 225
+player 91 draws a 156 from deck 91
+player 91 discards a 50 to deck 92
+player 91 current hand is 91 125 225 156
+player 91 draws a 179 from deck 91
+player 91 discards a 125 to deck 92
+player 91 current hand is 91 225 156 179
+player 91 draws a 178 from deck 91
+player 91 discards a 225 to deck 92
+player 91 current hand is 91 156 179 178
+player 91 draws a 111 from deck 91
+player 91 discards a 156 to deck 92
+player 91 current hand is 91 179 178 111
+player 91 draws a 63 from deck 91
+player 91 discards a 179 to deck 92
+player 91 current hand is 91 178 111 63
+player 91 draws a 198 from deck 91
+player 91 discards a 178 to deck 92
+player 91 current hand is 91 111 63 198
+player 91 draws a 42 from deck 91
+player 91 discards a 111 to deck 92
+player 91 current hand is 91 63 198 42
+player 91 draws a 235 from deck 91
+player 91 discards a 63 to deck 92
+player 91 current hand is 91 198 42 235
+player 91 draws a 171 from deck 91
+player 91 discards a 198 to deck 92
+player 91 current hand is 91 42 235 171
+player 91 draws a 202 from deck 91
+player 91 discards a 42 to deck 92
+player 91 current hand is 91 235 171 202
+player 91 draws a 231 from deck 91
+player 91 discards a 235 to deck 92
+player 91 current hand is 91 171 202 231
+player 91 draws a 213 from deck 91
+player 91 discards a 171 to deck 92
+player 91 current hand is 91 202 231 213
+player 91 draws a 38 from deck 91
+player 91 discards a 202 to deck 92
+player 91 current hand is 91 231 213 38
+player 91 draws a 201 from deck 91
+player 91 discards a 231 to deck 92
+player 91 current hand is 91 213 38 201
+player 91 draws a 235 from deck 91
+player 91 discards a 213 to deck 92
+player 91 current hand is 91 38 201 235
+player 91 draws a 225 from deck 91
+player 91 discards a 38 to deck 92
+player 91 current hand is 91 201 235 225
+player 91 draws a 93 from deck 91
+player 91 discards a 201 to deck 92
+player 91 current hand is 91 235 225 93
+player 91 draws a 191 from deck 91
+player 91 discards a 235 to deck 92
+player 91 current hand is 91 225 93 191
+player 91 draws a 233 from deck 91
+player 91 discards a 225 to deck 92
+player 91 current hand is 91 93 191 233
+player 91 draws a 94 from deck 91
+player 91 discards a 93 to deck 92
+player 91 current hand is 91 191 233 94
+player 91 draws a 119 from deck 91
+player 91 discards a 191 to deck 92
+player 91 current hand is 91 233 94 119
+player 91 draws a 165 from deck 91
+player 91 discards a 233 to deck 92
+player 91 current hand is 91 94 119 165
+player 91 draws a 34 from deck 91
+player 91 discards a 94 to deck 92
+player 91 current hand is 91 119 165 34
+player 91 draws a 21 from deck 91
+player 91 discards a 119 to deck 92
+player 91 current hand is 91 165 34 21
+player 91 draws a 174 from deck 91
+player 91 discards a 165 to deck 92
+player 91 current hand is 91 34 21 174
+player 91 draws a 95 from deck 91
+player 91 discards a 34 to deck 92
+player 91 current hand is 91 21 174 95
+player 91 draws a 128 from deck 91
+player 91 discards a 21 to deck 92
+player 91 current hand is 91 174 95 128
+player 91 draws a 163 from deck 91
+player 91 discards a 174 to deck 92
+player 91 current hand is 91 95 128 163
+player 91 draws a 32 from deck 91
+player 91 discards a 95 to deck 92
+player 91 current hand is 91 128 163 32
+player 91 draws a 187 from deck 91
+player 91 discards a 128 to deck 92
+player 91 current hand is 91 163 32 187
+player 91 draws a 193 from deck 91
+player 91 discards a 163 to deck 92
+player 91 current hand is 91 32 187 193
+player 91 draws a 24 from deck 91
+player 91 discards a 32 to deck 92
+player 91 current hand is 91 187 193 24
+player 91 draws a 207 from deck 91
+player 91 discards a 187 to deck 92
+player 91 current hand is 91 193 24 207
+player 91 draws a 52 from deck 91
+player 91 discards a 193 to deck 92
+player 91 current hand is 91 24 207 52
+player 91 draws a 36 from deck 91
+player 91 discards a 24 to deck 92
+player 91 current hand is 91 207 52 36
+player 91 draws a 58 from deck 91
+player 91 discards a 207 to deck 92
+player 91 current hand is 91 52 36 58
+player 91 draws a 28 from deck 91
+player 91 discards a 52 to deck 92
+player 91 current hand is 91 36 58 28
+player 91 draws a 94 from deck 91
+player 91 discards a 36 to deck 92
+player 91 current hand is 91 58 28 94
+player 91 draws a 98 from deck 91
+player 91 discards a 58 to deck 92
+player 91 current hand is 91 28 94 98
+player 91 draws a 18 from deck 91
+player 91 discards a 28 to deck 92
+player 91 current hand is 91 94 98 18
+player 87 has informed player 91 that player 87 has won
 player 91 exits
-player 91 hand: 47 63 48 37
+player 91 hand: 91 94 98 18

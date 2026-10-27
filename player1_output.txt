@@ -1,13 +1,16 @@
-player 1 initial hand 3 6 1 1
-player 1 draws a 5 from deck 1
-player 1 discards a 3 to deck 2
-player 1 current hand is 6 1 1 5
-player 1 draws a 2 from deck 1
-player 1 discards a 6 to deck 2
-player 1 current hand is 1 1 5 2
-player 1 draws a 8 from deck 1
-player 1 discards a 5 to deck 2
-player 1 current hand is 1 1 2 8
-player 2 has informed player 1 that player 2 has won
+player 1 initial hand 193 178 188 60
+player 1 draws a 145 from deck 1
+player 1 discards a 193 to deck 2
+player 1 current hand is 178 188 60 145
+player 1 draws a 213 from deck 1
+player 1 discards a 178 to deck 2
+player 1 current hand is 188 60 145 213
+player 1 draws a 31 from deck 1
+player 1 discards a 188 to deck 2
+player 1 current hand is 60 145 213 31
+player 1 draws a 154 from deck 1
+player 1 discards a 60 to deck 2
+player 1 current hand is 145 213 31 154
+player 87 has informed player 1 that player 87 has won
 player 1 exits
-player 1 hand: 1 1 2 8
+player 1 hand: 145 213 31 154

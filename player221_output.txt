@@ -1,0 +1,4 @@
+player 221 initial hand 222 134 64 236
+player 87 has informed player 221 that player 87 has won
+player 221 exits
+player 221 hand: 222 134 64 236

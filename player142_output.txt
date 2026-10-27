@@ -1,0 +1,4 @@
+player 142 initial hand 88 102 137 114
+player 87 has informed player 142 that player 87 has won
+player 142 exits
+player 142 hand: 88 102 137 114

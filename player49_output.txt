@@ -1,397 +1,592 @@
-player 49 initial hand 54 29 15 11
-player 49 draws a 82 from deck 49
-player 49 discards a 54 to deck 50
-player 49 current hand is 29 15 11 82
-player 49 draws a 60 from deck 49
-player 49 discards a 29 to deck 50
-player 49 current hand is 15 11 82 60
-player 49 draws a 42 from deck 49
-player 49 discards a 15 to deck 50
-player 49 current hand is 11 82 60 42
-player 49 draws a 6 from deck 49
-player 49 discards a 11 to deck 50
-player 49 current hand is 82 60 42 6
-player 49 draws a 65 from deck 49
-player 49 discards a 82 to deck 50
-player 49 current hand is 60 42 6 65
-player 49 draws a 55 from deck 49
-player 49 discards a 60 to deck 50
-player 49 current hand is 42 6 65 55
-player 49 draws a 98 from deck 49
-player 49 discards a 42 to deck 50
-player 49 current hand is 6 65 55 98
-player 49 draws a 33 from deck 49
-player 49 discards a 6 to deck 50
-player 49 current hand is 65 55 98 33
-player 49 draws a 11 from deck 49
-player 49 discards a 65 to deck 50
-player 49 current hand is 55 98 33 11
-player 49 draws a 18 from deck 49
-player 49 discards a 55 to deck 50
-player 49 current hand is 98 33 11 18
-player 49 draws a 21 from deck 49
-player 49 discards a 98 to deck 50
-player 49 current hand is 33 11 18 21
-player 49 draws a 18 from deck 49
-player 49 discards a 33 to deck 50
-player 49 current hand is 11 18 21 18
-player 49 draws a 18 from deck 49
-player 49 discards a 11 to deck 50
-player 49 current hand is 18 21 18 18
-player 49 draws a 99 from deck 49
-player 49 discards a 18 to deck 50
-player 49 current hand is 21 18 18 99
-player 49 draws a 93 from deck 49
-player 49 discards a 21 to deck 50
-player 49 current hand is 18 18 99 93
-player 49 draws a 80 from deck 49
-player 49 discards a 18 to deck 50
-player 49 current hand is 18 99 93 80
-player 49 draws a 9 from deck 49
-player 49 discards a 18 to deck 50
-player 49 current hand is 99 93 80 9
-player 49 draws a 61 from deck 49
-player 49 discards a 99 to deck 50
-player 49 current hand is 93 80 9 61
-player 49 draws a 91 from deck 49
-player 49 discards a 93 to deck 50
-player 49 current hand is 80 9 61 91
-player 49 draws a 34 from deck 49
-player 49 discards a 80 to deck 50
-player 49 current hand is 9 61 91 34
-player 49 draws a 91 from deck 49
-player 49 discards a 9 to deck 50
-player 49 current hand is 61 91 34 91
-player 49 draws a 100 from deck 49
-player 49 discards a 61 to deck 50
-player 49 current hand is 91 34 91 100
-player 49 draws a 76 from deck 49
-player 49 discards a 91 to deck 50
-player 49 current hand is 34 91 100 76
-player 49 draws a 56 from deck 49
-player 49 discards a 34 to deck 50
-player 49 current hand is 91 100 76 56
-player 49 draws a 78 from deck 49
-player 49 discards a 91 to deck 50
-player 49 current hand is 100 76 56 78
-player 49 draws a 6 from deck 49
-player 49 discards a 100 to deck 50
-player 49 current hand is 76 56 78 6
-player 49 draws a 67 from deck 49
-player 49 discards a 76 to deck 50
-player 49 current hand is 56 78 6 67
-player 49 draws a 35 from deck 49
-player 49 discards a 56 to deck 50
-player 49 current hand is 78 6 67 35
-player 49 draws a 54 from deck 49
-player 49 discards a 78 to deck 50
-player 49 current hand is 6 67 35 54
-player 49 draws a 84 from deck 49
-player 49 discards a 6 to deck 50
-player 49 current hand is 67 35 54 84
-player 49 draws a 21 from deck 49
-player 49 discards a 67 to deck 50
-player 49 current hand is 35 54 84 21
-player 49 draws a 44 from deck 49
-player 49 discards a 35 to deck 50
-player 49 current hand is 54 84 21 44
-player 49 draws a 9 from deck 49
-player 49 discards a 54 to deck 50
-player 49 current hand is 84 21 44 9
-player 49 draws a 61 from deck 49
-player 49 discards a 84 to deck 50
-player 49 current hand is 21 44 9 61
-player 49 draws a 92 from deck 49
-player 49 discards a 21 to deck 50
-player 49 current hand is 44 9 61 92
-player 49 draws a 56 from deck 49
-player 49 discards a 44 to deck 50
-player 49 current hand is 9 61 92 56
-player 49 draws a 65 from deck 49
-player 49 discards a 9 to deck 50
-player 49 current hand is 61 92 56 65
-player 49 draws a 98 from deck 49
-player 49 discards a 61 to deck 50
-player 49 current hand is 92 56 65 98
-player 49 draws a 1 from deck 49
-player 49 discards a 92 to deck 50
-player 49 current hand is 56 65 98 1
-player 49 draws a 26 from deck 49
-player 49 discards a 56 to deck 50
-player 49 current hand is 65 98 1 26
-player 49 draws a 76 from deck 49
-player 49 discards a 65 to deck 50
-player 49 current hand is 98 1 26 76
-player 49 draws a 84 from deck 49
-player 49 discards a 98 to deck 50
-player 49 current hand is 1 26 76 84
-player 49 draws a 21 from deck 49
-player 49 discards a 1 to deck 50
-player 49 current hand is 26 76 84 21
-player 49 draws a 49 from deck 49
-player 49 discards a 26 to deck 50
-player 49 current hand is 76 84 21 49
-player 49 draws a 34 from deck 49
-player 49 discards a 76 to deck 50
-player 49 current hand is 84 21 49 34
-player 49 draws a 24 from deck 49
-player 49 discards a 84 to deck 50
-player 49 current hand is 21 49 34 24
-player 49 draws a 78 from deck 49
-player 49 discards a 21 to deck 50
-player 49 current hand is 49 34 24 78
-player 49 draws a 51 from deck 49
-player 49 discards a 34 to deck 50
-player 49 current hand is 49 24 78 51
-player 49 draws a 93 from deck 49
-player 49 discards a 24 to deck 50
-player 49 current hand is 49 78 51 93
-player 49 draws a 64 from deck 49
-player 49 discards a 78 to deck 50
-player 49 current hand is 49 51 93 64
+player 49 initial hand 120 8 162 11
+player 49 draws a 235 from deck 49
+player 49 discards a 120 to deck 50
+player 49 current hand is 8 162 11 235
+player 49 draws a 158 from deck 49
+player 49 discards a 8 to deck 50
+player 49 current hand is 162 11 235 158
+player 49 draws a 146 from deck 49
+player 49 discards a 162 to deck 50
+player 49 current hand is 11 235 158 146
 player 49 draws a 32 from deck 49
-player 49 discards a 51 to deck 50
-player 49 current hand is 49 93 64 32
-player 49 draws a 52 from deck 49
-player 49 discards a 93 to deck 50
-player 49 current hand is 49 64 32 52
-player 49 draws a 54 from deck 49
-player 49 discards a 64 to deck 50
-player 49 current hand is 49 32 52 54
-player 49 draws a 77 from deck 49
-player 49 discards a 32 to deck 50
-player 49 current hand is 49 52 54 77
-player 49 draws a 71 from deck 49
-player 49 discards a 52 to deck 50
-player 49 current hand is 49 54 77 71
-player 49 draws a 67 from deck 49
-player 49 discards a 54 to deck 50
-player 49 current hand is 49 77 71 67
-player 49 draws a 99 from deck 49
-player 49 discards a 77 to deck 50
-player 49 current hand is 49 71 67 99
-player 49 draws a 70 from deck 49
-player 49 discards a 71 to deck 50
-player 49 current hand is 49 67 99 70
-player 49 draws a 26 from deck 49
-player 49 discards a 67 to deck 50
-player 49 current hand is 49 99 70 26
-player 49 draws a 73 from deck 49
-player 49 discards a 99 to deck 50
-player 49 current hand is 49 70 26 73
-player 49 draws a 26 from deck 49
-player 49 discards a 70 to deck 50
-player 49 current hand is 49 26 73 26
-player 49 draws a 2 from deck 49
-player 49 discards a 26 to deck 50
-player 49 current hand is 49 73 26 2
-player 49 draws a 29 from deck 49
-player 49 discards a 73 to deck 50
-player 49 current hand is 49 26 2 29
-player 49 draws a 89 from deck 49
-player 49 discards a 26 to deck 50
-player 49 current hand is 49 2 29 89
-player 49 draws a 99 from deck 49
-player 49 discards a 2 to deck 50
-player 49 current hand is 49 29 89 99
-player 49 draws a 60 from deck 49
-player 49 discards a 29 to deck 50
-player 49 current hand is 49 89 99 60
-player 49 draws a 64 from deck 49
-player 49 discards a 89 to deck 50
-player 49 current hand is 49 99 60 64
-player 49 draws a 24 from deck 49
-player 49 discards a 99 to deck 50
-player 49 current hand is 49 60 64 24
-player 49 draws a 69 from deck 49
-player 49 discards a 60 to deck 50
-player 49 current hand is 49 64 24 69
-player 49 draws a 53 from deck 49
-player 49 discards a 64 to deck 50
-player 49 current hand is 49 24 69 53
-player 49 draws a 86 from deck 49
-player 49 discards a 24 to deck 50
-player 49 current hand is 49 69 53 86
-player 49 draws a 57 from deck 49
-player 49 discards a 69 to deck 50
-player 49 current hand is 49 53 86 57
-player 49 draws a 90 from deck 49
-player 49 discards a 53 to deck 50
-player 49 current hand is 49 86 57 90
-player 49 draws a 13 from deck 49
-player 49 discards a 86 to deck 50
-player 49 current hand is 49 57 90 13
-player 49 draws a 83 from deck 49
-player 49 discards a 57 to deck 50
-player 49 current hand is 49 90 13 83
-player 49 draws a 57 from deck 49
-player 49 discards a 90 to deck 50
-player 49 current hand is 49 13 83 57
-player 49 draws a 3 from deck 49
-player 49 discards a 13 to deck 50
-player 49 current hand is 49 83 57 3
-player 49 draws a 95 from deck 49
-player 49 discards a 83 to deck 50
-player 49 current hand is 49 57 3 95
-player 49 draws a 77 from deck 49
-player 49 discards a 57 to deck 50
-player 49 current hand is 49 3 95 77
-player 49 draws a 25 from deck 49
-player 49 discards a 3 to deck 50
-player 49 current hand is 49 95 77 25
-player 49 draws a 20 from deck 49
-player 49 discards a 95 to deck 50
-player 49 current hand is 49 77 25 20
-player 49 draws a 94 from deck 49
-player 49 discards a 77 to deck 50
-player 49 current hand is 49 25 20 94
-player 49 draws a 92 from deck 49
-player 49 discards a 25 to deck 50
-player 49 current hand is 49 20 94 92
-player 49 draws a 97 from deck 49
-player 49 discards a 20 to deck 50
-player 49 current hand is 49 94 92 97
-player 49 draws a 25 from deck 49
-player 49 discards a 94 to deck 50
-player 49 current hand is 49 92 97 25
-player 49 draws a 81 from deck 49
-player 49 discards a 92 to deck 50
-player 49 current hand is 49 97 25 81
-player 49 draws a 100 from deck 49
-player 49 discards a 97 to deck 50
-player 49 current hand is 49 25 81 100
-player 49 draws a 18 from deck 49
-player 49 discards a 25 to deck 50
-player 49 current hand is 49 81 100 18
-player 49 draws a 85 from deck 49
-player 49 discards a 81 to deck 50
-player 49 current hand is 49 100 18 85
-player 49 draws a 1 from deck 49
-player 49 discards a 100 to deck 50
-player 49 current hand is 49 18 85 1
-player 49 draws a 73 from deck 49
-player 49 discards a 18 to deck 50
-player 49 current hand is 49 85 1 73
-player 49 draws a 99 from deck 49
-player 49 discards a 85 to deck 50
-player 49 current hand is 49 1 73 99
-player 49 draws a 7 from deck 49
-player 49 discards a 1 to deck 50
-player 49 current hand is 49 73 99 7
-player 49 draws a 11 from deck 49
-player 49 discards a 73 to deck 50
-player 49 current hand is 49 99 7 11
-player 49 draws a 31 from deck 49
-player 49 discards a 99 to deck 50
-player 49 current hand is 49 7 11 31
-player 49 draws a 87 from deck 49
-player 49 discards a 7 to deck 50
-player 49 current hand is 49 11 31 87
-player 49 draws a 29 from deck 49
 player 49 discards a 11 to deck 50
-player 49 current hand is 49 31 87 29
+player 49 current hand is 235 158 146 32
+player 49 draws a 99 from deck 49
+player 49 discards a 235 to deck 50
+player 49 current hand is 158 146 32 99
+player 49 draws a 194 from deck 49
+player 49 discards a 158 to deck 50
+player 49 current hand is 146 32 99 194
+player 49 draws a 154 from deck 49
+player 49 discards a 146 to deck 50
+player 49 current hand is 32 99 194 154
+player 49 draws a 181 from deck 49
+player 49 discards a 32 to deck 50
+player 49 current hand is 99 194 154 181
+player 49 draws a 141 from deck 49
+player 49 discards a 99 to deck 50
+player 49 current hand is 194 154 181 141
+player 49 draws a 207 from deck 49
+player 49 discards a 194 to deck 50
+player 49 current hand is 154 181 141 207
+player 49 draws a 209 from deck 49
+player 49 discards a 154 to deck 50
+player 49 current hand is 181 141 207 209
 player 49 draws a 82 from deck 49
-player 49 discards a 31 to deck 50
-player 49 current hand is 49 87 29 82
-player 49 draws a 19 from deck 49
-player 49 discards a 87 to deck 50
-player 49 current hand is 49 29 82 19
-player 49 draws a 89 from deck 49
-player 49 discards a 29 to deck 50
-player 49 current hand is 49 82 19 89
-player 49 draws a 31 from deck 49
+player 49 discards a 181 to deck 50
+player 49 current hand is 141 207 209 82
+player 49 draws a 64 from deck 49
+player 49 discards a 141 to deck 50
+player 49 current hand is 207 209 82 64
+player 49 draws a 127 from deck 49
+player 49 discards a 207 to deck 50
+player 49 current hand is 209 82 64 127
+player 49 draws a 12 from deck 49
+player 49 discards a 209 to deck 50
+player 49 current hand is 82 64 127 12
+player 49 draws a 115 from deck 49
 player 49 discards a 82 to deck 50
-player 49 current hand is 49 19 89 31
+player 49 current hand is 64 127 12 115
+player 49 draws a 172 from deck 49
+player 49 discards a 64 to deck 50
+player 49 current hand is 127 12 115 172
+player 49 draws a 21 from deck 49
+player 49 discards a 127 to deck 50
+player 49 current hand is 12 115 172 21
+player 49 draws a 14 from deck 49
+player 49 discards a 12 to deck 50
+player 49 current hand is 115 172 21 14
+player 49 draws a 185 from deck 49
+player 49 discards a 115 to deck 50
+player 49 current hand is 172 21 14 185
+player 49 draws a 71 from deck 49
+player 49 discards a 172 to deck 50
+player 49 current hand is 21 14 185 71
+player 49 draws a 3 from deck 49
+player 49 discards a 21 to deck 50
+player 49 current hand is 14 185 71 3
+player 49 draws a 192 from deck 49
+player 49 discards a 14 to deck 50
+player 49 current hand is 185 71 3 192
+player 49 draws a 160 from deck 49
+player 49 discards a 185 to deck 50
+player 49 current hand is 71 3 192 160
 player 49 draws a 76 from deck 49
-player 49 discards a 19 to deck 50
-player 49 current hand is 49 89 31 76
-player 49 draws a 96 from deck 49
-player 49 discards a 89 to deck 50
-player 49 current hand is 49 31 76 96
-player 49 draws a 91 from deck 49
-player 49 discards a 31 to deck 50
-player 49 current hand is 49 76 96 91
+player 49 discards a 71 to deck 50
+player 49 current hand is 3 192 160 76
+player 49 draws a 58 from deck 49
+player 49 discards a 3 to deck 50
+player 49 current hand is 192 160 76 58
+player 49 draws a 4 from deck 49
+player 49 discards a 192 to deck 50
+player 49 current hand is 160 76 58 4
+player 49 draws a 138 from deck 49
+player 49 discards a 160 to deck 50
+player 49 current hand is 76 58 4 138
 player 49 draws a 27 from deck 49
 player 49 discards a 76 to deck 50
-player 49 current hand is 49 96 91 27
-player 49 draws a 1 from deck 49
-player 49 discards a 96 to deck 50
-player 49 current hand is 49 91 27 1
-player 49 draws a 62 from deck 49
-player 49 discards a 91 to deck 50
-player 49 current hand is 49 27 1 62
-player 49 draws a 86 from deck 49
-player 49 discards a 27 to deck 50
-player 49 current hand is 49 1 62 86
+player 49 current hand is 58 4 138 27
+player 49 draws a 69 from deck 49
+player 49 discards a 58 to deck 50
+player 49 current hand is 4 138 27 69
+player 49 draws a 132 from deck 49
+player 49 discards a 4 to deck 50
+player 49 current hand is 138 27 69 132
+player 49 draws a 132 from deck 49
+player 49 discards a 138 to deck 50
+player 49 current hand is 27 69 132 132
 player 49 draws a 79 from deck 49
-player 49 discards a 1 to deck 50
-player 49 current hand is 49 62 86 79
-player 49 draws a 49 from deck 49
-player 49 discards a 62 to deck 50
-player 49 current hand is 49 86 79 49
-player 49 draws a 93 from deck 49
-player 49 discards a 86 to deck 50
-player 49 current hand is 49 79 49 93
-player 49 draws a 76 from deck 49
+player 49 discards a 27 to deck 50
+player 49 current hand is 69 132 132 79
+player 49 draws a 52 from deck 49
+player 49 discards a 69 to deck 50
+player 49 current hand is 132 132 79 52
+player 49 draws a 61 from deck 49
+player 49 discards a 132 to deck 50
+player 49 current hand is 132 79 52 61
+player 49 draws a 165 from deck 49
+player 49 discards a 132 to deck 50
+player 49 current hand is 79 52 61 165
+player 49 draws a 99 from deck 49
 player 49 discards a 79 to deck 50
-player 49 current hand is 49 49 93 76
-player 49 draws a 12 from deck 49
-player 49 discards a 93 to deck 50
-player 49 current hand is 49 49 76 12
+player 49 current hand is 52 61 165 99
+player 49 draws a 124 from deck 49
+player 49 discards a 52 to deck 50
+player 49 current hand is 61 165 99 124
+player 49 draws a 158 from deck 49
+player 49 discards a 61 to deck 50
+player 49 current hand is 165 99 124 158
+player 49 draws a 110 from deck 49
+player 49 discards a 165 to deck 50
+player 49 current hand is 99 124 158 110
+player 49 draws a 206 from deck 49
+player 49 discards a 99 to deck 50
+player 49 current hand is 124 158 110 206
+player 49 draws a 121 from deck 49
+player 49 discards a 124 to deck 50
+player 49 current hand is 158 110 206 121
+player 49 draws a 91 from deck 49
+player 49 discards a 158 to deck 50
+player 49 current hand is 110 206 121 91
+player 49 draws a 173 from deck 49
+player 49 discards a 110 to deck 50
+player 49 current hand is 206 121 91 173
+player 49 draws a 160 from deck 49
+player 49 discards a 206 to deck 50
+player 49 current hand is 121 91 173 160
+player 49 draws a 139 from deck 49
+player 49 discards a 121 to deck 50
+player 49 current hand is 91 173 160 139
+player 49 draws a 4 from deck 49
+player 49 discards a 91 to deck 50
+player 49 current hand is 173 160 139 4
+player 49 draws a 169 from deck 49
+player 49 discards a 173 to deck 50
+player 49 current hand is 160 139 4 169
+player 49 draws a 17 from deck 49
+player 49 discards a 160 to deck 50
+player 49 current hand is 139 4 169 17
+player 49 draws a 158 from deck 49
+player 49 discards a 139 to deck 50
+player 49 current hand is 4 169 17 158
+player 49 draws a 228 from deck 49
+player 49 discards a 4 to deck 50
+player 49 current hand is 169 17 158 228
+player 49 draws a 15 from deck 49
+player 49 discards a 169 to deck 50
+player 49 current hand is 17 158 228 15
+player 49 draws a 224 from deck 49
+player 49 discards a 17 to deck 50
+player 49 current hand is 158 228 15 224
+player 49 draws a 23 from deck 49
+player 49 discards a 158 to deck 50
+player 49 current hand is 228 15 224 23
+player 49 draws a 157 from deck 49
+player 49 discards a 228 to deck 50
+player 49 current hand is 15 224 23 157
+player 49 draws a 28 from deck 49
+player 49 discards a 15 to deck 50
+player 49 current hand is 224 23 157 28
+player 49 draws a 33 from deck 49
+player 49 discards a 224 to deck 50
+player 49 current hand is 23 157 28 33
+player 49 draws a 59 from deck 49
+player 49 discards a 23 to deck 50
+player 49 current hand is 157 28 33 59
+player 49 draws a 96 from deck 49
+player 49 discards a 157 to deck 50
+player 49 current hand is 28 33 59 96
+player 49 draws a 70 from deck 49
+player 49 discards a 28 to deck 50
+player 49 current hand is 33 59 96 70
+player 49 draws a 226 from deck 49
+player 49 discards a 33 to deck 50
+player 49 current hand is 59 96 70 226
+player 49 draws a 233 from deck 49
+player 49 discards a 59 to deck 50
+player 49 current hand is 96 70 226 233
+player 49 draws a 19 from deck 49
+player 49 discards a 96 to deck 50
+player 49 current hand is 70 226 233 19
+player 49 draws a 170 from deck 49
+player 49 discards a 70 to deck 50
+player 49 current hand is 226 233 19 170
+player 49 draws a 84 from deck 49
+player 49 discards a 226 to deck 50
+player 49 current hand is 233 19 170 84
+player 49 draws a 173 from deck 49
+player 49 discards a 233 to deck 50
+player 49 current hand is 19 170 84 173
+player 49 draws a 101 from deck 49
+player 49 discards a 19 to deck 50
+player 49 current hand is 170 84 173 101
+player 49 draws a 205 from deck 49
+player 49 discards a 170 to deck 50
+player 49 current hand is 84 173 101 205
+player 49 draws a 159 from deck 49
+player 49 discards a 84 to deck 50
+player 49 current hand is 173 101 205 159
+player 49 draws a 220 from deck 49
+player 49 discards a 173 to deck 50
+player 49 current hand is 101 205 159 220
+player 49 draws a 176 from deck 49
+player 49 discards a 101 to deck 50
+player 49 current hand is 205 159 220 176
+player 49 draws a 126 from deck 49
+player 49 discards a 205 to deck 50
+player 49 current hand is 159 220 176 126
+player 49 draws a 27 from deck 49
+player 49 discards a 159 to deck 50
+player 49 current hand is 220 176 126 27
+player 49 draws a 19 from deck 49
+player 49 discards a 220 to deck 50
+player 49 current hand is 176 126 27 19
+player 49 draws a 109 from deck 49
+player 49 discards a 176 to deck 50
+player 49 current hand is 126 27 19 109
+player 49 draws a 161 from deck 49
+player 49 discards a 126 to deck 50
+player 49 current hand is 27 19 109 161
+player 49 draws a 217 from deck 49
+player 49 discards a 27 to deck 50
+player 49 current hand is 19 109 161 217
+player 49 draws a 3 from deck 49
+player 49 discards a 19 to deck 50
+player 49 current hand is 109 161 217 3
+player 49 draws a 83 from deck 49
+player 49 discards a 109 to deck 50
+player 49 current hand is 161 217 3 83
+player 49 draws a 82 from deck 49
+player 49 discards a 161 to deck 50
+player 49 current hand is 217 3 83 82
+player 49 draws a 88 from deck 49
+player 49 discards a 217 to deck 50
+player 49 current hand is 3 83 82 88
+player 49 draws a 18 from deck 49
+player 49 discards a 3 to deck 50
+player 49 current hand is 83 82 88 18
+player 49 draws a 208 from deck 49
+player 49 discards a 83 to deck 50
+player 49 current hand is 82 88 18 208
+player 49 draws a 214 from deck 49
+player 49 discards a 82 to deck 50
+player 49 current hand is 88 18 208 214
+player 49 draws a 208 from deck 49
+player 49 discards a 88 to deck 50
+player 49 current hand is 18 208 214 208
+player 49 draws a 183 from deck 49
+player 49 discards a 18 to deck 50
+player 49 current hand is 208 214 208 183
+player 49 draws a 54 from deck 49
+player 49 discards a 208 to deck 50
+player 49 current hand is 214 208 183 54
+player 49 draws a 131 from deck 49
+player 49 discards a 214 to deck 50
+player 49 current hand is 208 183 54 131
+player 49 draws a 19 from deck 49
+player 49 discards a 208 to deck 50
+player 49 current hand is 183 54 131 19
+player 49 draws a 50 from deck 49
+player 49 discards a 183 to deck 50
+player 49 current hand is 54 131 19 50
+player 49 draws a 19 from deck 49
+player 49 discards a 54 to deck 50
+player 49 current hand is 131 19 50 19
+player 49 draws a 79 from deck 49
+player 49 discards a 131 to deck 50
+player 49 current hand is 19 50 19 79
+player 49 draws a 161 from deck 49
+player 49 discards a 19 to deck 50
+player 49 current hand is 50 19 79 161
+player 49 draws a 222 from deck 49
+player 49 discards a 50 to deck 50
+player 49 current hand is 19 79 161 222
+player 49 draws a 17 from deck 49
+player 49 discards a 19 to deck 50
+player 49 current hand is 79 161 222 17
+player 49 draws a 79 from deck 49
+player 49 discards a 79 to deck 50
+player 49 current hand is 161 222 17 79
+player 49 draws a 32 from deck 49
+player 49 discards a 161 to deck 50
+player 49 current hand is 222 17 79 32
+player 49 draws a 58 from deck 49
+player 49 discards a 222 to deck 50
+player 49 current hand is 17 79 32 58
+player 49 draws a 20 from deck 49
+player 49 discards a 17 to deck 50
+player 49 current hand is 79 32 58 20
+player 49 draws a 215 from deck 49
+player 49 discards a 79 to deck 50
+player 49 current hand is 32 58 20 215
+player 49 draws a 217 from deck 49
+player 49 discards a 32 to deck 50
+player 49 current hand is 58 20 215 217
+player 49 draws a 214 from deck 49
+player 49 discards a 58 to deck 50
+player 49 current hand is 20 215 217 214
+player 49 draws a 211 from deck 49
+player 49 discards a 20 to deck 50
+player 49 current hand is 215 217 214 211
+player 49 draws a 119 from deck 49
+player 49 discards a 215 to deck 50
+player 49 current hand is 217 214 211 119
+player 49 draws a 117 from deck 49
+player 49 discards a 217 to deck 50
+player 49 current hand is 214 211 119 117
+player 49 draws a 197 from deck 49
+player 49 discards a 214 to deck 50
+player 49 current hand is 211 119 117 197
+player 49 draws a 200 from deck 49
+player 49 discards a 211 to deck 50
+player 49 current hand is 119 117 197 200
 player 49 draws a 71 from deck 49
-player 49 discards a 76 to deck 50
-player 49 current hand is 49 49 12 71
-player 49 draws a 2 from deck 49
-player 49 discards a 12 to deck 50
-player 49 current hand is 49 49 71 2
-player 49 draws a 2 from deck 49
+player 49 discards a 119 to deck 50
+player 49 current hand is 117 197 200 71
+player 49 draws a 12 from deck 49
+player 49 discards a 117 to deck 50
+player 49 current hand is 197 200 71 12
+player 49 draws a 88 from deck 49
+player 49 discards a 197 to deck 50
+player 49 current hand is 200 71 12 88
+player 49 draws a 228 from deck 49
+player 49 discards a 200 to deck 50
+player 49 current hand is 71 12 88 228
+player 49 draws a 97 from deck 49
 player 49 discards a 71 to deck 50
-player 49 current hand is 49 49 2 2
+player 49 current hand is 12 88 228 97
+player 49 draws a 120 from deck 49
+player 49 discards a 12 to deck 50
+player 49 current hand is 88 228 97 120
+player 49 draws a 104 from deck 49
+player 49 discards a 88 to deck 50
+player 49 current hand is 228 97 120 104
+player 49 draws a 155 from deck 49
+player 49 discards a 228 to deck 50
+player 49 current hand is 97 120 104 155
+player 49 draws a 33 from deck 49
+player 49 discards a 97 to deck 50
+player 49 current hand is 120 104 155 33
+player 49 draws a 146 from deck 49
+player 49 discards a 120 to deck 50
+player 49 current hand is 104 155 33 146
+player 49 draws a 210 from deck 49
+player 49 discards a 104 to deck 50
+player 49 current hand is 155 33 146 210
+player 49 draws a 189 from deck 49
+player 49 discards a 155 to deck 50
+player 49 current hand is 33 146 210 189
+player 49 draws a 135 from deck 49
+player 49 discards a 33 to deck 50
+player 49 current hand is 146 210 189 135
+player 49 draws a 25 from deck 49
+player 49 discards a 146 to deck 50
+player 49 current hand is 210 189 135 25
+player 49 draws a 112 from deck 49
+player 49 discards a 210 to deck 50
+player 49 current hand is 189 135 25 112
+player 49 draws a 123 from deck 49
+player 49 discards a 189 to deck 50
+player 49 current hand is 135 25 112 123
+player 49 draws a 204 from deck 49
+player 49 discards a 135 to deck 50
+player 49 current hand is 25 112 123 204
+player 49 draws a 5 from deck 49
+player 49 discards a 25 to deck 50
+player 49 current hand is 112 123 204 5
+player 49 draws a 226 from deck 49
+player 49 discards a 112 to deck 50
+player 49 current hand is 123 204 5 226
+player 49 draws a 123 from deck 49
+player 49 discards a 123 to deck 50
+player 49 current hand is 204 5 226 123
+player 49 draws a 218 from deck 49
+player 49 discards a 204 to deck 50
+player 49 current hand is 5 226 123 218
+player 49 draws a 124 from deck 49
+player 49 discards a 5 to deck 50
+player 49 current hand is 226 123 218 124
+player 49 draws a 234 from deck 49
+player 49 discards a 226 to deck 50
+player 49 current hand is 123 218 124 234
+player 49 draws a 31 from deck 49
+player 49 discards a 123 to deck 50
+player 49 current hand is 218 124 234 31
+player 49 draws a 90 from deck 49
+player 49 discards a 218 to deck 50
+player 49 current hand is 124 234 31 90
 player 49 draws a 9 from deck 49
-player 49 discards a 2 to deck 50
-player 49 current hand is 49 49 2 9
-player 49 draws a 92 from deck 49
-player 49 discards a 2 to deck 50
-player 49 current hand is 49 49 9 92
-player 49 draws a 57 from deck 49
+player 49 discards a 124 to deck 50
+player 49 current hand is 234 31 90 9
+player 49 draws a 127 from deck 49
+player 49 discards a 234 to deck 50
+player 49 current hand is 31 90 9 127
+player 49 draws a 50 from deck 49
+player 49 discards a 31 to deck 50
+player 49 current hand is 90 9 127 50
+player 49 draws a 130 from deck 49
+player 49 discards a 90 to deck 50
+player 49 current hand is 9 127 50 130
+player 49 draws a 218 from deck 49
 player 49 discards a 9 to deck 50
-player 49 current hand is 49 49 92 57
-player 49 draws a 77 from deck 49
+player 49 current hand is 127 50 130 218
+player 49 draws a 174 from deck 49
+player 49 discards a 127 to deck 50
+player 49 current hand is 50 130 218 174
+player 49 draws a 55 from deck 49
+player 49 discards a 50 to deck 50
+player 49 current hand is 130 218 174 55
+player 49 draws a 190 from deck 49
+player 49 discards a 130 to deck 50
+player 49 current hand is 218 174 55 190
+player 49 draws a 120 from deck 49
+player 49 discards a 218 to deck 50
+player 49 current hand is 174 55 190 120
+player 49 draws a 179 from deck 49
+player 49 discards a 174 to deck 50
+player 49 current hand is 55 190 120 179
+player 49 draws a 22 from deck 49
+player 49 discards a 55 to deck 50
+player 49 current hand is 190 120 179 22
+player 49 draws a 205 from deck 49
+player 49 discards a 190 to deck 50
+player 49 current hand is 120 179 22 205
+player 49 draws a 121 from deck 49
+player 49 discards a 120 to deck 50
+player 49 current hand is 179 22 205 121
+player 49 draws a 5 from deck 49
+player 49 discards a 179 to deck 50
+player 49 current hand is 22 205 121 5
+player 49 draws a 92 from deck 49
+player 49 discards a 22 to deck 50
+player 49 current hand is 205 121 5 92
+player 49 draws a 76 from deck 49
+player 49 discards a 205 to deck 50
+player 49 current hand is 121 5 92 76
+player 49 draws a 85 from deck 49
+player 49 discards a 121 to deck 50
+player 49 current hand is 5 92 76 85
+player 49 draws a 196 from deck 49
+player 49 discards a 5 to deck 50
+player 49 current hand is 92 76 85 196
+player 49 draws a 230 from deck 49
 player 49 discards a 92 to deck 50
-player 49 current hand is 49 49 57 77
+player 49 current hand is 76 85 196 230
+player 49 draws a 174 from deck 49
+player 49 discards a 76 to deck 50
+player 49 current hand is 85 196 230 174
+player 49 draws a 59 from deck 49
+player 49 discards a 85 to deck 50
+player 49 current hand is 196 230 174 59
+player 49 draws a 213 from deck 49
+player 49 discards a 196 to deck 50
+player 49 current hand is 230 174 59 213
+player 49 draws a 114 from deck 49
+player 49 discards a 230 to deck 50
+player 49 current hand is 174 59 213 114
+player 49 draws a 233 from deck 49
+player 49 discards a 174 to deck 50
+player 49 current hand is 59 213 114 233
+player 49 draws a 176 from deck 49
+player 49 discards a 59 to deck 50
+player 49 current hand is 213 114 233 176
+player 49 draws a 56 from deck 49
+player 49 discards a 213 to deck 50
+player 49 current hand is 114 233 176 56
+player 49 draws a 24 from deck 49
+player 49 discards a 114 to deck 50
+player 49 current hand is 233 176 56 24
+player 49 draws a 133 from deck 49
+player 49 discards a 233 to deck 50
+player 49 current hand is 176 56 24 133
+player 49 draws a 62 from deck 49
+player 49 discards a 176 to deck 50
+player 49 current hand is 56 24 133 62
+player 49 draws a 237 from deck 49
+player 49 discards a 56 to deck 50
+player 49 current hand is 24 133 62 237
+player 49 draws a 130 from deck 49
+player 49 discards a 24 to deck 50
+player 49 current hand is 133 62 237 130
+player 49 draws a 86 from deck 49
+player 49 discards a 133 to deck 50
+player 49 current hand is 62 237 130 86
+player 49 draws a 177 from deck 49
+player 49 discards a 62 to deck 50
+player 49 current hand is 237 130 86 177
+player 49 draws a 195 from deck 49
+player 49 discards a 237 to deck 50
+player 49 current hand is 130 86 177 195
+player 49 draws a 4 from deck 49
+player 49 discards a 130 to deck 50
+player 49 current hand is 86 177 195 4
+player 49 draws a 51 from deck 49
+player 49 discards a 86 to deck 50
+player 49 current hand is 177 195 4 51
+player 49 draws a 235 from deck 49
+player 49 discards a 177 to deck 50
+player 49 current hand is 195 4 51 235
+player 49 draws a 55 from deck 49
+player 49 discards a 195 to deck 50
+player 49 current hand is 4 51 235 55
+player 49 draws a 188 from deck 49
+player 49 discards a 4 to deck 50
+player 49 current hand is 51 235 55 188
+player 49 draws a 116 from deck 49
+player 49 discards a 51 to deck 50
+player 49 current hand is 235 55 188 116
+player 49 draws a 180 from deck 49
+player 49 discards a 235 to deck 50
+player 49 current hand is 55 188 116 180
+player 49 draws a 188 from deck 49
+player 49 discards a 55 to deck 50
+player 49 current hand is 188 116 180 188
+player 49 draws a 228 from deck 49
+player 49 discards a 188 to deck 50
+player 49 current hand is 116 180 188 228
+player 49 draws a 215 from deck 49
+player 49 discards a 116 to deck 50
+player 49 current hand is 180 188 228 215
+player 49 draws a 158 from deck 49
+player 49 discards a 180 to deck 50
+player 49 current hand is 188 228 215 158
+player 49 draws a 82 from deck 49
+player 49 discards a 188 to deck 50
+player 49 current hand is 228 215 158 82
+player 49 draws a 57 from deck 49
+player 49 discards a 228 to deck 50
+player 49 current hand is 215 158 82 57
+player 49 draws a 202 from deck 49
+player 49 discards a 215 to deck 50
+player 49 current hand is 158 82 57 202
+player 49 draws a 133 from deck 49
+player 49 discards a 158 to deck 50
+player 49 current hand is 82 57 202 133
+player 49 draws a 112 from deck 49
+player 49 discards a 82 to deck 50
+player 49 current hand is 57 202 133 112
+player 49 draws a 67 from deck 49
+player 49 discards a 57 to deck 50
+player 49 current hand is 202 133 112 67
+player 49 draws a 65 from deck 49
+player 49 discards a 202 to deck 50
+player 49 current hand is 133 112 67 65
+player 49 draws a 232 from deck 49
+player 49 discards a 133 to deck 50
+player 49 current hand is 112 67 65 232
+player 49 draws a 17 from deck 49
+player 49 discards a 112 to deck 50
+player 49 current hand is 67 65 232 17
+player 49 draws a 52 from deck 49
+player 49 discards a 67 to deck 50
+player 49 current hand is 65 232 17 52
+player 49 draws a 108 from deck 49
+player 49 discards a 65 to deck 50
+player 49 current hand is 232 17 52 108
+player 49 draws a 141 from deck 49
+player 49 discards a 232 to deck 50
+player 49 current hand is 17 52 108 141
+player 49 draws a 140 from deck 49
+player 49 discards a 17 to deck 50
+player 49 current hand is 52 108 141 140
+player 49 draws a 190 from deck 49
+player 49 discards a 52 to deck 50
+player 49 current hand is 108 141 140 190
+player 49 draws a 57 from deck 49
+player 49 discards a 108 to deck 50
+player 49 current hand is 141 140 190 57
+player 49 draws a 159 from deck 49
+player 49 discards a 141 to deck 50
+player 49 current hand is 140 190 57 159
+player 49 draws a 151 from deck 49
+player 49 discards a 140 to deck 50
+player 49 current hand is 190 57 159 151
+player 49 draws a 178 from deck 49
+player 49 discards a 190 to deck 50
+player 49 current hand is 57 159 151 178
 player 49 draws a 16 from deck 49
 player 49 discards a 57 to deck 50
-player 49 current hand is 49 49 77 16
-player 49 draws a 67 from deck 49
-player 49 discards a 77 to deck 50
-player 49 current hand is 49 49 16 67
-player 49 draws a 62 from deck 49
-player 49 discards a 16 to deck 50
-player 49 current hand is 49 49 67 62
-player 49 draws a 68 from deck 49
-player 49 discards a 67 to deck 50
-player 49 current hand is 49 49 62 68
-player 49 draws a 56 from deck 49
-player 49 discards a 62 to deck 50
-player 49 current hand is 49 49 68 56
-player 49 draws a 9 from deck 49
-player 49 discards a 68 to deck 50
-player 49 current hand is 49 49 56 9
-player 49 draws a 87 from deck 49
-player 49 discards a 56 to deck 50
-player 49 current hand is 49 49 9 87
-player 49 draws a 83 from deck 49
-player 49 discards a 9 to deck 50
-player 49 current hand is 49 49 87 83
-player 49 draws a 57 from deck 49
-player 49 discards a 87 to deck 50
-player 49 current hand is 49 49 83 57
-player 49 draws a 9 from deck 49
-player 49 discards a 83 to deck 50
-player 49 current hand is 49 49 57 9
-player 49 draws a 54 from deck 49
-player 49 discards a 57 to deck 50
-player 49 current hand is 49 49 9 54
-player 54 has informed player 49 that player 54 has won
+player 49 current hand is 159 151 178 16
+player 87 has informed player 49 that player 87 has won
 player 49 exits
-player 49 hand: 49 49 9 54
+player 49 hand: 159 151 178 16

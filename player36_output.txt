@@ -1,436 +1,436 @@
-player 36 initial hand 99 7 11 31
-player 36 draws a 87 from deck 36
-player 36 discards a 99 to deck 37
-player 36 current hand is 7 11 31 87
-player 36 draws a 29 from deck 36
-player 36 discards a 7 to deck 37
-player 36 current hand is 11 31 87 29
-player 36 draws a 82 from deck 36
-player 36 discards a 11 to deck 37
-player 36 current hand is 31 87 29 82
-player 36 draws a 19 from deck 36
-player 36 discards a 31 to deck 37
-player 36 current hand is 87 29 82 19
-player 36 draws a 36 from deck 36
-player 36 discards a 87 to deck 37
-player 36 current hand is 29 82 19 36
-player 36 draws a 43 from deck 36
-player 36 discards a 29 to deck 37
-player 36 current hand is 82 19 36 43
-player 36 draws a 89 from deck 36
-player 36 discards a 82 to deck 37
-player 36 current hand is 19 36 43 89
-player 36 draws a 31 from deck 36
-player 36 discards a 19 to deck 37
-player 36 current hand is 36 43 89 31
-player 36 draws a 76 from deck 36
-player 36 discards a 43 to deck 37
-player 36 current hand is 36 89 31 76
-player 36 draws a 96 from deck 36
-player 36 discards a 89 to deck 37
-player 36 current hand is 36 31 76 96
-player 36 draws a 91 from deck 36
-player 36 discards a 31 to deck 37
-player 36 current hand is 36 76 96 91
-player 36 draws a 27 from deck 36
-player 36 discards a 76 to deck 37
-player 36 current hand is 36 96 91 27
-player 36 draws a 1 from deck 36
-player 36 discards a 96 to deck 37
-player 36 current hand is 36 91 27 1
-player 36 draws a 62 from deck 36
-player 36 discards a 91 to deck 37
-player 36 current hand is 36 27 1 62
-player 36 draws a 36 from deck 36
-player 36 discards a 27 to deck 37
-player 36 current hand is 36 1 62 36
-player 36 draws a 86 from deck 36
-player 36 discards a 1 to deck 37
-player 36 current hand is 36 62 36 86
-player 36 draws a 79 from deck 36
-player 36 discards a 62 to deck 37
-player 36 current hand is 36 36 86 79
-player 36 draws a 49 from deck 36
-player 36 discards a 86 to deck 37
-player 36 current hand is 36 36 79 49
-player 36 draws a 93 from deck 36
-player 36 discards a 79 to deck 37
-player 36 current hand is 36 36 49 93
-player 36 draws a 76 from deck 36
-player 36 discards a 49 to deck 37
-player 36 current hand is 36 36 93 76
-player 36 draws a 12 from deck 36
-player 36 discards a 93 to deck 37
-player 36 current hand is 36 36 76 12
-player 36 draws a 71 from deck 36
-player 36 discards a 76 to deck 37
-player 36 current hand is 36 36 12 71
-player 36 draws a 2 from deck 36
-player 36 discards a 12 to deck 37
-player 36 current hand is 36 36 71 2
-player 36 draws a 2 from deck 36
-player 36 discards a 71 to deck 37
-player 36 current hand is 36 36 2 2
-player 36 draws a 9 from deck 36
-player 36 discards a 2 to deck 37
-player 36 current hand is 36 36 2 9
-player 36 draws a 92 from deck 36
-player 36 discards a 2 to deck 37
-player 36 current hand is 36 36 9 92
-player 36 draws a 57 from deck 36
-player 36 discards a 9 to deck 37
-player 36 current hand is 36 36 92 57
-player 36 draws a 77 from deck 36
-player 36 discards a 92 to deck 37
-player 36 current hand is 36 36 57 77
-player 36 draws a 16 from deck 36
-player 36 discards a 57 to deck 37
-player 36 current hand is 36 36 77 16
-player 36 draws a 44 from deck 36
-player 36 discards a 77 to deck 37
-player 36 current hand is 36 36 16 44
-player 36 draws a 67 from deck 36
-player 36 discards a 16 to deck 37
-player 36 current hand is 36 36 44 67
-player 36 draws a 62 from deck 36
+player 36 initial hand 44 58 20 215
+player 36 draws a 217 from deck 36
 player 36 discards a 44 to deck 37
-player 36 current hand is 36 36 67 62
-player 36 draws a 68 from deck 36
-player 36 discards a 67 to deck 37
-player 36 current hand is 36 36 62 68
-player 36 draws a 56 from deck 36
-player 36 discards a 62 to deck 37
-player 36 current hand is 36 36 68 56
-player 36 draws a 9 from deck 36
-player 36 discards a 68 to deck 37
-player 36 current hand is 36 36 56 9
-player 36 draws a 87 from deck 36
-player 36 discards a 56 to deck 37
-player 36 current hand is 36 36 9 87
-player 36 draws a 83 from deck 36
-player 36 discards a 9 to deck 37
-player 36 current hand is 36 36 87 83
-player 36 draws a 45 from deck 36
-player 36 discards a 87 to deck 37
-player 36 current hand is 36 36 83 45
-player 36 draws a 57 from deck 36
-player 36 discards a 83 to deck 37
-player 36 current hand is 36 36 45 57
-player 36 draws a 9 from deck 36
-player 36 discards a 45 to deck 37
-player 36 current hand is 36 36 57 9
-player 36 draws a 54 from deck 36
-player 36 discards a 57 to deck 37
-player 36 current hand is 36 36 9 54
-player 36 draws a 23 from deck 36
-player 36 discards a 9 to deck 37
-player 36 current hand is 36 36 54 23
-player 36 draws a 87 from deck 36
-player 36 discards a 54 to deck 37
-player 36 current hand is 36 36 23 87
-player 36 draws a 29 from deck 36
-player 36 discards a 23 to deck 37
-player 36 current hand is 36 36 87 29
-player 36 draws a 15 from deck 36
-player 36 discards a 87 to deck 37
-player 36 current hand is 36 36 29 15
-player 36 draws a 18 from deck 36
-player 36 discards a 29 to deck 37
-player 36 current hand is 36 36 15 18
-player 36 draws a 42 from deck 36
-player 36 discards a 15 to deck 37
-player 36 current hand is 36 36 18 42
-player 36 draws a 64 from deck 36
-player 36 discards a 18 to deck 37
-player 36 current hand is 36 36 42 64
-player 36 draws a 50 from deck 36
-player 36 discards a 42 to deck 37
-player 36 current hand is 36 36 64 50
-player 36 draws a 41 from deck 36
-player 36 discards a 64 to deck 37
-player 36 current hand is 36 36 50 41
-player 36 draws a 93 from deck 36
-player 36 discards a 50 to deck 37
-player 36 current hand is 36 36 41 93
-player 36 draws a 40 from deck 36
-player 36 discards a 41 to deck 37
-player 36 current hand is 36 36 93 40
-player 36 draws a 6 from deck 36
-player 36 discards a 93 to deck 37
-player 36 current hand is 36 36 40 6
-player 36 draws a 26 from deck 36
-player 36 discards a 40 to deck 37
-player 36 current hand is 36 36 6 26
-player 36 draws a 92 from deck 36
-player 36 discards a 6 to deck 37
-player 36 current hand is 36 36 26 92
-player 36 draws a 38 from deck 36
-player 36 discards a 26 to deck 37
-player 36 current hand is 36 36 92 38
-player 36 draws a 50 from deck 36
-player 36 discards a 92 to deck 37
-player 36 current hand is 36 36 38 50
-player 36 draws a 47 from deck 36
-player 36 discards a 38 to deck 37
-player 36 current hand is 36 36 50 47
-player 36 draws a 42 from deck 36
-player 36 discards a 50 to deck 37
-player 36 current hand is 36 36 47 42
-player 36 draws a 100 from deck 36
-player 36 discards a 47 to deck 37
-player 36 current hand is 36 36 42 100
-player 36 draws a 54 from deck 36
-player 36 discards a 42 to deck 37
-player 36 current hand is 36 36 100 54
-player 36 draws a 6 from deck 36
-player 36 discards a 100 to deck 37
-player 36 current hand is 36 36 54 6
-player 36 draws a 87 from deck 36
-player 36 discards a 54 to deck 37
-player 36 current hand is 36 36 6 87
-player 36 draws a 23 from deck 36
-player 36 discards a 6 to deck 37
-player 36 current hand is 36 36 87 23
-player 36 draws a 53 from deck 36
-player 36 discards a 87 to deck 37
-player 36 current hand is 36 36 23 53
-player 36 draws a 16 from deck 36
-player 36 discards a 23 to deck 37
-player 36 current hand is 36 36 53 16
-player 36 draws a 10 from deck 36
-player 36 discards a 53 to deck 37
-player 36 current hand is 36 36 16 10
-player 36 draws a 20 from deck 36
-player 36 discards a 16 to deck 37
-player 36 current hand is 36 36 10 20
-player 36 draws a 84 from deck 36
-player 36 discards a 10 to deck 37
-player 36 current hand is 36 36 20 84
-player 36 draws a 83 from deck 36
+player 36 current hand is 58 20 215 217
+player 36 draws a 214 from deck 36
+player 36 discards a 58 to deck 37
+player 36 current hand is 20 215 217 214
+player 36 draws a 211 from deck 36
 player 36 discards a 20 to deck 37
-player 36 current hand is 36 36 84 83
-player 36 draws a 5 from deck 36
-player 36 discards a 84 to deck 37
-player 36 current hand is 36 36 83 5
-player 36 draws a 23 from deck 36
-player 36 discards a 83 to deck 37
-player 36 current hand is 36 36 5 23
-player 36 draws a 14 from deck 36
-player 36 discards a 5 to deck 37
-player 36 current hand is 36 36 23 14
-player 36 draws a 72 from deck 36
-player 36 discards a 23 to deck 37
-player 36 current hand is 36 36 14 72
-player 36 draws a 52 from deck 36
-player 36 discards a 14 to deck 37
-player 36 current hand is 36 36 72 52
-player 36 draws a 24 from deck 36
-player 36 discards a 72 to deck 37
-player 36 current hand is 36 36 52 24
-player 36 draws a 75 from deck 36
-player 36 discards a 52 to deck 37
-player 36 current hand is 36 36 24 75
-player 36 draws a 50 from deck 36
-player 36 discards a 24 to deck 37
-player 36 current hand is 36 36 75 50
-player 36 draws a 25 from deck 36
-player 36 discards a 75 to deck 37
-player 36 current hand is 36 36 50 25
-player 36 draws a 40 from deck 36
-player 36 discards a 50 to deck 37
-player 36 current hand is 36 36 25 40
-player 36 draws a 7 from deck 36
-player 36 discards a 25 to deck 37
-player 36 current hand is 36 36 40 7
-player 36 draws a 53 from deck 36
-player 36 discards a 40 to deck 37
-player 36 current hand is 36 36 7 53
-player 36 draws a 4 from deck 36
-player 36 discards a 7 to deck 37
-player 36 current hand is 36 36 53 4
-player 36 draws a 17 from deck 36
-player 36 discards a 53 to deck 37
-player 36 current hand is 36 36 4 17
-player 36 draws a 39 from deck 36
-player 36 discards a 4 to deck 37
-player 36 current hand is 36 36 17 39
-player 36 draws a 51 from deck 36
-player 36 discards a 17 to deck 37
-player 36 current hand is 36 36 39 51
-player 36 draws a 79 from deck 36
-player 36 discards a 39 to deck 37
-player 36 current hand is 36 36 51 79
+player 36 current hand is 215 217 214 211
+player 36 draws a 119 from deck 36
+player 36 discards a 215 to deck 37
+player 36 current hand is 217 214 211 119
+player 36 draws a 117 from deck 36
+player 36 discards a 217 to deck 37
+player 36 current hand is 214 211 119 117
+player 36 draws a 197 from deck 36
+player 36 discards a 214 to deck 37
+player 36 current hand is 211 119 117 197
+player 36 draws a 200 from deck 36
+player 36 discards a 211 to deck 37
+player 36 current hand is 119 117 197 200
+player 36 draws a 71 from deck 36
+player 36 discards a 119 to deck 37
+player 36 current hand is 117 197 200 71
+player 36 draws a 12 from deck 36
+player 36 discards a 117 to deck 37
+player 36 current hand is 197 200 71 12
 player 36 draws a 88 from deck 36
-player 36 discards a 51 to deck 37
-player 36 current hand is 36 36 79 88
-player 36 draws a 12 from deck 36
-player 36 discards a 79 to deck 37
-player 36 current hand is 36 36 88 12
-player 36 draws a 39 from deck 36
+player 36 discards a 197 to deck 37
+player 36 current hand is 200 71 12 88
+player 36 draws a 228 from deck 36
+player 36 discards a 200 to deck 37
+player 36 current hand is 71 12 88 228
+player 36 draws a 97 from deck 36
+player 36 discards a 71 to deck 37
+player 36 current hand is 12 88 228 97
+player 36 draws a 120 from deck 36
+player 36 discards a 12 to deck 37
+player 36 current hand is 88 228 97 120
+player 36 draws a 104 from deck 36
 player 36 discards a 88 to deck 37
-player 36 current hand is 36 36 12 39
-player 36 draws a 65 from deck 36
-player 36 discards a 12 to deck 37
-player 36 current hand is 36 36 39 65
-player 36 draws a 79 from deck 36
-player 36 discards a 39 to deck 37
-player 36 current hand is 36 36 65 79
-player 36 draws a 94 from deck 36
-player 36 discards a 65 to deck 37
-player 36 current hand is 36 36 79 94
-player 36 draws a 64 from deck 36
-player 36 discards a 79 to deck 37
-player 36 current hand is 36 36 94 64
-player 36 draws a 73 from deck 36
-player 36 discards a 94 to deck 37
-player 36 current hand is 36 36 64 73
-player 36 draws a 12 from deck 36
-player 36 discards a 64 to deck 37
-player 36 current hand is 36 36 73 12
-player 36 draws a 74 from deck 36
-player 36 discards a 73 to deck 37
-player 36 current hand is 36 36 12 74
-player 36 draws a 91 from deck 36
-player 36 discards a 12 to deck 37
-player 36 current hand is 36 36 74 91
-player 36 draws a 74 from deck 36
-player 36 discards a 74 to deck 37
-player 36 current hand is 36 36 91 74
-player 36 draws a 62 from deck 36
-player 36 discards a 91 to deck 37
-player 36 current hand is 36 36 74 62
-player 36 draws a 94 from deck 36
-player 36 discards a 74 to deck 37
-player 36 current hand is 36 36 62 94
-player 36 draws a 93 from deck 36
-player 36 discards a 62 to deck 37
-player 36 current hand is 36 36 94 93
-player 36 draws a 47 from deck 36
-player 36 discards a 94 to deck 37
-player 36 current hand is 36 36 93 47
-player 36 draws a 80 from deck 36
-player 36 discards a 93 to deck 37
-player 36 current hand is 36 36 47 80
-player 36 draws a 66 from deck 36
-player 36 discards a 47 to deck 37
-player 36 current hand is 36 36 80 66
-player 36 draws a 60 from deck 36
-player 36 discards a 80 to deck 37
-player 36 current hand is 36 36 66 60
-player 36 draws a 65 from deck 36
-player 36 discards a 66 to deck 37
-player 36 current hand is 36 36 60 65
-player 36 draws a 96 from deck 36
-player 36 discards a 60 to deck 37
-player 36 current hand is 36 36 65 96
-player 36 draws a 7 from deck 36
-player 36 discards a 65 to deck 37
-player 36 current hand is 36 36 96 7
-player 36 draws a 7 from deck 36
-player 36 discards a 96 to deck 37
-player 36 current hand is 36 36 7 7
-player 36 draws a 66 from deck 36
-player 36 discards a 7 to deck 37
-player 36 current hand is 36 36 7 66
-player 36 draws a 38 from deck 36
-player 36 discards a 7 to deck 37
-player 36 current hand is 36 36 66 38
-player 36 draws a 66 from deck 36
-player 36 discards a 66 to deck 37
-player 36 current hand is 36 36 38 66
-player 36 draws a 70 from deck 36
-player 36 discards a 38 to deck 37
-player 36 current hand is 36 36 66 70
-player 36 draws a 49 from deck 36
-player 36 discards a 66 to deck 37
-player 36 current hand is 36 36 70 49
-player 36 draws a 44 from deck 36
-player 36 discards a 70 to deck 37
-player 36 current hand is 36 36 49 44
-player 36 draws a 75 from deck 36
-player 36 discards a 49 to deck 37
-player 36 current hand is 36 36 44 75
-player 36 draws a 75 from deck 36
-player 36 discards a 44 to deck 37
-player 36 current hand is 36 36 75 75
-player 36 draws a 56 from deck 36
-player 36 discards a 75 to deck 37
-player 36 current hand is 36 36 75 56
-player 36 draws a 63 from deck 36
-player 36 discards a 75 to deck 37
-player 36 current hand is 36 36 56 63
-player 36 draws a 77 from deck 36
-player 36 discards a 56 to deck 37
-player 36 current hand is 36 36 63 77
-player 36 draws a 46 from deck 36
-player 36 discards a 63 to deck 37
-player 36 current hand is 36 36 77 46
-player 36 draws a 59 from deck 36
-player 36 discards a 77 to deck 37
-player 36 current hand is 36 36 46 59
-player 36 draws a 51 from deck 36
-player 36 discards a 46 to deck 37
-player 36 current hand is 36 36 59 51
-player 36 draws a 15 from deck 36
-player 36 discards a 59 to deck 37
-player 36 current hand is 36 36 51 15
+player 36 current hand is 228 97 120 104
+player 36 draws a 155 from deck 36
+player 36 discards a 228 to deck 37
+player 36 current hand is 97 120 104 155
+player 36 draws a 33 from deck 36
+player 36 discards a 97 to deck 37
+player 36 current hand is 120 104 155 33
+player 36 draws a 146 from deck 36
+player 36 discards a 120 to deck 37
+player 36 current hand is 104 155 33 146
+player 36 draws a 210 from deck 36
+player 36 discards a 104 to deck 37
+player 36 current hand is 155 33 146 210
+player 36 draws a 189 from deck 36
+player 36 discards a 155 to deck 37
+player 36 current hand is 33 146 210 189
+player 36 draws a 135 from deck 36
+player 36 discards a 33 to deck 37
+player 36 current hand is 146 210 189 135
+player 36 draws a 25 from deck 36
+player 36 discards a 146 to deck 37
+player 36 current hand is 210 189 135 25
+player 36 draws a 112 from deck 36
+player 36 discards a 210 to deck 37
+player 36 current hand is 189 135 25 112
+player 36 draws a 123 from deck 36
+player 36 discards a 189 to deck 37
+player 36 current hand is 135 25 112 123
+player 36 draws a 204 from deck 36
+player 36 discards a 135 to deck 37
+player 36 current hand is 25 112 123 204
+player 36 draws a 5 from deck 36
+player 36 discards a 25 to deck 37
+player 36 current hand is 112 123 204 5
+player 36 draws a 226 from deck 36
+player 36 discards a 112 to deck 37
+player 36 current hand is 123 204 5 226
+player 36 draws a 123 from deck 36
+player 36 discards a 123 to deck 37
+player 36 current hand is 204 5 226 123
+player 36 draws a 218 from deck 36
+player 36 discards a 204 to deck 37
+player 36 current hand is 5 226 123 218
+player 36 draws a 124 from deck 36
+player 36 discards a 5 to deck 37
+player 36 current hand is 226 123 218 124
+player 36 draws a 234 from deck 36
+player 36 discards a 226 to deck 37
+player 36 current hand is 123 218 124 234
+player 36 draws a 31 from deck 36
+player 36 discards a 123 to deck 37
+player 36 current hand is 218 124 234 31
+player 36 draws a 90 from deck 36
+player 36 discards a 218 to deck 37
+player 36 current hand is 124 234 31 90
+player 36 draws a 9 from deck 36
+player 36 discards a 124 to deck 37
+player 36 current hand is 234 31 90 9
+player 36 draws a 127 from deck 36
+player 36 discards a 234 to deck 37
+player 36 current hand is 31 90 9 127
+player 36 draws a 50 from deck 36
+player 36 discards a 31 to deck 37
+player 36 current hand is 90 9 127 50
+player 36 draws a 130 from deck 36
+player 36 discards a 90 to deck 37
+player 36 current hand is 9 127 50 130
+player 36 draws a 218 from deck 36
+player 36 discards a 9 to deck 37
+player 36 current hand is 127 50 130 218
+player 36 draws a 174 from deck 36
+player 36 discards a 127 to deck 37
+player 36 current hand is 50 130 218 174
+player 36 draws a 55 from deck 36
+player 36 discards a 50 to deck 37
+player 36 current hand is 130 218 174 55
+player 36 draws a 190 from deck 36
+player 36 discards a 130 to deck 37
+player 36 current hand is 218 174 55 190
+player 36 draws a 120 from deck 36
+player 36 discards a 218 to deck 37
+player 36 current hand is 174 55 190 120
+player 36 draws a 179 from deck 36
+player 36 discards a 174 to deck 37
+player 36 current hand is 55 190 120 179
+player 36 draws a 22 from deck 36
+player 36 discards a 55 to deck 37
+player 36 current hand is 190 120 179 22
+player 36 draws a 205 from deck 36
+player 36 discards a 190 to deck 37
+player 36 current hand is 120 179 22 205
+player 36 draws a 40 from deck 36
+player 36 discards a 120 to deck 37
+player 36 current hand is 179 22 205 40
+player 36 draws a 121 from deck 36
+player 36 discards a 179 to deck 37
+player 36 current hand is 22 205 40 121
+player 36 draws a 41 from deck 36
+player 36 discards a 22 to deck 37
+player 36 current hand is 205 40 121 41
+player 36 draws a 5 from deck 36
+player 36 discards a 205 to deck 37
+player 36 current hand is 40 121 41 5
+player 36 draws a 92 from deck 36
+player 36 discards a 40 to deck 37
+player 36 current hand is 121 41 5 92
+player 36 draws a 76 from deck 36
+player 36 discards a 121 to deck 37
+player 36 current hand is 41 5 92 76
 player 36 draws a 85 from deck 36
-player 36 discards a 51 to deck 37
-player 36 current hand is 36 36 15 85
-player 36 draws a 48 from deck 36
-player 36 discards a 15 to deck 37
-player 36 current hand is 36 36 85 48
+player 36 discards a 41 to deck 37
+player 36 current hand is 5 92 76 85
+player 36 draws a 196 from deck 36
+player 36 discards a 5 to deck 37
+player 36 current hand is 92 76 85 196
+player 36 draws a 230 from deck 36
+player 36 discards a 92 to deck 37
+player 36 current hand is 76 85 196 230
+player 36 draws a 174 from deck 36
+player 36 discards a 76 to deck 37
+player 36 current hand is 85 196 230 174
 player 36 draws a 59 from deck 36
 player 36 discards a 85 to deck 37
-player 36 current hand is 36 36 48 59
-player 36 draws a 50 from deck 36
-player 36 discards a 48 to deck 37
-player 36 current hand is 36 36 59 50
-player 36 draws a 68 from deck 36
+player 36 current hand is 196 230 174 59
+player 36 draws a 213 from deck 36
+player 36 discards a 196 to deck 37
+player 36 current hand is 230 174 59 213
+player 36 draws a 114 from deck 36
+player 36 discards a 230 to deck 37
+player 36 current hand is 174 59 213 114
+player 36 draws a 233 from deck 36
+player 36 discards a 174 to deck 37
+player 36 current hand is 59 213 114 233
+player 36 draws a 176 from deck 36
 player 36 discards a 59 to deck 37
-player 36 current hand is 36 36 50 68
-player 36 draws a 77 from deck 36
+player 36 current hand is 213 114 233 176
+player 36 draws a 56 from deck 36
+player 36 discards a 213 to deck 37
+player 36 current hand is 114 233 176 56
+player 36 draws a 24 from deck 36
+player 36 discards a 114 to deck 37
+player 36 current hand is 233 176 56 24
+player 36 draws a 133 from deck 36
+player 36 discards a 233 to deck 37
+player 36 current hand is 176 56 24 133
+player 36 draws a 62 from deck 36
+player 36 discards a 176 to deck 37
+player 36 current hand is 56 24 133 62
+player 36 draws a 237 from deck 36
+player 36 discards a 56 to deck 37
+player 36 current hand is 24 133 62 237
+player 36 draws a 48 from deck 36
+player 36 discards a 24 to deck 37
+player 36 current hand is 133 62 237 48
+player 36 draws a 130 from deck 36
+player 36 discards a 133 to deck 37
+player 36 current hand is 62 237 48 130
+player 36 draws a 86 from deck 36
+player 36 discards a 62 to deck 37
+player 36 current hand is 237 48 130 86
+player 36 draws a 177 from deck 36
+player 36 discards a 237 to deck 37
+player 36 current hand is 48 130 86 177
+player 36 draws a 195 from deck 36
+player 36 discards a 48 to deck 37
+player 36 current hand is 130 86 177 195
+player 36 draws a 4 from deck 36
+player 36 discards a 130 to deck 37
+player 36 current hand is 86 177 195 4
+player 36 draws a 51 from deck 36
+player 36 discards a 86 to deck 37
+player 36 current hand is 177 195 4 51
+player 36 draws a 235 from deck 36
+player 36 discards a 177 to deck 37
+player 36 current hand is 195 4 51 235
+player 36 draws a 55 from deck 36
+player 36 discards a 195 to deck 37
+player 36 current hand is 4 51 235 55
+player 36 draws a 188 from deck 36
+player 36 discards a 4 to deck 37
+player 36 current hand is 51 235 55 188
+player 36 draws a 116 from deck 36
+player 36 discards a 51 to deck 37
+player 36 current hand is 235 55 188 116
+player 36 draws a 180 from deck 36
+player 36 discards a 235 to deck 37
+player 36 current hand is 55 188 116 180
+player 36 draws a 188 from deck 36
+player 36 discards a 55 to deck 37
+player 36 current hand is 188 116 180 188
+player 36 draws a 228 from deck 36
+player 36 discards a 188 to deck 37
+player 36 current hand is 116 180 188 228
+player 36 draws a 215 from deck 36
+player 36 discards a 116 to deck 37
+player 36 current hand is 180 188 228 215
+player 36 draws a 158 from deck 36
+player 36 discards a 180 to deck 37
+player 36 current hand is 188 228 215 158
+player 36 draws a 82 from deck 36
+player 36 discards a 188 to deck 37
+player 36 current hand is 228 215 158 82
+player 36 draws a 57 from deck 36
+player 36 discards a 228 to deck 37
+player 36 current hand is 215 158 82 57
+player 36 draws a 202 from deck 36
+player 36 discards a 215 to deck 37
+player 36 current hand is 158 82 57 202
+player 36 draws a 133 from deck 36
+player 36 discards a 158 to deck 37
+player 36 current hand is 82 57 202 133
+player 36 draws a 47 from deck 36
+player 36 discards a 82 to deck 37
+player 36 current hand is 57 202 133 47
+player 36 draws a 112 from deck 36
+player 36 discards a 57 to deck 37
+player 36 current hand is 202 133 47 112
+player 36 draws a 67 from deck 36
+player 36 discards a 202 to deck 37
+player 36 current hand is 133 47 112 67
+player 36 draws a 65 from deck 36
+player 36 discards a 133 to deck 37
+player 36 current hand is 47 112 67 65
+player 36 draws a 232 from deck 36
+player 36 discards a 47 to deck 37
+player 36 current hand is 112 67 65 232
+player 36 draws a 17 from deck 36
+player 36 discards a 112 to deck 37
+player 36 current hand is 67 65 232 17
+player 36 draws a 52 from deck 36
+player 36 discards a 67 to deck 37
+player 36 current hand is 65 232 17 52
+player 36 draws a 108 from deck 36
+player 36 discards a 65 to deck 37
+player 36 current hand is 232 17 52 108
+player 36 draws a 141 from deck 36
+player 36 discards a 232 to deck 37
+player 36 current hand is 17 52 108 141
+player 36 draws a 140 from deck 36
+player 36 discards a 17 to deck 37
+player 36 current hand is 52 108 141 140
+player 36 draws a 190 from deck 36
+player 36 discards a 52 to deck 37
+player 36 current hand is 108 141 140 190
+player 36 draws a 57 from deck 36
+player 36 discards a 108 to deck 37
+player 36 current hand is 141 140 190 57
+player 36 draws a 159 from deck 36
+player 36 discards a 141 to deck 37
+player 36 current hand is 140 190 57 159
+player 36 draws a 151 from deck 36
+player 36 discards a 140 to deck 37
+player 36 current hand is 190 57 159 151
+player 36 draws a 178 from deck 36
+player 36 discards a 190 to deck 37
+player 36 current hand is 57 159 151 178
+player 36 draws a 16 from deck 36
+player 36 discards a 57 to deck 37
+player 36 current hand is 159 151 178 16
+player 36 draws a 63 from deck 36
+player 36 discards a 159 to deck 37
+player 36 current hand is 151 178 16 63
+player 36 draws a 211 from deck 36
+player 36 discards a 151 to deck 37
+player 36 current hand is 178 16 63 211
+player 36 draws a 139 from deck 36
+player 36 discards a 178 to deck 37
+player 36 current hand is 16 63 211 139
+player 36 draws a 186 from deck 36
+player 36 discards a 16 to deck 37
+player 36 current hand is 63 211 139 186
+player 36 draws a 133 from deck 36
+player 36 discards a 63 to deck 37
+player 36 current hand is 211 139 186 133
+player 36 draws a 148 from deck 36
+player 36 discards a 211 to deck 37
+player 36 current hand is 139 186 133 148
+player 36 draws a 99 from deck 36
+player 36 discards a 139 to deck 37
+player 36 current hand is 186 133 148 99
+player 36 draws a 110 from deck 36
+player 36 discards a 186 to deck 37
+player 36 current hand is 133 148 99 110
+player 36 draws a 13 from deck 36
+player 36 discards a 133 to deck 37
+player 36 current hand is 148 99 110 13
+player 36 draws a 137 from deck 36
+player 36 discards a 148 to deck 37
+player 36 current hand is 99 110 13 137
+player 36 draws a 103 from deck 36
+player 36 discards a 99 to deck 37
+player 36 current hand is 110 13 137 103
+player 36 draws a 164 from deck 36
+player 36 discards a 110 to deck 37
+player 36 current hand is 13 137 103 164
+player 36 draws a 229 from deck 36
+player 36 discards a 13 to deck 37
+player 36 current hand is 137 103 164 229
+player 36 draws a 153 from deck 36
+player 36 discards a 137 to deck 37
+player 36 current hand is 103 164 229 153
+player 36 draws a 167 from deck 36
+player 36 discards a 103 to deck 37
+player 36 current hand is 164 229 153 167
+player 36 draws a 222 from deck 36
+player 36 discards a 164 to deck 37
+player 36 current hand is 229 153 167 222
+player 36 draws a 107 from deck 36
+player 36 discards a 229 to deck 37
+player 36 current hand is 153 167 222 107
+player 36 draws a 109 from deck 36
+player 36 discards a 153 to deck 37
+player 36 current hand is 167 222 107 109
+player 36 draws a 152 from deck 36
+player 36 discards a 167 to deck 37
+player 36 current hand is 222 107 109 152
+player 36 draws a 72 from deck 36
+player 36 discards a 222 to deck 37
+player 36 current hand is 107 109 152 72
+player 36 draws a 201 from deck 36
+player 36 discards a 107 to deck 37
+player 36 current hand is 109 152 72 201
+player 36 draws a 52 from deck 36
+player 36 discards a 109 to deck 37
+player 36 current hand is 152 72 201 52
+player 36 draws a 120 from deck 36
+player 36 discards a 152 to deck 37
+player 36 current hand is 72 201 52 120
+player 36 draws a 164 from deck 36
+player 36 discards a 72 to deck 37
+player 36 current hand is 201 52 120 164
+player 36 draws a 143 from deck 36
+player 36 discards a 201 to deck 37
+player 36 current hand is 52 120 164 143
+player 36 draws a 227 from deck 36
+player 36 discards a 52 to deck 37
+player 36 current hand is 120 164 143 227
+player 36 draws a 78 from deck 36
+player 36 discards a 120 to deck 37
+player 36 current hand is 164 143 227 78
+player 36 draws a 9 from deck 36
+player 36 discards a 164 to deck 37
+player 36 current hand is 143 227 78 9
+player 36 draws a 50 from deck 36
+player 36 discards a 143 to deck 37
+player 36 current hand is 227 78 9 50
+player 36 draws a 40 from deck 36
+player 36 discards a 227 to deck 37
+player 36 current hand is 78 9 50 40
+player 36 draws a 66 from deck 36
+player 36 discards a 78 to deck 37
+player 36 current hand is 9 50 40 66
+player 36 draws a 15 from deck 36
+player 36 discards a 9 to deck 37
+player 36 current hand is 50 40 66 15
+player 36 draws a 172 from deck 36
 player 36 discards a 50 to deck 37
-player 36 current hand is 36 36 68 77
-player 36 draws a 96 from deck 36
-player 36 discards a 68 to deck 37
-player 36 current hand is 36 36 77 96
-player 36 draws a 49 from deck 36
-player 36 discards a 77 to deck 37
-player 36 current hand is 36 36 96 49
-player 36 draws a 89 from deck 36
-player 36 discards a 96 to deck 37
-player 36 current hand is 36 36 49 89
-player 36 draws a 64 from deck 36
-player 36 discards a 49 to deck 37
-player 36 current hand is 36 36 89 64
-player 36 draws a 57 from deck 36
-player 36 discards a 89 to deck 37
-player 36 current hand is 36 36 64 57
-player 36 draws a 38 from deck 36
-player 36 discards a 64 to deck 37
-player 36 current hand is 36 36 57 38
-player 36 draws a 84 from deck 36
-player 36 discards a 57 to deck 37
-player 36 current hand is 36 36 38 84
-player 36 draws a 12 from deck 36
-player 36 discards a 38 to deck 37
-player 36 current hand is 36 36 84 12
-player 36 draws a 92 from deck 36
-player 36 discards a 84 to deck 37
-player 36 current hand is 36 36 12 92
-player 36 draws a 44 from deck 36
-player 36 discards a 12 to deck 37
-player 36 current hand is 36 36 92 44
-player 36 draws a 57 from deck 36
-player 36 discards a 92 to deck 37
-player 36 current hand is 36 36 44 57
-player 36 draws a 14 from deck 36
-player 36 discards a 44 to deck 37
-player 36 current hand is 36 36 57 14
-player 36 draws a 83 from deck 36
-player 36 discards a 57 to deck 37
-player 36 current hand is 36 36 14 83
-player 54 has informed player 36 that player 54 has won
+player 36 current hand is 40 66 15 172
+player 36 draws a 194 from deck 36
+player 36 discards a 40 to deck 37
+player 36 current hand is 66 15 172 194
+player 36 draws a 218 from deck 36
+player 36 discards a 66 to deck 37
+player 36 current hand is 15 172 194 218
+player 36 draws a 133 from deck 36
+player 36 discards a 15 to deck 37
+player 36 current hand is 172 194 218 133
+player 36 draws a 227 from deck 36
+player 36 discards a 172 to deck 37
+player 36 current hand is 194 218 133 227
+player 36 draws a 197 from deck 36
+player 36 discards a 194 to deck 37
+player 36 current hand is 218 133 227 197
+player 36 draws a 74 from deck 36
+player 36 discards a 218 to deck 37
+player 36 current hand is 133 227 197 74
+player 36 draws a 67 from deck 36
+player 36 discards a 133 to deck 37
+player 36 current hand is 227 197 74 67
+player 36 draws a 65 from deck 36
+player 36 discards a 227 to deck 37
+player 36 current hand is 197 74 67 65
+player 36 draws a 48 from deck 36
+player 36 discards a 197 to deck 37
+player 36 current hand is 74 67 65 48
+player 36 draws a 145 from deck 36
+player 36 discards a 74 to deck 37
+player 36 current hand is 67 65 48 145
+player 36 draws a 188 from deck 36
+player 36 discards a 67 to deck 37
+player 36 current hand is 65 48 145 188
+player 87 has informed player 36 that player 87 has won
 player 36 exits
-player 36 hand: 36 36 14 83
+player 36 hand: 65 48 145 188

@@ -1,0 +1,4 @@
+player 218 initial hand 116 65 202 82
+player 87 has informed player 218 that player 87 has won
+player 218 exits
+player 218 hand: 116 65 202 82

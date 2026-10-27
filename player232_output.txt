@@ -1,0 +1,4 @@
+player 232 initial hand 79 132 33 220
+player 87 has informed player 232 that player 87 has won
+player 232 exits
+player 232 hand: 79 132 33 220
