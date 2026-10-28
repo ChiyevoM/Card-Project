@@ -1,4 +1,0 @@
-player 180 initial hand 180 199 10 224
-player 87 has informed player 180 that player 87 has won
-player 180 exits
-player 180 hand: 180 199 10 224

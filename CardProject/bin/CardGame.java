@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-import java.util.concurrent.atomic.AtomicInteger; // 1. Added Import
+import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * CardGame.java
@@ -17,7 +17,7 @@ public class CardGame {
     private final List<Card> pack;
     private final List<Player> players;
     private final List<CardDeck> decks;
-    private final AtomicInteger sharedWinner; // 2. Added Shared Variable
+    private final AtomicInteger sharedWinner;
 
     public CardGame(int numPlayers, String packFilePath) throws IOException, IllegalArgumentException {
         if (numPlayers <= 0) {
@@ -27,7 +27,7 @@ public class CardGame {
         this.pack = loadAndValidatePack(packFilePath, numPlayers);
         this.players = new ArrayList<>();
         this.decks = new ArrayList<>();
-        this.sharedWinner = new AtomicInteger(0); // 3. Initialized to 0
+        this.sharedWinner = new AtomicInteger(0);
     }
 
     public static List<Card> loadAndValidatePack(String filePath, int n) throws IOException, IllegalArgumentException {
@@ -74,7 +74,6 @@ public class CardGame {
         for (int i = 1; i <= numPlayers; i++) {
             CardDeck leftDeck = decks.get(i - 1);
             CardDeck rightDeck = decks.get(i % numPlayers);
-            // 4. Passed sharedWinner into the Player constructor
             players.add(new Player(i, leftDeck, rightDeck, sharedWinner)); 
         }
         
@@ -110,7 +109,6 @@ public class CardGame {
             }
         }
         
-        // 5. Added the final win announcement
         System.out.println("Game over. Player " + sharedWinner.get() + " wins!");
     }
 
@@ -120,6 +118,24 @@ public class CardGame {
 
     public List<CardDeck> getDecks() {
         return decks;
+    }
+
+    /**
+     * Automatically cleans up any old player and deck output files 
+     * from previous simulation runs to prevent workspace clutter.
+     */
+    private static void cleanupOldOutputFiles() {
+        File dir = new File(".");
+        File[] oldFiles = dir.listFiles((d, name) -> 
+            (name.startsWith("player") && name.endsWith("_output.txt")) ||
+            (name.startsWith("deck") && name.endsWith("_output.txt"))
+        );
+        
+        if (oldFiles != null) {
+            for (File file : oldFiles) {
+                file.delete();
+            }
+        }
     }
 
     public static void main(String[] args) {
@@ -162,7 +178,9 @@ public class CardGame {
         }
 
         try {
-            // Note: I removed Player.resetGameWon() here because we are using AtomicInteger now instead!
+            // Automatically clean up old output files from previous runs before starting
+            cleanupOldOutputFiles();
+
             CardGame game = new CardGame(n, filePath);
             game.setupGame();
             System.out.println("Game setup successful. Starting multithreaded simulation...");

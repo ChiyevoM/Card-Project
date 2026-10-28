@@ -1,4 +1,0 @@
-player 96 initial hand 12 231 26 115
-player 87 has informed player 96 that player 87 has won
-player 96 exits
-player 96 hand: 12 231 26 115

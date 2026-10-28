@@ -1,4 +1,0 @@
-player 157 initial hand 234 95 14 147
-player 87 has informed player 157 that player 87 has won
-player 157 exits
-player 157 hand: 234 95 14 147

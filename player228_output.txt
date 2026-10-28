@@ -1,4 +1,0 @@
-player 228 initial hand 135 237 8 59
-player 87 has informed player 228 that player 87 has won
-player 228 exits
-player 228 hand: 135 237 8 59

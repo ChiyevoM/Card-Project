@@ -1,4 +1,0 @@
-player 217 initial hand 232 43 206 150
-player 87 has informed player 217 that player 87 has won
-player 217 exits
-player 217 hand: 232 43 206 150

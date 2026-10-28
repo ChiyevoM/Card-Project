@@ -1,4 +1,0 @@
-player 130 initial hand 212 229 92 41
-player 87 has informed player 130 that player 87 has won
-player 130 exits
-player 130 hand: 212 229 92 41

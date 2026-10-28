@@ -1,4 +1,0 @@
-player 185 initial hand 153 122 29 73
-player 87 has informed player 185 that player 87 has won
-player 185 exits
-player 185 hand: 153 122 29 73

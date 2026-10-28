@@ -1,4 +1,0 @@
-player 222 initial hand 13 223 2 15
-player 87 has informed player 222 that player 87 has won
-player 222 exits
-player 222 hand: 13 223 2 15

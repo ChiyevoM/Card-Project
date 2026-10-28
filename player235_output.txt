@@ -1,4 +1,0 @@
-player 235 initial hand 231 21 77 62
-player 87 has informed player 235 that player 87 has won
-player 235 exits
-player 235 hand: 231 21 77 62

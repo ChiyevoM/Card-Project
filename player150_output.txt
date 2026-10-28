@@ -1,4 +1,0 @@
-player 150 initial hand 1 15 121 3
-player 87 has informed player 150 that player 87 has won
-player 150 exits
-player 150 hand: 1 15 121 3

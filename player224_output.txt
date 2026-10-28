@@ -1,4 +1,0 @@
-player 224 initial hand 181 98 37 112
-player 87 has informed player 224 that player 87 has won
-player 224 exits
-player 224 hand: 181 98 37 112

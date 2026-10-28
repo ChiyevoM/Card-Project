@@ -1,4 +1,0 @@
-player 174 initial hand 9 56 103 70
-player 87 has informed player 174 that player 87 has won
-player 174 exits
-player 174 hand: 9 56 103 70

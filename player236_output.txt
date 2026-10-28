@@ -1,4 +1,0 @@
-player 236 initial hand 120 18 1 16
-player 87 has informed player 236 that player 87 has won
-player 236 exits
-player 236 hand: 120 18 1 16

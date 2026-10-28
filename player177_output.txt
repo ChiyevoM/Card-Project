@@ -1,4 +1,0 @@
-player 177 initial hand 77 39 28 7
-player 87 has informed player 177 that player 87 has won
-player 177 exits
-player 177 hand: 77 39 28 7

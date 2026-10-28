@@ -1,4 +1,0 @@
-player 210 initial hand 201 90 167 174
-player 87 has informed player 210 that player 87 has won
-player 210 exits
-player 210 hand: 201 90 167 174

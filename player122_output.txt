@@ -1,4 +1,0 @@
-player 122 initial hand 92 103 31 206
-player 87 has informed player 122 that player 87 has won
-player 122 exits
-player 122 hand: 92 103 31 206

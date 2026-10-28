@@ -1,4 +1,0 @@
-player 126 initial hand 40 7 51 14
-player 87 has informed player 126 that player 87 has won
-player 126 exits
-player 126 hand: 40 7 51 14

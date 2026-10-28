@@ -1,0 +1,103 @@
+player 11 initial hand 7 8 15 11
+player 11 draws a 4 from deck 11
+player 11 discards a 7 to deck 12
+player 11 current hand is 8 15 11 4
+player 11 draws a 11 from deck 11
+player 11 discards a 8 to deck 12
+player 11 current hand is 15 11 4 11
+player 11 draws a 6 from deck 11
+player 11 discards a 15 to deck 12
+player 11 current hand is 11 4 11 6
+player 11 draws a 4 from deck 11
+player 11 discards a 4 to deck 12
+player 11 current hand is 11 11 6 4
+player 11 draws a 3 from deck 11
+player 11 discards a 6 to deck 12
+player 11 current hand is 11 11 4 3
+player 11 draws a 2 from deck 11
+player 11 discards a 4 to deck 12
+player 11 current hand is 11 11 3 2
+player 11 draws a 15 from deck 11
+player 11 discards a 3 to deck 12
+player 11 current hand is 11 11 2 15
+player 11 draws a 5 from deck 11
+player 11 discards a 2 to deck 12
+player 11 current hand is 11 11 15 5
+player 11 draws a 5 from deck 11
+player 11 discards a 15 to deck 12
+player 11 current hand is 11 11 5 5
+player 11 draws a 4 from deck 11
+player 11 discards a 5 to deck 12
+player 11 current hand is 11 11 5 4
+player 11 draws a 13 from deck 11
+player 11 discards a 5 to deck 12
+player 11 current hand is 11 11 4 13
+player 11 draws a 9 from deck 11
+player 11 discards a 4 to deck 12
+player 11 current hand is 11 11 13 9
+player 11 draws a 8 from deck 11
+player 11 discards a 13 to deck 12
+player 11 current hand is 11 11 9 8
+player 11 draws a 7 from deck 11
+player 11 discards a 9 to deck 12
+player 11 current hand is 11 11 8 7
+player 11 draws a 14 from deck 11
+player 11 discards a 8 to deck 12
+player 11 current hand is 11 11 7 14
+player 11 draws a 12 from deck 11
+player 11 discards a 7 to deck 12
+player 11 current hand is 11 11 14 12
+player 11 draws a 3 from deck 11
+player 11 discards a 14 to deck 12
+player 11 current hand is 11 11 12 3
+player 11 draws a 7 from deck 11
+player 11 discards a 12 to deck 12
+player 11 current hand is 11 11 3 7
+player 11 draws a 5 from deck 11
+player 11 discards a 3 to deck 12
+player 11 current hand is 11 11 7 5
+player 11 draws a 11 from deck 11
+player 11 discards a 7 to deck 12
+player 11 current hand is 11 11 5 11
+player 11 draws a 17 from deck 11
+player 11 discards a 5 to deck 12
+player 11 current hand is 11 11 11 17
+player 11 draws a 5 from deck 11
+player 11 discards a 17 to deck 12
+player 11 current hand is 11 11 11 5
+player 11 draws a 17 from deck 11
+player 11 discards a 5 to deck 12
+player 11 current hand is 11 11 11 17
+player 11 draws a 1 from deck 11
+player 11 discards a 17 to deck 12
+player 11 current hand is 11 11 11 1
+player 11 draws a 13 from deck 11
+player 11 discards a 1 to deck 12
+player 11 current hand is 11 11 11 13
+player 11 draws a 15 from deck 11
+player 11 discards a 13 to deck 12
+player 11 current hand is 11 11 11 15
+player 11 draws a 3 from deck 11
+player 11 discards a 15 to deck 12
+player 11 current hand is 11 11 11 3
+player 11 draws a 6 from deck 11
+player 11 discards a 3 to deck 12
+player 11 current hand is 11 11 11 6
+player 11 draws a 5 from deck 11
+player 11 discards a 6 to deck 12
+player 11 current hand is 11 11 11 5
+player 11 draws a 6 from deck 11
+player 11 discards a 5 to deck 12
+player 11 current hand is 11 11 11 6
+player 11 draws a 17 from deck 11
+player 11 discards a 6 to deck 12
+player 11 current hand is 11 11 11 17
+player 11 draws a 14 from deck 11
+player 11 discards a 17 to deck 12
+player 11 current hand is 11 11 11 14
+player 11 draws a 17 from deck 11
+player 11 discards a 14 to deck 12
+player 11 current hand is 11 11 11 17
+player 1 has informed player 11 that player 1 has won
+player 11 exits
+player 11 hand: 11 11 11 17

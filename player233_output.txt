@@ -1,4 +1,0 @@
-player 233 initial hand 16 138 133 188
-player 87 has informed player 233 that player 87 has won
-player 233 exits
-player 233 hand: 16 138 133 188

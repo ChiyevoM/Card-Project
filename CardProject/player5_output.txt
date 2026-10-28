@@ -1,0 +1,82 @@
+player 5 initial hand 5 12 16 4
+player 5 draws a 12 from deck 5
+player 5 discards a 12 to deck 6
+player 5 current hand is 5 16 4 12
+player 5 draws a 14 from deck 5
+player 5 discards a 16 to deck 6
+player 5 current hand is 5 4 12 14
+player 5 draws a 10 from deck 5
+player 5 discards a 4 to deck 6
+player 5 current hand is 5 12 14 10
+player 5 draws a 14 from deck 5
+player 5 discards a 12 to deck 6
+player 5 current hand is 5 14 10 14
+player 5 draws a 17 from deck 5
+player 5 discards a 14 to deck 6
+player 5 current hand is 5 10 14 17
+player 5 draws a 10 from deck 5
+player 5 discards a 10 to deck 6
+player 5 current hand is 5 14 17 10
+player 5 draws a 10 from deck 5
+player 5 discards a 14 to deck 6
+player 5 current hand is 5 17 10 10
+player 5 draws a 13 from deck 5
+player 5 discards a 17 to deck 6
+player 5 current hand is 5 10 10 13
+player 5 draws a 9 from deck 5
+player 5 discards a 10 to deck 6
+player 5 current hand is 5 10 13 9
+player 5 draws a 1 from deck 5
+player 5 discards a 10 to deck 6
+player 5 current hand is 5 13 9 1
+player 5 draws a 12 from deck 5
+player 5 discards a 13 to deck 6
+player 5 current hand is 5 9 1 12
+player 5 draws a 9 from deck 5
+player 5 discards a 9 to deck 6
+player 5 current hand is 5 1 12 9
+player 5 draws a 2 from deck 5
+player 5 discards a 1 to deck 6
+player 5 current hand is 5 12 9 2
+player 5 draws a 12 from deck 5
+player 5 discards a 12 to deck 6
+player 5 current hand is 5 9 2 12
+player 5 draws a 12 from deck 5
+player 5 discards a 9 to deck 6
+player 5 current hand is 5 2 12 12
+player 5 draws a 6 from deck 5
+player 5 discards a 2 to deck 6
+player 5 current hand is 5 12 12 6
+player 5 draws a 15 from deck 5
+player 5 discards a 12 to deck 6
+player 5 current hand is 5 12 6 15
+player 5 draws a 16 from deck 5
+player 5 discards a 12 to deck 6
+player 5 current hand is 5 6 15 16
+player 5 draws a 11 from deck 5
+player 5 discards a 6 to deck 6
+player 5 current hand is 5 15 16 11
+player 5 draws a 10 from deck 5
+player 5 discards a 15 to deck 6
+player 5 current hand is 5 16 11 10
+player 5 draws a 15 from deck 5
+player 5 discards a 16 to deck 6
+player 5 current hand is 5 11 10 15
+player 5 draws a 15 from deck 5
+player 5 discards a 11 to deck 6
+player 5 current hand is 5 10 15 15
+player 5 draws a 5 from deck 5
+player 5 discards a 10 to deck 6
+player 5 current hand is 5 15 15 5
+player 5 draws a 1 from deck 5
+player 5 discards a 15 to deck 6
+player 5 current hand is 5 15 5 1
+player 5 draws a 10 from deck 5
+player 5 discards a 15 to deck 6
+player 5 current hand is 5 5 1 10
+player 5 draws a 13 from deck 5
+player 5 discards a 1 to deck 6
+player 5 current hand is 5 5 10 13
+player 1 has informed player 5 that player 1 has won
+player 5 exits
+player 5 hand: 5 5 10 13

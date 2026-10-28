@@ -1,4 +1,0 @@
-player 216 initial hand 6 95 200 237
-player 87 has informed player 216 that player 87 has won
-player 216 exits
-player 216 hand: 6 95 200 237

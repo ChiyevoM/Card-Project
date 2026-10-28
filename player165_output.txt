@@ -1,4 +1,0 @@
-player 165 initial hand 35 154 86 80
-player 87 has informed player 165 that player 87 has won
-player 165 exits
-player 165 hand: 35 154 86 80

@@ -1,4 +1,0 @@
-player 98 initial hand 29 206 37 142
-player 87 has informed player 98 that player 87 has won
-player 98 exits
-player 98 hand: 29 206 37 142
