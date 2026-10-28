@@ -109,6 +109,11 @@ public class CardGame {
             }
         }
         
+        // Write out final deck state files for all decks once the game finishes
+        for (CardDeck deck : decks) {
+            deck.writeDeckOutputFile();
+        }
+
         System.out.println("Game over. Player " + sharedWinner.get() + " wins!");
     }
 
@@ -121,8 +126,8 @@ public class CardGame {
     }
 
     /**
-     * Automatically cleans up any old player and deck output files 
-     * from previous simulation runs to prevent workspace clutter.
+     * Thoroughly cleans up ALL old player and deck output files 
+     * from previous simulation runs to prevent stale residues.
      */
     private static void cleanupOldOutputFiles() {
         File dir = new File(".");
@@ -178,7 +183,7 @@ public class CardGame {
         }
 
         try {
-            // Automatically clean up old output files from previous runs before starting
+            // Clean up old output files from previous runs unconditionally
             cleanupOldOutputFiles();
 
             CardGame game = new CardGame(n, filePath);
