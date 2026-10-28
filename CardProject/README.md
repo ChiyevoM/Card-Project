@@ -1,29 +1,23 @@
-# Multi-Threaded Card Game Simulation
-
-A concurrent Java simulation modeling a card game structured around a ring topology. In this simulation, $n$ players and $n$ card decks alternate in a circular arrangement. Each player operates on an independent thread, concurrently drawing from their left deck, checking for a winning hand of 4 matching cards, and discarding to their right deck.
-
-## Project Structure
-
-```text
-cardsTest/
-├── src/                  # Production source code
+Multi-Threaded Card Game SimulationA concurrent Java simulation modeling a card game structured around a ring topology. In this simulation, $n$ players and $n$ card decks alternate in a circular arrangement. Each player operates on an independent thread, concurrently drawing from their left deck, checking for a winning hand of 4 matching cards, and discarding to their right deck.Project StructurePlaintextcardsTest/
+├── src/
 │   ├── Card.java
 │   ├── CardDeck.java
 │   ├── CardGame.java
 │   ├── PackGenerator.java
 │   └── Player.java
-├── test/                 # JUnit test suite
-│   ├── CardTest.java
+├── test/
 │   ├── CardDeckTest.java
-│   ├── PlayerTest.java
-│   ├── CardGameTest.java
 │   ├── CardGameStressTest.java
-│   └── ...
-├── lib/                  # External dependencies (JUnit standalone runner)
+│   ├── CardGameTest.java
+│   ├── CardTest.java
+│   ├── CardTestSuite.java
+│   ├── PlayerTest.java
+│   └── TestSession1.java
+├── lib/
 │   └── junit-platform-console-standalone.jar
-├── test-pack/            # Sample valid and invalid pack files
-│   ├── valid_pack_4players.txt
-│   └── invalid_pack.txt
+├── test-pack/
+│   ├── invalid_pack.txt
+│   └── valid_pack_4players.txt
 └── README.md
 PrerequisitesJava Development Kit (JDK 8 or higher) installed and added to your system path.A terminal or command-line interface.Building and Packaging (cards.jar)To compile the source code from scratch and build the executable JAR file (cards.jar), run the following commands from the project root directory:Bash# 1. Create the compilation output directory
 mkdir -p bin
